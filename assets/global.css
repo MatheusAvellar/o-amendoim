@@ -1,0 +1,237 @@
+::-moz-selection {
+  background: #f0d342;
+  color: #000;
+}
+::selection {
+  background: #f0d342;
+  color: #000;
+}
+
+body {
+  margin: 0;
+  overflow-y: scroll;
+  background-color: #fefefe;
+  color: #444;
+}
+/* Set font for headings */
+h1,h2,h3,h4,h5,h6 {
+  font-family: "IBM Plex Serif", serif;
+  line-height: 1.1;
+}
+p {
+  line-height: 1.1;
+}
+strong {
+  font-weight: 500;
+}
+h3 > a, h3 > a:visited {
+  color: #434343;
+}
+h3 > a:hover {
+  color: #111;
+}
+a[href] {
+  font-weight: 500;
+}
+/* Padding on all pages' content */
+.page-content {
+  padding: 3em 0;
+}
+.site-header {
+  border: 0;
+}
+
+/*---------------  TAGS  ---------------*/
+/* Tag name */
+h2.tag-name {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 24px;
+}
+h2.tag-name::before {
+  content: "#";
+  color: #bfbfbf;
+}
+.tag-list {
+  list-style: none;
+  margin-left: 1.5em;
+}
+.tag-item .info-tagged-wrapper {
+  width: calc(100% - 9em);
+  display: inline-block;
+  vertical-align: top;
+}
+.dt-tagged-wrapper {
+  text-align: right;
+  display: inline-block;
+  width: 7em;
+  margin-right: 1em;
+}
+.post-meta small {
+  font-size: 75%;
+}
+/*---------------  HOME  ---------------*/
+/* Post title */
+.post-link {
+  font-size: 2em;
+  letter-spacing: -1px;
+  line-height: .75;
+}
+/* Post language */
+.post-lang {
+  color: #828282;
+}
+.post-lang::before {
+  content: "•";
+}
+/* Style post categories*/
+p.post-categories {
+  margin: 0;
+}
+span.post-category {
+  font-size: 70%;
+  padding: .3em .6em;
+  color: #111;
+  background-color: #e8e8e8;
+  margin-right: .5em;
+  border-radius: 3px;
+}
+/* Remove ugly underline from title */
+.site-title {
+  text-decoration: none !important;
+  font-size: 2rem;
+}
+h1.page-heading {
+  font-size: 0;
+  height: 5rem;
+  margin-bottom: 5rem;
+  margin-top: -6rem;
+}
+.site-title, h1.page-heading {
+  background-image: url(./title.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 0 center;
+  color: transparent;
+}
+.site-title:hover {
+  color: transparent;
+}
+/* Info about post */
+.post-meta {
+  margin-bottom: .5rem;
+}
+/* Add divisors on posts on home */
+.post-list > li:not(:last-of-type) {
+  margin-bottom: 3.5em;
+  padding-bottom: 3.5em;
+  border-bottom: 2px solid #e8e8e8;
+}
+/* Customize excerpt */
+.post-excerpt {
+  color: #828282;
+}
+
+/*---------------  POST  ---------------*/
+/* Disclaimer before post */
+p.post-disclaimer {
+  position: relative;
+  padding: .5em 2.5em;
+  border: 1px solid;
+  color: darkcyan;
+  border-radius: 3px;
+}
+p.post-disclaimer a[href] {
+  text-decoration: underline;
+}
+p.post-disclaimer::before {
+  content: "";
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path fill='darkcyan' d='M13,9H11V7H13M13,17H11V11H13M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2Z'/></svg>");
+  position: absolute;
+  height: 24px;
+  width: 24px;
+  left: .5em;
+}
+/* Customize "Edited on" blurb */
+.dt-edited-wrapper {
+  display: block;
+  font-style: italic;
+  font-size: 80%;
+}
+/* Customize <hr> because minima's is awful*/
+hr {
+  overflow: visible;
+  height: 1px;
+  background-color: #e8e8e8;
+  border: none;
+  outline: none;
+  margin: 3em;
+  position: relative;
+}
+hr::before {
+  content: "×";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 2em;
+  height: 2em;
+  transform: translate(-50%, -50%);
+  color: #ababab;
+  background-color: #fdfdfd;
+  vertical-align: middle;
+  line-height: 1.9em;
+  font-weight: lighter;
+  text-align: center;
+  font-family: inherit;
+}
+/* Horizontally align images on post */
+.post-content p img {
+  display: block;
+  margin: 0 auto;
+}
+figure {
+  text-align: center;
+}
+figure img {
+  max-height: 40rem;
+  display: inline-block;
+}
+/* ---   Image captions    --- */
+figcaption, img + em {
+  color: #828282;
+  margin: 0.5em 0;
+  display: block;
+  text-align: center;
+}
+/* --- Open in new tab SVG --- */
+svg.a_blank {
+  width: 1em;
+  fill: #8c8c8c;
+  vertical-align: baseline;
+  transform: translateY(3px);
+  margin-left: 3px;
+}
+[href]:hover > svg.a_blank {
+  fill: #111;
+}
+/* --- + --- + --- + --- + --- */
+
+
+/*--------------- FOOTER ---------------*/
+/* Mirror header border color on footer */
+.site-footer {
+  background-color: #22252d;
+  color: #efefef;
+}
+.site-footer .footer-col-wrapper {
+  color: #b3b3b3;
+}
+.site-footer a[href] {
+  color: #e8e8e8;
+}
+/* Properly align svg's on <footer> */
+.svg-icon {
+  margin-top: -3px;
+  vertical-align: middle;
+  fill: #e8e8e8;
+}
+/* --- + --- + ------------ + --- + --- */

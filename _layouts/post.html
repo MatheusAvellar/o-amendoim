@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">
+      {{ page.title | escape }}
+    </h1>
+    <p class="post-meta">
+      <span class="dt-published-wrapper">
+        Postado em
+        <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          {{ page.date | date: date_format }}
+        </time>
+      </span>
+        •
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <span class="p-author h-card" itemprop="name">
+          {%- if page.author -%}
+            por {{ page.author }}
+          {%- else -%}
+            por Matheus Avellar
+          {%- endif -%}
+        </span>
+      </span>
+      {%- if page.edit -%}
+      <span class="dt-edited-wrapper">
+        Editado em
+        <time class="dt-edited" datetime="{{ page.edit | date_to_xmlschema }}" itemprop="datePublished">
+          {{ page.edit | date: date_format }}
+        </time>
+      </span>
+      {%- endif -%}
+    </p>
+  </header>
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

@@ -1,0 +1,46 @@
+---
+layout: default
+lang: "en"
+---
+<div class="home">
+  <h1 class="page-heading">O Amendoim</h1>
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    {%- if page.list_title == "Posts" -%}
+      <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    {%- endif -%}
+    <ul class="post-list">
+      <!-- reverse sort by date -->
+      {% assign sortedposts = site.posts | sort: "date" | reverse %}
+      {%- for post in sortedposts -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <p class="post-meta">
+          <span class="dt-published-wrapper">
+            <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+              {{ post.date | date: date_format }}
+            </time>
+          </span>
+        </p>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts and post.excerpt -%}
+          <p class="post-excerpt">
+            {{ post.excerpt }}
+          </p>
+        {%- endif -%}
+        <p class="post-categories">
+          {%- for cat in post.categories -%}
+            <span class="post-category">{{ cat | escape }}</span>
+          {%- endfor -%}
+        </p>
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+</div>
