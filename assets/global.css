@@ -103,6 +103,7 @@ span.post-category {
 h1.page-heading {
   font-size: 0;
   height: 5rem;
+  max-width: 70vw;
   margin-bottom: 5rem;
   margin-top: -6rem;
 }
@@ -201,6 +202,7 @@ figcaption, img + em {
   margin: 0.5em 0;
   display: block;
   text-align: center;
+  line-height: 1.1;
 }
 /* --- Open in new tab SVG --- */
 svg.a_blank {
