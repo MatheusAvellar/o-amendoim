@@ -11,7 +11,7 @@ body {
   margin: 0;
   overflow-y: scroll;
   background-color: #fefefe;
-  color: #444;
+  color: #333;
 }
 /* Set font for headings */
 h1,h2,h3,h4,h5,h6 {
@@ -20,11 +20,19 @@ h1,h2,h3,h4,h5,h6 {
 }
 p {
   line-height: 1.1;
+  font-size: 115%;
+}
+.post-header, .post-content p {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
 }
 strong {
   font-weight: 500;
 }
-h3 > a, h3 > a:visited {
+h3 > a[href],
+h3 > a[href]:visited,
+h3 > a[href]:hover {
   color: #434343;
 }
 h3 > a:hover {
@@ -32,6 +40,9 @@ h3 > a:hover {
 }
 a[href] {
   font-weight: 500;
+}
+a[href]:hover {
+  color: #1756a9;
 }
 /* Padding on all pages' content */
 .page-content {
@@ -96,9 +107,10 @@ span.post-category {
   border-radius: 3px;
 }
 /* Remove ugly underline from title */
-.site-title {
-  text-decoration: none !important;
+a[href].site-title  {
   font-size: 2rem;
+  color: transparent !important;
+  text-decoration: none !important;
 }
 h1.page-heading {
   font-size: 0;
@@ -152,11 +164,16 @@ p.post-disclaimer::before {
   width: 24px;
   left: .5em;
 }
+/* Author color */
+.p-author {
+  color: #444;
+}
 /* Customize "Edited on" blurb */
 .dt-edited-wrapper {
   display: block;
   font-style: italic;
   font-size: 80%;
+  margin-top: 4px;
 }
 /* Customize <hr> because minima's is awful*/
 hr {
@@ -191,18 +208,41 @@ hr::before {
 }
 figure {
   text-align: center;
+  margin: 3rem 0;
 }
 figure img {
   max-height: 40rem;
   display: inline-block;
+  border: 2px solid #eee;
+  border-radius: 6px;
+  box-shadow: 5px 5px 10px 0 #ececec;
+}
+@media screen and (min-width: 500px) {
+  figure.side img {
+    max-width: 60%;
+  }
 }
 /* ---   Image captions    --- */
-figcaption, img + em {
+figcaption {
   color: #828282;
-  margin: 0.5em 0;
+  margin: 1em 0;
   display: block;
   text-align: center;
   line-height: 1.1;
+}
+@media screen and (max-width: 500px) {
+  figcaption {
+    margin: 1em;
+  }
+}
+@media screen and (min-width: 500px) {
+  figure.side figcaption {
+    display: inline-block;
+    text-align: left;
+    margin: 1em;
+    vertical-align: bottom;
+    width: 30%;
+  }
 }
 /* --- Open in new tab SVG --- */
 svg.a_blank {

@@ -27,7 +27,6 @@ tudo aqui é puramente _minha opinião_. Não tem embasamento nenhum.
 
 Ok, hora da história.
 
-<!-- more -->
 ---
 
 Recentemente, eu tive a incrível oportunidade de visitar o
@@ -68,13 +67,13 @@ das "obras preguiçosas", um quadro inteiramente branco (com algumas linhas
 horizontais, quase invisíveis, também em tons de branco) eu fiz questão de parar
 e tirar uma foto.
 
-<figure>
+<figure class="side">
   <img alt="Eu, em pé, com pose pensativa, em frente a um quadro em branco"
    src="/assets/img/2020-04-15-photo.jpg">
   <figcaption>
     <em>
       Eu analisando sarcasticamente um quadro inteiramente branco ("B-11
-      MAI/68" - <a href="https://en.wikipedia.org/wiki/Yves_Gaucher">Gaucher</a>,
+      MAI/68" – <a href="https://en.wikipedia.org/wiki/Yves_Gaucher">Gaucher</a>,
       1968).
     </em>
   </figcaption>

@@ -16,13 +16,13 @@ layout: default
       </span>
         •
       <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-        <span class="p-author h-card" itemprop="name">
+        por <strong class="p-author h-card" itemprop="name">
           {%- if page.author -%}
-            por {{ page.author }}
+            {{ page.author }}
           {%- else -%}
-            por Matheus Avellar
+            Matheus Avellar
           {%- endif -%}
-        </span>
+        </strong>
       </span>
       {%- if page.edit -%}
       <span class="dt-edited-wrapper">
