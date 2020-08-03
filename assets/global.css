@@ -12,22 +12,20 @@ body {
   overflow-y: scroll;
   background-color: #fefefe;
   color: #333;
+  counter-reset: heading2;
 }
 /* Set font for headings */
 h1,h2,h3,h4,h5,h6 {
   font-family: "IBM Plex Serif", serif;
   line-height: 1.1;
 }
-p {
-  line-height: 1.1;
-  font-size: 115%;
+main p,
+main ul,
+main ol {
+  line-height: 1.2;
+  font-size: 1.15rem;
 }
-.post-header, .post-content p {
-  max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
-}
-strong {
+b,strong {
   font-weight: 500;
 }
 h3 > a[href],
@@ -44,12 +42,44 @@ a[href] {
 a[href]:hover {
   color: #1756a9;
 }
+.post-header,
+.post-content p,
+.post-content ul,
+.post-content ol,
+.post-content blockquote,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6 {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.post-content blockquote {
+  color: #4a4a4a;
+  padding-left: 2rem;
+  font-size: inherit;
+  letter-spacing: inherit;
+  font-style: inherit;
+}
+.post-content .note {
+  border: 1px solid #eee;
+  border-radius: 3px;
+  font-size: 90%;
+  padding: 0.75rem 1rem;
+}
 /* Padding on all pages' content */
 .page-content {
   padding: 3em 0;
 }
 .site-header {
   border: 0;
+}
+@media screen and (max-width: 700px) {
+  .post-content ul, .post-content ol {
+    margin-left: 1.5rem;
+  }
 }
 
 /*---------------  TAGS  ---------------*/
@@ -85,7 +115,7 @@ h2.tag-name::before {
 .post-link {
   font-size: 2em;
   letter-spacing: -1px;
-  line-height: .75;
+  line-height: .95;
 }
 /* Post language */
 .post-lang {
@@ -175,6 +205,40 @@ p.post-disclaimer::before {
   font-size: 80%;
   margin-top: 4px;
 }
+/* Heading numbers */
+.blog-post h2 {
+  counter-increment: heading2;
+  counter-reset: heading3;
+}
+.blog-post h3 {
+  counter-increment: heading3;
+  counter-reset: heading4;
+}
+.blog-post h4 {
+  counter-increment: heading4;
+}
+.blog-post h2::before {
+  content: counter(heading2) ". ";
+  font-size: 50%;
+}
+.blog-post h3::before {
+  content: counter(heading2) "." counter(heading3) ". ";
+  font-size: 50%;
+}
+.blog-post h4::before {
+  content: counter(heading2) "." counter(heading3) "." counter(heading4) ". ";
+  font-size: 50%;
+}
+.blog-post h5 {
+  margin-top: 2.2rem;
+  font-size: 1.1rem;
+  font-family: inherit;
+  font-weight: 500;
+}
+.blog-post .hidden {
+  visibility: hidden;
+  font-size: 0;
+}
 /* Customize <hr> because minima's is awful*/
 hr {
   overflow: visible;
@@ -217,6 +281,12 @@ figure img {
   border-radius: 6px;
   box-shadow: 5px 5px 10px 0 #ececec;
 }
+figure.top    { margin: 3rem 0 1rem; }
+figure.bottom { margin: 1rem 0 3rem; }
+figure.left { text-align: left; }
+figure img + img {
+  margin-top: 0.75rem;
+}
 @media screen and (min-width: 500px) {
   figure.side img {
     max-width: 60%;
@@ -243,6 +313,28 @@ figcaption {
     vertical-align: bottom;
     width: 30%;
   }
+}
+
+#markdown-toc {
+  padding: 0 1rem;
+  font-size: 75%;
+}
+#markdown-toc::before {
+  content: "Conteúdo:";
+  font-weight: 500;
+  font-size: 150%;
+  margin-bottom: 0.25rem;
+  display: block;
+}
+#markdown-toc li {
+  margin-left: 0.75rem;
+}
+#markdown-toc ol,
+#markdown-toc ul {
+  padding-left: 1rem;
+  font-size: inherit;
+  border-left: 2px solid #e8e8e8;
+  margin-left: -0.55rem;
 }
 /* --- Open in new tab SVG --- */
 svg.a_blank {

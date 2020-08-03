@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tags
+header: yes
 permalink: /tags/
 ---
 {% capture tags %}
