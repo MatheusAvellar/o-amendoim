@@ -13,8 +13,8 @@ lang:   "pt-br"
 --- 
 
 Copiado visualmente do <a href="http://www.bibliotecavirtualdeandalucia.es/catalogo/es/catalogo_imagenes/grupo.cmd?path=86513">PDF
-do arquivo digital</a> (119 MB) na Biblioteca Virtual de Andalucía, um edição de
-1541 do original "<i lang="es">Norte de los estados</i>" (<a
+do arquivo digital</a> (119 MB) na Biblioteca Virtual de Andalucía, uma edição
+de 1541 do original "<i lang="es">Norte de los estados</i>" (<a
 href="https://pt.wikipedia.org/wiki/Sevilha">Sevilha</a>, 1531) por <a
 href="https://pt.wikipedia.org/wiki/Francisco_de_Osuna">Francisco de Osuna</a>.
 Também é possível acessar, no Google Books, a <a
@@ -126,6 +126,11 @@ No PDF da Biblioteca de Andalucía, se encontra nas páginas 122–123.
 #compare-original[data-line="19"] > div[data-line="19"],
 #compare-original[data-line="20"] > div[data-line="20"] {
   visibility: visible;
+}
+@media screen and (max-width: 530px) {
+  #compare-original {
+    transform: scale(.75) translateX(-5rem);
+  }
 }
 
 #original-text, #translated-text {

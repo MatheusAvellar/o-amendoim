@@ -9,7 +9,7 @@ fullview: false
 categories: [pesquisa,antiguidade]
 ---
 
-1. Do not remove this line (it will not be displayed)
+1. (tabela de conteúdo)
 {:toc}
 
 ---
@@ -514,12 +514,12 @@ href="http://www.bibliotecavirtualdeandalucia.es/catalogo/es/catalogo_imagenes/g
   </figcaption>
 </figure>
 
-Criei também uma <a href="/extra/norte-de-los-estados">página
-dedicada</a> ao contexto completo da frase, para que ela possa ser mais
-detalhadamente estudada.
+Criei também uma <a href="/extra/norte-de-los-estados">página dedicada</a> ao
+contexto completo da frase, para que ela possa ser mais detalhadamente estudada
+por aqueles que sabem mais do que eu – ou que, pelo menos, falam espanhol.
 
 Comentários adicionais sobre a significância dessa frase se encontram na <a
-href="#conclusão">§ Conclusão</a>.
+href="#minha-teoria">§ Minha teoria</a>.
 
 ---
 
@@ -673,6 +673,9 @@ de 1726 que encontrei que também menciona o provérbio (curiosamente, não sob
 
 ## Resultados
 
+Dito tudo isso, a ocorrência mais antiga do ditado "casa de ferreiro, espeto de
+pau" que eu encontrei em cada país foi:
+
 ### Brasil
 
 * "Em casa de ferreiro espeto de páo"<br>—<a
@@ -682,14 +685,14 @@ href="https://pt.wikipedia.org/wiki/Rio_de_Janeiro">Rio de Janeiro</a>, 1834);
 * <q>Em caſa de ferreiro peior apeiro</q><br>—<a
 href="https://books.google.com.br/?id=kPBDAQAAMAAJ">Diccionario da Lingua
 Portugueza</a> (<a href="https://pt.wikipedia.org/wiki/Lisboa">Lisboa</a>,
-1789).<br>(**desclassificado**, é mais português que brasileiro)
+1789).<br>(**desclassificado**, é mais português que brasileiro)<br><br>
 
 ### Portugal
 
 * <q>Em casa do Ferreiro, pejor apeiro</q><br>—<a
 href="https://books.google.com.br/?id=1lWY_Ev5uZ8C">Adagios Portuguezes
 Reduzidos a Lugares Communs</a> (<a
-href="https://pt.wikipedia.org/wiki/Lisboa">Lisboa</a>, 1651).
+href="https://pt.wikipedia.org/wiki/Lisboa">Lisboa</a>, 1651).<br><br>
 
 ### Espanha
 
@@ -726,13 +729,17 @@ do provérbio após sua concepção:
 
 1. Concebido na Espanha, por volta do séc. XV – mas possivelmente antes – e
 popularizado devido à menção no livro de Osuna;
-2. Em seguida, foi de alguma forma levado à Portugal, em meados do séc. XVII;
+2. Em seguida, foi de alguma forma levado à Portugal, em meados do séc. XVI;
 esse transporte é trivial ao se considerar que tanto Salamanca quanto Sevilha
 são cidades relativamente próximas da fronteira da Espanha com
 Portugal—portanto, sem dúvida, as duas culturas se influenciaram;
-3. A partir do momento em que chega em Portugal, ser levada ao Brasil – no final
-do séc. XVIII ou início do séc XIX –, que na época ainda era colônia, é
-igualmente trivial.
+3. A partir do momento em que chega em Portugal, ser levada ao Brasil colônia no
+final do séc. XVII, talvez, é igualmente trivial.
+
+Posso estar totalmente errado! Isso é tudo pura especulação. Adoraria se alguém
+fizesse um estudo mais prolongado e exaustivo para confirmar ou refutar minha
+conjectura. Fica aí a ideia pro seu doutorado ;) Coloca meu nome nos
+agradecimentos.
 
 ---
 
@@ -743,10 +750,10 @@ precisa. O que, pra ser honesto, era de se esperar. Linguística e História nã
 são ciências exatas. Mas, que fica com gostinho de <i>quero mais</i>, fica.
 
 Ainda que uma resposta perfeita não tenha sido encontrada, aprendemos bastante
-coisa pelo caminho. Por exemplo, como pesquisar a mesma coisa de 500
-formas diferentes no Google, ou como burlar as falhas do OCR substituindo
-caracteres por outros parecidos – "cafa de serreiro" ao resgate. Ou, ainda, que
-"Pão de Açúcar" já foi escrito "Paõ de Assuquar". Bizarro.
+pelo caminho. Por exemplo, como pesquisar a mesma coisa de 500 formas diferentes
+no Google, ou como burlar as falhas do OCR substituindo caracteres por outros
+parecidos – "cafa de serreiro" ao resgate. Ou, ainda, que "Pão de Açúcar" já foi
+escrito "Paõ de Assuquar". Bizarro.
 
 Se você leu tudo até aqui, parabéns! Esse projeto se tornou muito maior do que
 o eu de 3 dias atrás, com uma dúvida simples e boba, poderia imaginar. E você,
@@ -760,7 +767,7 @@ E caso você, querido leitor, tenha alguma sugestão, reclamação, dúvida,
 correção, ou algo desse tipo, não hesite em me enviar um email (<a
 href="o@amendo.im">o@amendo.im</a>).
 
-### Saiba pois o Mundo, e a posteridade
+## Saiba pois o Mundo, e a posteridade
 
 Por fim, assim como o editor do Correio Braziliense de 1808, gostaria de mandar
 meus cumprimentos à posteridade. Como recebi a mensagem de 212 anos atrás,
