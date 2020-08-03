@@ -596,7 +596,7 @@ que copiar visualmente</small>
 
 Como se esse artigo não fosse grande o suficiente, resolvi adicionar também o
 paralelo com o inglês. No idioma, contudo, o ditado costuma vir em formas
-diferente, normalmente relacionadas a sapateiros e seus próximos:
+diferentes, normalmente relacionadas a sapateiros e seus próximos:
 
 * <i lang="en">The shoemaker's children go barefoot</i> (lit. "os filhos do
 sapateiro andam descalços");
@@ -774,7 +774,7 @@ meus cumprimentos à posteridade. Como recebi a mensagem de 212 anos atrás,
 dedico esse recado a 212 anos no futuro, em 2232.
 
 Como será sua vida, habitante do futuro? Será que já fomos extintos? Será que
-houveram outras pandemias como <a
+houve outras pandemias como <a
 href="https://pt.wikipedia.org/wiki/Pandemia_de_COVID-19">a que ocorre
 atualmente</a>? Gatos e cachorros ainda são animais de estimação? Ainda estamos
 confinados à Terra, ou colonizamos outros planetas? Quando, e como será que eu
