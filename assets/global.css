@@ -347,6 +347,67 @@ svg.a_blank {
 [href]:hover > svg.a_blank {
   fill: #111;
 }
+
+#post-rating {
+  margin: 7.5rem auto 0;
+  max-width: 600px;
+}
+#rating-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 2rem;
+}
+#post-rating label {
+  font-size: 0.75rem;
+  color: #999;
+  text-align: center;
+  display: block;
+  user-select: none;
+}
+#rating-buttons label > span {
+  display: block;
+}
+#rating-buttons label > span > div {
+  font-size: 75%;
+}
+
+#rating-buttons button {
+  display: block;
+  margin: 0.3rem 1.5rem;
+  color: inherit;
+  border: 0;
+  background: transparent;
+  padding: 0.5rem;
+  border-radius: 100%;
+  width: 2rem;
+  height: 2rem;
+  box-sizing: content-box;
+}
+#rating-buttons button:not([disabled]):hover,
+#rating-buttons button:not([disabled]):focus {
+  background-color: #eee;
+}
+#rating-buttons button[disabled] {
+  opacity: .75;
+}
+#rating-buttons #btn-like-post:not([disabled]):active,
+#rating-buttons #btn-like-post.selected {
+  background-color: #c3f7c5;
+}
+#rating-buttons #btn-meh-post:not([disabled]):active,
+#rating-buttons #btn-meh-post.selected {
+  background-color: #f6f7c3;
+}
+#rating-buttons #btn-dislike-post:not([disabled]):active,
+#rating-buttons #btn-dislike-post.selected {
+  background-color: #f7cfc3;
+}
+
+#rating-buttons svg {
+  fill: #777;
+}
+
 /* --- + --- + --- + --- + --- */
 
 
