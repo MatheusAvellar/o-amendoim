@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: > 0.001%
+*/
+
 ::-moz-selection {
   background: #f0d342;
   color: #000;
@@ -65,7 +72,9 @@ a[href]:hover {
 }
 .post-content .note {
   border: 1px solid #eee;
-  border-radius: 3px;
+  -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
   font-size: 90%;
   padding: 0.75rem 1rem;
 }
@@ -97,6 +106,8 @@ h2.tag-name::before {
   margin-left: 1.5em;
 }
 .tag-item .info-tagged-wrapper {
+  width: -webkit-calc(100% - 9em);
+  width: -moz-calc(100% - 9em);
   width: calc(100% - 9em);
   display: inline-block;
   vertical-align: top;
@@ -134,7 +145,9 @@ span.post-category {
   color: #111;
   background-color: #e8e8e8;
   margin-right: .5em;
-  border-radius: 3px;
+  -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
 }
 /* Remove ugly underline from title */
 a[href].site-title  {
@@ -152,7 +165,9 @@ h1.page-heading {
 .site-title, h1.page-heading {
   background-image: url(./title.svg);
   background-repeat: no-repeat;
-  background-size: contain;
+  -webkit-background-size: contain;
+     -moz-background-size: contain;
+          background-size: contain;
   background-position: 0 center;
   color: transparent;
 }
@@ -181,7 +196,9 @@ p.post-disclaimer {
   padding: .5em 2.5em;
   border: 1px solid;
   color: darkcyan;
-  border-radius: 3px;
+  -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
 }
 p.post-disclaimer a[href] {
   text-decoration: underline;
@@ -256,7 +273,11 @@ hr::before {
   left: 50%;
   width: 2em;
   height: 2em;
-  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+     -moz-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+       -o-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
   color: #ababab;
   background-color: #fdfdfd;
   vertical-align: middle;
@@ -278,8 +299,12 @@ figure img {
   max-height: 40rem;
   display: inline-block;
   border: 2px solid #eee;
-  border-radius: 6px;
-  box-shadow: 5px 5px 10px 0 #ececec;
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+  -webkit-box-shadow: 5px 5px 10px 0 #ececec;
+     -moz-box-shadow: 5px 5px 10px 0 #ececec;
+          box-shadow: 5px 5px 10px 0 #ececec;
 }
 figure.top    { margin: 3rem 0 1rem; }
 figure.bottom { margin: 1rem 0 3rem; }
@@ -341,7 +366,11 @@ svg.a_blank {
   width: 1em;
   fill: #8c8c8c;
   vertical-align: baseline;
-  transform: translateY(3px);
+  -webkit-transform: translateY(3px);
+     -moz-transform: translateY(3px);
+      -ms-transform: translateY(3px);
+       -o-transform: translateY(3px);
+          transform: translateY(3px);
   margin-left: 3px;
 }
 [href]:hover > svg.a_blank {
@@ -353,9 +382,23 @@ svg.a_blank {
   max-width: 600px;
 }
 #rating-buttons {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: row;
-  justify-content: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+     -moz-box-orient: horizontal;
+     -moz-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   margin-top: 2rem;
   min-height: 110px;
 }
@@ -364,7 +407,10 @@ svg.a_blank {
   color: #999;
   text-align: center;
   display: block;
-  user-select: none;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
 }
 #rating-buttons label > span {
   display: block;
@@ -380,10 +426,14 @@ svg.a_blank {
   border: 0;
   background: transparent;
   padding: 0.5rem;
-  border-radius: 100%;
+  -webkit-border-radius: 100%;
+     -moz-border-radius: 100%;
+          border-radius: 100%;
   width: 2rem;
   height: 2rem;
-  box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;

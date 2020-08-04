@@ -767,6 +767,8 @@ E caso você, querido leitor, tenha alguma sugestão, reclamação, dúvida,
 correção, ou algo desse tipo, não hesite em me enviar um email (<a
 href="o@amendo.im">o@amendo.im</a>).
 
+---
+
 ## Saiba pois o Mundo, e a posteridade
 
 Por fim, assim como o editor do Correio Braziliense de 1808, gostaria de mandar

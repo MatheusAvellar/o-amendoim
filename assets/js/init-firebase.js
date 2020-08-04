@@ -1,3 +1,10 @@
+// olha só, eu não quero ter que pagar um servidor pra ter um backend, só pra
+// poder ter UPVOTES SEGUROS. to usando o gh pages + firebase, tudo de gracinha,
+// show de bola. eu perfeitamente entendo que você teria a capacidade de
+// """""hackear""""" meu banco de dados e inutilizar o sistema de upvotes.
+// só que se isso acontecer, eu simplesmente vou apagar esse sisteminha, e meus
+// posts vão continuar como estão, só que sem upvote. então, né. não gaste o
+// meu nem o seu tempo, e deixa isso aqui como tá :) thanks
 firebase.initializeApp({
   apiKey: "AIzaSyCCkQQR_bwPyXOa5uo_uavYK8UQVkD0Ylk",
   authDomain: "avellar-website.firebaseapp.com",
@@ -76,9 +83,8 @@ db.collection("blog").where("date","==",date).get().then((querySnapshot) => {
     if(!id) id = path;
 
     // Desabilita botões
-    btns.likes.disabled = true;
-    btns.mehs.disabled = true;
-    btns.dislikes.disabled = true;
+    disableButtons();
+    localStorage.setItem(path, e);
 
     // Incrementa o valor local do botão clicado
     counts[e]++;
@@ -93,6 +99,12 @@ db.collection("blog").where("date","==",date).get().then((querySnapshot) => {
   }
 });
 
+function disableButtons() {
+  btns.likes.disabled = true;
+  btns.mehs.disabled = true;
+  btns.dislikes.disabled = true;
+}
+
 // Incrementar atomicamente, evita race condition etc
 // [Ref] firebase.google.com/docs/firestore/manage-data/add-data#increment_a_numeric_value
 function incrementValue(id, field) {
@@ -100,4 +112,18 @@ function incrementValue(id, field) {
     [field]: firebase.firestore.FieldValue.increment(1),
     last_update: firebase.firestore.Timestamp.fromDate(new Date())
   });
+}
+
+// Verifica se algum botão já foi clicado em outra sessão
+const prev = localStorage.getItem(path);
+if(prev) {
+  // Se o valor salvo faz sentido,
+  if(["likes","mehs","dislikes"].includes(prev)) {
+    // Desabilita outros votos, marca botão clicado como selecionado
+    disableButtons();
+    btns[prev].classList.add("selected");
+  } else {
+    // qisu não entendi vamo tira
+    localStorage.removeItem(path);
+  }
 }
