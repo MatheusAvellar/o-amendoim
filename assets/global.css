@@ -404,8 +404,8 @@ svg.a_blank {
   background-color: #f7cfc3;
 }
 
-#rating-buttons svg {
-  fill: #777;
+#rating-buttons img {
+  user-drag: none;
 }
 
 /* --- + --- + --- + --- + --- */
