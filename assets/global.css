@@ -383,6 +383,9 @@ svg.a_blank {
   width: 2rem;
   height: 2rem;
   box-sizing: content-box;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
 }
 #rating-buttons button:not([disabled]):hover,
 #rating-buttons button:not([disabled]):focus {

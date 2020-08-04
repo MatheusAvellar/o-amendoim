@@ -51,6 +51,7 @@ db.collection("blog").where("date","==",date).get().then((querySnapshot) => {
   querySnapshot.forEach((doc) => {
     id = doc.id;
     const obj = doc.data();
+    total_count = 0;
 
     like_count = obj.likes;
     total_count += like_count;
