@@ -377,6 +377,17 @@ svg.a_blank {
   fill: #111;
 }
 
+dt {
+  display: inline-block;
+  font-weight: 500;
+}
+dt::after {
+  content: ":";
+}
+dd {
+  display: inline-block;
+}
+
 #post-rating {
   margin: 7.5rem auto 0;
   max-width: 600px;

@@ -139,7 +139,7 @@ Commercio</a>, em que uma coluna de autoria de "*Carapuceiro*" possui o ditado
 <figure class="bottom side">
   <img alt="Trecho do 'Jornal do Commercio' que, além de outras coisas, utiliza
  a expressão 'Em casa de ferreiro, espeto de pau'."
-   src="/assets/img/2020-08-03/commercio-2.png">
+   src="/assets/img/2020-08-03/commercio-2.jpg">
   <figcaption>
     <em>
       "Em casa de ferreiro espeto de páo" – <a
@@ -147,6 +147,8 @@ href="http://memoria.bn.br/DocReader/DocReader.aspx?bib=364568_02&Pesq=%22casa%2
       do Commercio Nº 250</a> (<a
 href="https://pt.wikipedia.org/wiki/Rio_de_Janeiro">Rio de Janeiro</a>, 7 de
       novembro de 1834).
+      <br><br>
+      Crédito: Arquivo JC/D.A Press.
     </em>
   </figcaption>
 </figure>
