@@ -396,7 +396,10 @@ href="https://pt.wikipedia.org/wiki/Madrid">Madrid</a>, 1729):
   <figcaption>
     <em>
       As três variantes da expressão, conectadas como se por magia em um
-      dicionário do século XVIII.
+      dicionário do século XVIII.<br>
+      Também vale notar a versão em latim, <q><i lang="la">domo in fabrili,
+      culter est hic ligneus</i></q>. Acredito, contudo, que é apenas uma
+      tradução, e não uma versão concebida em latim.
     </em>
   </figcaption>
 </figure>
