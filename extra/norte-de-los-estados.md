@@ -20,7 +20,7 @@ href="https://pt.wikipedia.org/wiki/Francisco_de_Osuna">Francisco de Osuna</a>.
 Também é possível acessar, no Google Books, a <a
 href="https://books.google.com.br/books?id=1ANRAAAAcAAJ">edição de 1550</a> (em
 cores!). Por fim, também incluí as páginas em que o trecho abaixo está contido
-em um <a href="/extra/norte-de-los-estados-122-123.pdf">PDF separado</a>
+em um <a href="/extra/assets/norte-de-los-estados/122-123.pdf">PDF separado</a>
 (947&nbsp;KB).
 
 Para os não familiarizados com textos antigos, existem dois caracteres
@@ -91,7 +91,7 @@ No PDF da Biblioteca de Andalucía, se encontra nas páginas 122–123.
   height: 20rem;
   width: 30rem;
   margin: auto;
-  background-image: url(/extra/norte-de-los-estados-122-123.png);
+  background-image: url(/extra/assets/norte-de-los-estados/122-123.png);
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;

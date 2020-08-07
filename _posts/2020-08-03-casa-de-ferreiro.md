@@ -146,7 +146,8 @@ Commercio</a>, em que uma coluna de autoria de "*Carapuceiro*" possui o ditado
 href="http://memoria.bn.br/DocReader/DocReader.aspx?bib=364568_02&Pesq=%22casa%20de%20ferreiro%20espeto%20de%20pao%22&pagfis=5908">Jornal
       do Commercio Nº 250</a> (<a
 href="https://pt.wikipedia.org/wiki/Rio_de_Janeiro">Rio de Janeiro</a>, 7 de
-      novembro de 1834).
+      novembro de 1834). [<a href="/extra/commercio">sobre a licença dessa
+      página</a>]
       <br><br>
       Crédito: Arquivo JC/D.A Press.
     </em>

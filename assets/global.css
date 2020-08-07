@@ -291,6 +291,9 @@ hr::before {
   display: block;
   margin: 0 auto;
 }
+table {
+  margin: 3rem 0;
+}
 figure {
   text-align: center;
   margin: 3rem 0;
