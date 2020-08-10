@@ -5,7 +5,6 @@ ref:    "casa-de-ferreiro"
 title:  "Qual é a origem de \"Casa de ferreiro, espeto de pau\"?"
 #edit:   2020-04-15 22:22:00 -0300
 excerpt: "Minha busca pelo primeiro uso escrito do ditado"
-fullview: false
 categories: [pesquisa,antiguidade]
 ---
 

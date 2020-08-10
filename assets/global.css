@@ -163,7 +163,7 @@ h1.page-heading {
   margin-top: -6rem;
 }
 .site-title, h1.page-heading {
-  background-image: url(./title.svg);
+  background-image: url(/assets/img/title.svg);
   background-repeat: no-repeat;
   -webkit-background-size: contain;
      -moz-background-size: contain;

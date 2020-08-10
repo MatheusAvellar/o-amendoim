@@ -2,6 +2,7 @@
 layout: extra
 title: "Trecho de \"Norte de los estados\" (1531)"
 lang:   "pt-br"
+excerpt: "Expande sobre o trecho estudado do livro de 1531, com visualização interativa."
 ---
 
 {% for page in site.posts %}

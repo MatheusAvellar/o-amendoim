@@ -1,7 +1,8 @@
 ---
 layout: extra
-title: "Sobre a página do 'Jornal do Commercio' (1834)"
+title: "Sobre a página do \"Jornal do Commercio\" (1834)"
 lang:   "pt-br"
+excerpt: "Informações meteorológicas da época, conversão interativa de réis para reais (e vice-versa), …"
 ---
 
 {% for page in site.posts %}

@@ -5,7 +5,6 @@ ref:    "arte-moderna"
 title:  "Sobre a arte moderna"
 #edit:   2020-04-15 22:22:00 -0300
 excerpt: "Até que tem um significado por trás"
-fullview: false
 categories: [arte]
 ---
 {%- include external.html -%}
