@@ -309,8 +309,8 @@ figure img {
      -moz-box-shadow: 5px 5px 10px 0 #ececec;
           box-shadow: 5px 5px 10px 0 #ececec;
 }
-figure.top    { margin: 3rem 0 1rem; }
-figure.bottom { margin: 1rem 0 3rem; }
+figure.top    { margin-bottom: 1rem; }
+figure.bottom { margin-top: 1rem; }
 figure.left { text-align: left; }
 figure img + img {
   margin-top: 0.75rem;
@@ -324,6 +324,7 @@ figure img + img {
 figcaption {
   color: #828282;
   margin: 1em 0;
+  padding: 0 4em;
   display: block;
   text-align: center;
   line-height: 1.1;
@@ -331,6 +332,7 @@ figcaption {
 @media screen and (max-width: 500px) {
   figcaption {
     margin: 1em;
+    padding: 0 3em;
   }
 }
 @media screen and (min-width: 500px) {
