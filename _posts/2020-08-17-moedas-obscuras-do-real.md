@@ -4,7 +4,7 @@ lang:   "pt-br"
 ref:    "moedas-obscuras-do-real"
 title:  "Sobre as moedas obscuras, mas oficiais, do Real"
 #edit:   2020-04-15 22:22:00 -0300
-excerpt: "Quantos moedas diferentes de Real existem? Spoiler e clickbait: mais que 6"
+excerpt: "Quantas moedas diferentes de Real existem? Spoiler e clickbait: mais que 6"
 categories: [dinheiro,real]
 ---
 
@@ -68,10 +68,11 @@ href="https://en.numista.com/catalogue/pieces24885.html">Numista</a>.
 </figure>
 
 As moedas acima são alguns exemplos de moedas <em>comemorativas</em> de Real.
-Então, você pode estar se perguntando: moedas comemorativas possuem poder de
-compra? Posso usar moedas comemorativas para comprar coisas?
+Talvez chamá-las de "obscuras" seja um pouco de exagero, mas eu não conhecia
+metade!
 
-E a resposta é: **sim**!
+Você pode estar se perguntando: moedas comemorativas possuem poder de compra?
+Posso usar moedas comemorativas para comprar coisas? E a resposta é: **sim**!
 
 Na lista de "razões para adquirir moedas comemorativas", do Banco Central, o
 primeiro motivo listado é:
@@ -156,7 +157,7 @@ Brasil.
   <img src="/assets/img/2020-08-17/moeda-1-real.png" alt="Moeda antiga de 1 real.">
   <figcaption>
     <em>
-      Moeda antiga de 1 real, produzida 1994.<br>Crédito: <a
+      Moeda antiga de 1 real, produzida em 1994.<br>Crédito: <a
 href="https://www.bcb.gov.br/cedulasemoedas/moedasemitidas">Banco Central</a>.
     </em>
   </figcaption>
