@@ -292,7 +292,8 @@ hr::before {
   margin: 0 auto;
 }
 table {
-  margin: 3rem 0;
+  margin: 3rem auto;
+  border: 0;
 }
 figure {
   text-align: center;

@@ -273,7 +273,6 @@ atuais:
   margin-bottom: 1rem;
   overflow-x: auto;
   display: block;
-  border: 0;
 }
 #jornal th:first-of-type {
   background-color: transparent;

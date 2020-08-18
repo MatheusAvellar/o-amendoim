@@ -154,14 +154,27 @@ Diferentemente das moedas de circulação normal, as moedas comemorativas não
 possuem um único design padrão. De acordo com a [lista do Banco Central](https://www.bcb.gov.br/cedulasemoedas/moedascirculacaocomemorativas),
 existem as seguintes quantidades de designs diferentes para cada moeda:
 
-| Valor   | Nº de<br>Variações | Ano do<br>1º lançamento | Ano do lançamento<br>mais recente |
-|--------:|-------------------:|:--------------------:|:------------------------------:|
-|  R$2,00 |       **16**       |         1994         |              2014              |
-|  R$3,00 |        **2**       |         1995         |              1997              |
-|  R$4,00 |        **1**       |         1994         |                —              |
-|  R$5,00 |       **32**       |         2000         |              2016              |
-| R$10,00 |        **5**       |         2014         |              2016              |
-| R$20,00 |        **8**       |         1995         |              2004              |
+{:.centered}
+| Valor   | Nº de<br>variações | Ano do<br>1º lançamento | Ano do<br>lançamento mais recente |
+|--------:|----------------:|:--------------------:|:------------------------------:|
+|  R$2,00 |      **16**     |         1994         |              2014              |
+|  R$3,00 |       **2**     |         1995         |              1997              |
+|  R$4,00 |       **1**     |         1994         |                —              |
+|  R$5,00 |      **32**     |         2000         |              2016              |
+| R$10,00 |       **5**     |         2014         |              2016              |
+| R$20,00 |       **8**     |         1995         |              2004              |
+
+<style>
+@supports (max-width:fit-content) {
+  table.centered {
+    display: block;
+    max-width: -webkit-fit-content;
+    max-width: -moz-fit-content;
+    max-width: fit-content;
+    overflow-x: auto;
+  }
+}
+</style>
 
 Totalizando **64** designs diferentes de moedas comemorativas.
 
