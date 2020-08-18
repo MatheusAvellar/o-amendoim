@@ -3,7 +3,7 @@ layout: post
 lang:   "pt-br"
 ref:    "moedas-obscuras-do-real"
 title:  "Sobre as moedas obscuras, mas oficiais, do Real"
-#edit:   2020-04-15 22:22:00 -0300
+edit:   2020-08-17 21:00:00 -0300
 excerpt: "Quantas moedas diferentes de Real existem? Spoiler e clickbait: mais que 6"
 categories: [dinheiro,real]
 ---
@@ -116,11 +116,11 @@ raridade e composição, está sendo vendida pela bagatela de R$300 no
 [Mercado Livre](https://produto.mercadolivre.com.br/MLB-1350697993-moeda-prata-5-reais-penta-campeonato-mundial-de-futebol-_JM):
 
 <figure>
-  <img src="/assets/img/2020-08-17/mercado-livre-5-reais.png" alt="Print do anúncio no
- Mercado Livre.">
+  <img src="/assets/img/2020-08-17/mercado-livre-5-reais.png" alt="Print do
+ anúncio da moeda de R$5 no Mercado Livre.">
   <figcaption>
     <em>
-      Seria uma péssima ideia usar uma moeda como essa para comprar uma caixa
+      Seria uma má ideia usar uma moeda como essa para comprar uma caixa
       de leite. E isso se o vendedor ficar convencido que ele pode legalmente
       aceitar ela como pagamento.<br>Crédito: <a
  href="https://www.mercadolivre.com.br/perfil/PAREDISAN">PAREDISAN</a>.
@@ -128,17 +128,42 @@ raridade e composição, está sendo vendida pela bagatela de R$300 no
   </figcaption>
 </figure>
 
-Diferentemente das moedas de circulação normal, as moedas comemorativas não
-possuem um único design padrão. De acordo com a lista do [Banco
-Central](https://www.bcb.gov.br/cedulasemoedas/moedascirculacaocomemorativas),
-existem:
+Não tem a moeda pentacampeão de prata, mas tem a de ouro? Perfeito! Ela
+legalmente vale 4× mais (R$20) em um mercado ou loja, então você poderia
+comprar, tipo sei lá, uma ou duas lasanhas congeladas.
 
-* *16* variações da moeda de R$2,00 (1ª de 1994; mais recente de 2014);
-* *2* variações da moeda de R$3,00 (1ª de 1995; mais recente de 1997);
-* *1* variação da moeda de R$4,00 (de 1994);
-* *32* variações da moeda de R$5,00 (1ª de 2000; mais recente de 2016);
-* *5* variações da moeda de R$10,00 (1ª de 2014; mais recente de 2016);
-* *8* variações da moeda de R$20,00 (1ª de 1995; mais recente de 2004).
+Ou, se você não estiver com vontade de comer lasanha, pode só tentar vender a
+moeda por R$3.000, como [esse anúncio](https://produto.mercadolivre.com.br/MLB-1504893096-moeda-brasil-ouro-puro-80gr22mm200220-reais-penta-_JM)
+no Mercado Livre:
+
+<figure>
+  <img src="/assets/img/2020-08-17/mercado-livre-20-reais.png" alt="Print do
+ anúncio da moeda de R$20 no Mercado Livre.">
+  <figcaption>
+    <em>
+      Seria uma <strong><u>péssima</u></strong> ideia usar uma moeda como essa
+      para comprar lasanhas.<br>Crédito: <a
+ href="https://www.mercadolivre.com.br/perfil/IRINEUS2005">IRINEUS2005</a>.
+    </em>
+  </figcaption>
+</figure>
+
+---
+
+Diferentemente das moedas de circulação normal, as moedas comemorativas não
+possuem um único design padrão. De acordo com a [lista do Banco Central](https://www.bcb.gov.br/cedulasemoedas/moedascirculacaocomemorativas),
+existem as seguintes quantidades de designs diferentes para cada moeda:
+
+| Valor   | Nº de<br>Variações | Ano do<br>1º lançamento | Ano do lançamento<br>mais recente |
+|--------:|-------------------:|:--------------------:|:------------------------------:|
+|  R$2,00 |       **16**       |         1994         |              2014              |
+|  R$3,00 |        **2**       |         1995         |              1997              |
+|  R$4,00 |        **1**       |         1994         |                —              |
+|  R$5,00 |       **32**       |         2000         |              2016              |
+| R$10,00 |        **5**       |         2014         |              2016              |
+| R$20,00 |        **8**       |         1995         |              2004              |
+
+Totalizando **64** designs diferentes de moedas comemorativas.
 
 Normalmente, moedas de R$10 e R$20 reais são de ouro, enquanto que as de R$5 são
 de prata. As de outros valores às vezes são de prata, às vezes não.
@@ -166,13 +191,11 @@ href="https://www.bcb.gov.br/cedulasemoedas/moedasemitidas">Banco Central</a>.
 Não sou expert em legalidade de moedas mas, pelo que me parece, a moeda antiga
 de 1 real não pode mais ser utilizada para compras, e só tem valor se for
 trocada em <q>agências autorizadas do Banco do Brasil</q> (presume-se que por
-uma moeda <em>nova</em> de R$1).
-
-Portanto, pelo que eu entendi, apesar de ser provavelmente mais conhecida, a
-moeda antiga de R$1 não é mais válida ou possui valor real.
+uma moeda <em>nova</em> de R$1). Portanto, pelo que eu entendi, ela não é mais
+válida ou possui valor real (posso estar errado!).
 
 Enquanto isso, a moeda obscura de R$4, comemorativa do Campeonato Mundial de
-Futebol de 1994, que teve apenas 9.000 exemplares fabricados, é dinheiro válido e
-legal.
+Futebol de 1994, que teve apenas 9.000 exemplares fabricados, é dinheiro 100%
+válido e legal.
 
 Uma doideira.
