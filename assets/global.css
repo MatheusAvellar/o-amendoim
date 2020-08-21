@@ -325,10 +325,12 @@ figure img + img {
 figcaption {
   color: #828282;
   margin: 1em 0;
-  padding: 0 4em;
   display: block;
   text-align: center;
   line-height: 1.1;
+}
+figure:not(.side) figcaption {
+  padding: 0 4em;
 }
 @media screen and (max-width: 500px) {
   figcaption {
