@@ -91,6 +91,18 @@ a[href]:hover {
   }
 }
 
+.sr-only {
+  position: absolute;
+  width: 0.01px;
+  height: 0.01px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+  user-select: none;
+}
+
 /*---------------  TAGS  ---------------*/
 /* Tag name */
 h2.tag-name {
