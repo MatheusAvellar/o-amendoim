@@ -21,22 +21,20 @@ lang: "en"
           <span class="dt-published-wrapper">
             <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
               {% assign m = post.date | date: "%-m" %}
-              {{ post.date | date: "%-d" }}
-              {% case m %}
-                {% when '1' %}jan
-                {% when '2' %}fev
-                {% when '3' %}mar
-                {% when '4' %}abr
-                {% when '5' %}mai
-                {% when '6' %}jun
-                {% when '7' %}jul
-                {% when '8' %}ago
-                {% when '9' %}set
-                {% when '10' %}out
-                {% when '11' %}nov
-                {% when '12' %}dez
-              {% endcase %}
-              {{ post.date | date: "%Y" }}
+              {{ post.date | date: "%-d" }} de {% case m %}{%
+                when '1' %}janeiro{%
+                when '2' %}fevereiro{%
+                when '3' %}março{%
+                when '4' %}abril{%
+                when '5' %}maio{%
+                when '6' %}junho{%
+                when '7' %}julho{%
+                when '8' %}agosto{%
+                when '9' %}setembro{%
+                when '10' %}outubro{%
+                when '11' %}novembro{%
+                when '12' %}dezembro{% endcase
+                %} de {{ post.date | date: "%Y" }}
             </time>
           </span>
         </p>

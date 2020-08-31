@@ -3,30 +3,25 @@ layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">
-      {{ page.title | escape }}
-    </h1>
     <p class="post-meta">
       <span class="dt-published-wrapper">
         Postado em
         <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
           {% assign m = page.date | date: "%-m" %}
-          {{ page.date | date: "%-d" }}
-          {% case m %}
-            {% when '1' %}jan
-            {% when '2' %}fev
-            {% when '3' %}mar
-            {% when '4' %}abr
-            {% when '5' %}mai
-            {% when '6' %}jun
-            {% when '7' %}jul
-            {% when '8' %}ago
-            {% when '9' %}set
-            {% when '10' %}out
-            {% when '11' %}nov
-            {% when '12' %}dez
-          {% endcase %}
-          {{ page.date | date: "%Y" }}
+          {{ page.date | date: "%-d" }} de {% case m %}{%
+            when '1' %}janeiro{%
+            when '2' %}fevereiro{%
+            when '3' %}março{%
+            when '4' %}abril{%
+            when '5' %}maio{%
+            when '6' %}junho{%
+            when '7' %}julho{%
+            when '8' %}agosto{%
+            when '9' %}setembro{%
+            when '10' %}outubro{%
+            when '11' %}novembro{%
+            when '12' %}dezembro{% endcase
+            %} de {{ page.date | date: "%Y" }}
         </time>
       </span>
         •
@@ -44,34 +39,33 @@ layout: default
         Editado em
         <time class="dt-edited" datetime="{{ page.edit | date_to_xmlschema }}" itemprop="datePublished">
           {% assign m = page.edit | date: "%-m" %}
-          {{ page.edit | date: "%-d" }}
-          {% case m %}
-            {% when '1' %}jan
-            {% when '2' %}fev
-            {% when '3' %}mar
-            {% when '4' %}abr
-            {% when '5' %}mai
-            {% when '6' %}jun
-            {% when '7' %}jul
-            {% when '8' %}ago
-            {% when '9' %}set
-            {% when '10' %}out
-            {% when '11' %}nov
-            {% when '12' %}dez
-          {% endcase %}
-          {{ page.edit | date: "%Y" }}
+          {{ page.date | date: "%-d" }} de {% case m %}{%
+            when '1' %}janeiro{%
+            when '2' %}fevereiro{%
+            when '3' %}março{%
+            when '4' %}abril{%
+            when '5' %}maio{%
+            when '6' %}junho{%
+            when '7' %}julho{%
+            when '8' %}agosto{%
+            when '9' %}setembro{%
+            when '10' %}outubro{%
+            when '11' %}novembro{%
+            when '12' %}dezembro{% endcase
+            %} de {{ page.date | date: "%Y" }}
         </time>
       </span>
       {%- endif -%}
     </p>
+    <h1 class="post-title p-name" itemprop="name headline">
+      {{ page.title | escape }}
+    </h1>
   </header>
   <div class="post-content e-content blog-post" itemprop="articleBody">
     {{ content }}
   </div>
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-
   <hr>
-
   <section id="post-rating">
     <strong>Deixe sua avaliação desse post!</strong>
     <div id="rating-buttons">
