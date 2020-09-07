@@ -299,7 +299,8 @@ hr::before {
   font-family: inherit;
 }
 /* Horizontally align images on post */
-.post-content p img {
+.post-content p img,
+.post-content p video {
   display: block;
   margin: 0 auto;
 }
@@ -311,7 +312,7 @@ figure {
   text-align: center;
   margin: 3rem 0;
 }
-figure img {
+figure img, figure video {
   max-height: 40rem;
   display: inline-block;
   border: 2px solid #eee;
@@ -325,11 +326,15 @@ figure img {
 figure.top    { margin-bottom: 1rem; }
 figure.bottom { margin-top: 1rem; }
 figure.left { text-align: left; }
-figure img + img {
+figure img + img,
+figure video + img,
+figure img + video,
+figure video + video {
   margin-top: 0.75rem;
 }
 @media screen and (min-width: 500px) {
-  figure.side img {
+  figure.side img,
+  figure.side video {
     max-width: 60%;
   }
 }
