@@ -25,10 +25,10 @@ complementam.
 </ul>
 
 <style>
-h3 {
+main h3 {
   margin-bottom: 0;
 }
-li+li {
+main li+li {
   margin-top: 2rem;
 }
 </style>

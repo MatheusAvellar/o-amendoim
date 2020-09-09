@@ -73,6 +73,9 @@ function initFirebase() {
       counts.total += counts.dislikes;
 
       updateLabels();
+
+      // Mostra seção de rating caso firebase tenha carregado corretamente
+      document.getElementById("post-rating").removeAttribute("hidden");
     });
   });
 

@@ -6,8 +6,8 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
-            Feito com <strong>&hearts;</strong> por
-            <strong>
+            Feito com <strong style="color:#e8e8e8">&hearts;</strong> por
+            <strong style="color:#e8e8e8">
               {%- if site.author -%}{{
                 site.author | escape
               }}{%- else -%}{{
@@ -25,9 +25,12 @@
         {%- include social.html -%}
       </div>
       <div class="footer-col footer-col-3">
-        <p>{{- site.footer-desc | escape -}}</p>
         <p class="rss-subscribe">
-          <a href="{{ "/feed.xml" | relative_url }}">RSS</a> disponível!
+          <a href="{{ "/feed.xml" | relative_url }}">
+            <svg class="svg-icon grey">
+              <use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+            </svg><span class="username" style="margin-left:4px">RSS</span>
+          </a>
         </p>
       </div>
     </div>
