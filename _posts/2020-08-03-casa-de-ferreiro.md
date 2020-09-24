@@ -108,7 +108,7 @@ Portanto, possuímos 4 variações do ditado para procurar.
 
 ## Primeiro registro
 
-<p class="note">
+<p class="note sidenote">
   <strong>Nota</strong>: "primeiro registro"... encontrado por mim. Não posso
   fazer a reivindicação de que qualquer um desses é o <em>primeiro</em> uso
   registrado, mas na extensão das minhas pesquisas, foram os mais antigos que eu
