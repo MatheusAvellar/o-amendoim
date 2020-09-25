@@ -342,6 +342,7 @@ figure {
 figure img, figure video {
   max-height: 40rem;
   max-width: 100%;
+  height: auto;
   display: inline-block;
   border: 2px solid #eee;
   -webkit-border-radius: 6px;
@@ -350,10 +351,11 @@ figure img, figure video {
   -webkit-box-shadow: 5px 5px 10px 0 #ececec;
      -moz-box-shadow: 5px 5px 10px 0 #ececec;
           box-shadow: 5px 5px 10px 0 #ececec;
+  background-color: #f8f8f8;
 }
 figure.top    { margin-bottom: 1rem; }
 figure.bottom { margin-top: 1rem; }
-figure.left { text-align: left; }
+figure.left   { text-align: left; }
 figure img + img,
 figure video + img,
 figure img + video,
@@ -380,7 +382,7 @@ figure:not(.side) figcaption {
 @media screen and (max-width: 500px) {
   figcaption {
     margin: 1em;
-    padding: 0 3em;
+    padding: 0 !important;
   }
 }
 @media screen and (min-width: 500px) {
