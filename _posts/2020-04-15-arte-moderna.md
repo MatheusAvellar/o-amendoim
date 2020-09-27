@@ -50,8 +50,7 @@ tudo, ["Branco no Branco"](https://en.wikipedia.org/wiki/White_on_White) (1918).
 
 <figure>
   <img loading="lazy" alt="Fotografias dos quadros mencionados."
-   src="/assets/img/2020-04-15/quadros.png"
-   width="856" height="287">
+   src="/assets/img/2020-04-15/quadros.png" height="287">
   <figcaption>
     <em>
       Da esquerda pra direita, respectivamente: "Quadrado Preto", "Círculo
@@ -68,8 +67,7 @@ e tirar uma foto.
 
 <figure class="side">
   <img loading="lazy" alt="Eu, em pé, com pose pensativa, em frente a um quadro em branco"
-   src="/assets/img/2020-04-15/photo.jpg"
-   width="1726" height="2302">
+   src="/assets/img/2020-04-15/photo.jpg" height="2302">
   <figcaption>
     <em>
       Eu analisando sarcasticamente um quadro inteiramente branco ("B-11
@@ -163,7 +161,7 @@ informações mais relevantes pra esse artigo:
 
 <figure>
   <img loading="lazy" alt="Parte de um arquivo PDF com dados sobre a obra."
-   src="/assets/img/2020-04-15/pdf.png" width="1220" height="851">
+   src="/assets/img/2020-04-15/pdf.png" height="851">
   <figcaption>
     <em>
       O arquivo com as informações do quadro em questão. Acho hilário o

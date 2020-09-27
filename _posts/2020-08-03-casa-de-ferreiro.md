@@ -70,8 +70,7 @@ mais famosa e mais comum no hemisfério norte).
   <img loading="lazy"
 alt="Scan de página da revista 'Almansor: Revista de Cultura', primeira edição
 de 2002 (2ª série). O texto diz: 'Em casa de ferreiro, espeto de salgueiro: uma
-abordagem ao ofício de ferreiro. De Maria do Rosário Caeiro.'"
-width="1145" height="259"
+abordagem ao ofício de ferreiro. De Maria do Rosário Caeiro.'" height="259"
    src="/assets/img/2020-08-03/almansor.png">
   <figcaption>
     <em>
@@ -134,13 +133,13 @@ Commercio</a>, em que uma coluna de autoria de "*Carapuceiro*" possui o ditado
 <figure class="top">
   <img loading="lazy"
    alt="Cabeçalho do 'Jornal do Commercio', edição de 7 de novembro de 1834."
-   src="/assets/img/2020-08-03/commercio-1.jpg" width="3886" height="788">
+   src="/assets/img/2020-08-03/commercio-1.jpg" height="788">
 </figure>
 
 <figure class="bottom side">
   <img loading="lazy"
 alt="Trecho do 'Jornal do Commercio' que, além de outras coisas, utiliza a
-expressão 'Em casa de ferreiro, espeto de pau'." width="1304" height="982"
+expressão 'Em casa de ferreiro, espeto de pau'." height="982"
    src="/assets/img/2020-08-03/commercio-2.jpg">
   <figcaption>
     <em>
@@ -210,7 +209,7 @@ online</a> –, com comentários comemorativos sobre a nova imprensa:
 
 <figure class="side">
   <img loading="lazy" alt="Citação do Correio Braziliense, de junho de 1808."
-   src="/assets/img/2020-08-03/correio-braziliense.png" width="782" height="424">
+   src="/assets/img/2020-08-03/correio-braziliense.png" height="424">
   <figcaption>
     <em>
       <q>Saiba pois o Mundo, e a posteridade, que no anno de 1808 [...] mandou o
@@ -273,16 +272,14 @@ ferreiro pior apeiro</strong>":
 <figure class="top">
   <img loading="lazy"
 alt="Scan de parte do cabeçalho do 'Diccionario da Lingua Portugueza', de 1789."
-   src="/assets/img/2020-08-03/diccionario-portugueza-1.png"
-   width="1209" height="545"
+   src="/assets/img/2020-08-03/diccionario-portugueza-1.png" height="545"
    style="max-height:20rem">
 </figure>
 
 <figure class="bottom side">
   <img loading="lazy"
 alt="Trecho do 'Diccionario da Lingua Portugueza' que, além de outras coisas,
-cita a expressão 'Em casa de ferreiro, pior apeiro'."
-   width="546" height="179"
+cita a expressão 'Em casa de ferreiro, pior apeiro'." height="179"
    src="/assets/img/2020-08-03/diccionario-portugueza-2.png">
   <figcaption>
     <em>
@@ -338,7 +335,7 @@ apeiro</q></strong>:
   <img loading="lazy"
    alt="Scan de parte do cabeçalho do 'Adagios Portuguezes', de 1651."
    src="/assets/img/2020-08-03/adagios-portvgvezes-1.png"
-   width="897" height="329"
+   height="329"
    style="max-height:10rem">
 </figure>
 
@@ -346,7 +343,7 @@ apeiro</q></strong>:
   <img loading="lazy"
 alt="Trecho do 'Adagios Portuguezes' que, além de outras coisas, utiliza a
 expressão 'Em casa de ferreiro, pior apeiro'."
-   width="721" height="259"
+   height="259"
    src="/assets/img/2020-08-03/adagios-portvgvezes-2.png">
   <figcaption>
     <em>
@@ -393,7 +390,7 @@ href="https://pt.wikipedia.org/wiki/Madrid">Madrid</a>, 1729):
 <figure class="top">
   <img loading="lazy" alt="Cabeçalho da capa do dicionário castelhano de 1729."
    src="/assets/img/2020-08-03/diccionario-castellana-1.png"
-   width="877" height="531"
+   height="531"
    style="max-height:15rem">
 </figure>
 
@@ -401,7 +398,7 @@ href="https://pt.wikipedia.org/wiki/Madrid">Madrid</a>, 1729):
   <img loading="lazy"
    alt="Trecho do dicionário que lista as três variantes da expressão."
    src="/assets/img/2020-08-03/diccionario-castellana-2.png"
-   width="419" height="176">
+   height="176">
   <figcaption>
     <em>
       As três variantes da expressão, conectadas como se por magia em um
@@ -431,13 +428,13 @@ línguas:
   <img loading="lazy"
    alt="Cabeçalho da capa do 'Tesoro da Lengua Castellana', de 1611."
    src="/assets/img/2020-08-03/tesoro-castellana-1.png"
-   width="873" height="300">
+   height="300">
 </figure>
 <figure class="bottom side">
   <img loading="lazy"
 alt="Trecho do 'Tesoro da Lengua Castellana' que lista as expressões 'pior
 apeiro' e 'faca mal-forjada'."
-   width="417" height="337"
+   height="337"
    src="/assets/img/2020-08-03/tesoro-castellana-2.png">
   <figcaption>
     <em>
@@ -450,18 +447,18 @@ apeiro' e 'faca mal-forjada'."
 <figure class="top">
   <img loading="lazy" alt="Cabeçalho da capa do 'Refranes', de 1555."
    src="/assets/img/2020-08-03/refranes-1.png"
-   width="869" height="259">
+   height="259">
 </figure>
 
 <figure class="bottom side left">
   <img loading="lazy"
 alt="Trecho do 'Refranes' que lista a variante 'faca mal-forjada'."
    src="/assets/img/2020-08-03/refranes-2.png"
-   width="400" height="234">
+   height="234">
   <img loading="lazy"
 alt="Trecho de 'Refranes' que lista a variante 'pior apeiro'."
    src="/assets/img/2020-08-03/refranes-3.png"
-   width="389" height="152">
+   height="152">
   <figcaption>
     <em>
       Duas variantes, "mal-forjada" e "pior apeiro", listadas no "<i
@@ -495,7 +492,7 @@ publicado originalmente em 1531, só encontrei versões digitalizadas de 1550 e
 <figure class="">
   <img loading="lazy" alt="Capa do 'Norte de los estados' (edição de 1550)."
    src="/assets/img/2020-08-03/norte-de-los-estados-1.png"
-   width="1140" height="1629">
+   height="1629">
   <figcaption>
     <em>
       Capa da edição de 1550 de "Noꝛte de los eſtados"
@@ -525,11 +522,11 @@ A frase em questão é a seguinte:
   <img loading="lazy"
 alt="Trecho do 'Norte de los estados' (1550) com a frase descrita acima."
    src="/assets/img/2020-08-03/norte-de-los-estados-2-1.png"
-   width="782" height="289">
+   height="289">
   <img loading="lazy"
 alt="Trecho do 'Norte de los estados' (1541) com a frase descrita acima."
    src="/assets/img/2020-08-03/norte-de-los-estados-2-2.png"
-   width="712" height="257">
+   height="257">
   <figcaption>
     <em>
       Cima: "Norte de los estados", (<a
@@ -591,7 +588,7 @@ lista expressões em português e suas equivalências em chinês:
   <img loading="lazy"
    alt="Scan de trecho do livro de Joaquim Affonso Gonçalves, de 1829."
    src="/assets/img/2020-08-03/arte-china.png"
-   width="998" height="198">
+   height="198">
   <figcaption>
     <em>
       <q>Em casa de ferreiro, espeto de pao</q> / <q><i lang="zh" style="
@@ -642,7 +639,7 @@ do cuteleiro");
   <img loading="lazy"
 alt="Cabeçalho da capa do 'Dictionary of the Portuguese and English', de 1773."
    src="/assets/img/2020-08-03/dictionary-portuguese-english-1.png"
-   width="1025" height="612"
+   height="612"
    style="max-height:20rem">
 </figure>
 
@@ -651,7 +648,7 @@ alt="Cabeçalho da capa do 'Dictionary of the Portuguese and English', de 1773."
 alt="Trecho do 'Dictionary of the Portuguese and English' que lista a variante
 'pior apeiro', além de suas equivalências em inglês."
    src="/assets/img/2020-08-03/dictionary-portuguese-english-2.png"
-   width="374" height="223">
+   height="223">
   <figcaption>
     <em>
       <q>Em caſa de ferreiro peyor apeiro</q> –
@@ -680,7 +677,7 @@ de 1726 que encontrei que também menciona o provérbio (curiosamente, não sob
   <img loading="lazy"
 alt="Cabeçalho da capa do 'A New Dictionary, Spanish and English', de 1726."
    src="/assets/img/2020-08-03/new-dictionary-spanish-english-1.png"
-   width="1052" height="401"
+   height="401"
    style="max-height:15rem">
 </figure>
 
@@ -690,7 +687,7 @@ alt="Trecho do 'A New Dictionary, Spanish and English' que lista, em espanhol,
 as variantes 'pior apeiro' e 'faca mal-forjada', além de suas equivalências em
 inglês."
    src="/assets/img/2020-08-03/new-dictionary-spanish-english-2.png"
-   width="368" height="165">
+   height="165">
   <figcaption>
     <em>
       <i lang="es"><q>En cáſa del herréro peór apéro</q></i> e <i
