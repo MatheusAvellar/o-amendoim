@@ -489,7 +489,7 @@ Importante notar que, apesar do livro ser citado por outros como tendo sido
 publicado originalmente em 1531, só encontrei versões digitalizadas de 1550 e
 1541 (respectivamente abaixo).
 
-<figure class="">
+<figure>
   <img loading="lazy" alt="Capa do 'Norte de los estados' (edição de 1550)."
    src="/assets/img/2020-08-03/norte-de-los-estados-1.png"
    height="1629">

@@ -28,6 +28,8 @@ body {
 h1,h2,h3,h4,h5,h6 {
   font-family: "IBM Plex Serif", serif;
   line-height: 1.1;
+  font-weight: 600;
+  font-style: italic;
 }
 main p,
 main ul,
@@ -82,8 +84,12 @@ a[href]:hover {
   -webkit-border-radius: 3px;
      -moz-border-radius: 3px;
           border-radius: 3px;
+  -webkit-box-shadow: 5px 5px 10px 0 #ececec;
+     -moz-box-shadow: 5px 5px 10px 0 #ececec;
+          box-shadow: 5px 5px 10px 0 #ececec;
   font-size: 90%;
   padding: 0.75rem 1rem;
+  position: relative;
 }
 @media screen and (min-width: 1175px) {
   .post-content .note.sidenote {
@@ -91,6 +97,17 @@ a[href]:hover {
     left: 755px;
     width: 150px;
     font-size: 80%;
+  }
+  .post-content .note.sidenote::before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: -1rem;
+    border-left-width: 0px;
+    border-right: 1rem solid #f6f6f6;
+    border-top: 0.5rem solid transparent;
+    border-bottom: 0.5rem solid transparent;
   }
 }
 /* Padding on all pages' content */
@@ -123,6 +140,8 @@ a[href]:hover {
 h2.tag-name {
   font-family: inherit;
   font-size: 24px;
+  font-style: normal;
+  font-weight: normal;
 }
 h2.tag-name::before {
   content: "#";
