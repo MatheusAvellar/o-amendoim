@@ -90,6 +90,7 @@ a[href]:hover {
   font-size: 90%;
   padding: 0.75rem 1rem;
   position: relative;
+  --y: 0;
 }
 @media screen and (min-width: 1175px) {
   .post-content .note.sidenote {
@@ -97,6 +98,7 @@ a[href]:hover {
     left: 755px;
     width: 150px;
     font-size: 80%;
+    transform: translateY(var(--y));
   }
   .post-content .note.sidenote::before {
     content: "";
@@ -313,6 +315,9 @@ p.post-disclaimer::before {
 .blog-post .hidden {
   visibility: hidden;
   font-size: 0;
+}
+.blog-post [id] {
+  scroll-margin-top: 2ex;
 }
 /* Customize <hr> because minima's is awful*/
 hr {

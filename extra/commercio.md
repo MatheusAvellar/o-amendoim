@@ -225,7 +225,7 @@ um preço, em réis de 1834, seria equivalente em reais de 2019.
 
 Pelos meus cálculos, a diferença é um fator de **22,9510576923077**. Ou seja:
 
-R$1 ≅ $23 Rs<br>
+R$1 ≅ 23 Rs<br>
 1 Rs ≅ R$ 0,04
 
 Com essa informação, podemos calcular o preço equivalente da assinatura do
