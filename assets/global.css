@@ -119,6 +119,9 @@ a[href]:hover {
 .site-header {
   border: 0;
 }
+.site-nav {
+  z-index: 100;
+}
 @media screen and (max-width: 700px) {
   .post-content ul, .post-content ol {
     margin-left: 1.5rem;

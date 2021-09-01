@@ -37,7 +37,7 @@ layout: default
       {%- if page.edit -%}
       <span class="dt-edited-wrapper">
         Editado em
-        <time class="dt-edited" datetime="{{ page.edit | date_to_xmlschema }}" itemprop="datePublished">
+        <time class="dt-edited" datetime="{{ page.edit | date_to_xmlschema }}" itemprop="dateModified">
           {% assign m = page.edit | date: "%-m" %}
           {{ page.date | date: "%-d" }} de {% case m %}{%
             when '1' %}janeiro{%
