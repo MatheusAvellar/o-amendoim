@@ -280,7 +280,7 @@ mais algumas gotas, e ainda assim ele afetava pouquíssimo o gosto.
 Meu veredito é: **nota 6/10** – seria confundido com um ovo frito normal, e não
 é nada muito além de um ovo frito normal.
 
-Sobre o atual, não tenho muito o que falar sobre. Ficou com gosto de ovo frito.
+Sobre o atual, não tenho muito o que falar. Ficou com gosto de ovo frito.
 É um ovo frito comum, como qualquer outro que eu já comi.
 
 Sim, essa conclusão também foi decepcionante para mim. Queria que a receita
