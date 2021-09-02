@@ -283,6 +283,16 @@ Meu veredito é: **nota 6/10** – seria confundido com um ovo frito normal, e n
 Sobre o atual, não tenho muito o que falar. Ficou com gosto de ovo frito.
 É um ovo frito comum, como qualquer outro que eu já comi.
 
+Uma coisa que eu acho interessante de pontuar é que os portugueses aparentemente
+não gostam de colocar os tempeiros *durante* o preparo do ovo, mas sim ao final.
+Eu pessoalmente nunca fiz isso ao preparar um ovo; sempre coloco sal e pimenta
+enquanto ele ainda está molengão pra que os temperos sejam distribuídos mais
+uniformemente. Em 400 anos eles ainda não aprenderam o que nós, brasileiros, já
+fazemos intuitivamente <span class="twa twa-zany-face">🤪</span> Brincadeira,
+viu, seguimores portugueses?
+
+---
+
 Sim, essa conclusão também foi decepcionante para mim. Queria que a receita
 antiga fosse tão ruim que nem o cachorro aguentaria comer! Mas, como dito
 anteriormente, nem tudo na vida vai como a gente gostaria.
