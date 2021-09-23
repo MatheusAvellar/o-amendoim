@@ -5,7 +5,7 @@ ref:    "moedas-obscuras-do-real"
 title:  "Sobre as moedas obscuras, mas oficiais, do Real"
 edit:   2020-08-17 21:00:00 -0300
 excerpt: "Quantas moedas diferentes de Real existem? Spoiler e clickbait: mais que 6"
-categories: [dinheiro,real]
+categories: [dinheiro, real]
 ---
 
 Se alguém lhe perguntasse quais são as moedas válidas do Real, atualmente, você

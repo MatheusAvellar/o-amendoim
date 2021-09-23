@@ -6,7 +6,7 @@ title:  "400 anos de ovo frito"
 #edit:   2020-04-15 22:22:00 -0300
 excerpt: "Como uma receita de ovo frito do século XVII se compara com uma
           receita atual? Eu fiz ambas para descobrir!"
-categories: [pesquisa, gastronomia]
+categories: [pesquisa, antiguidade, gastronomia]
 ---
 
 1. (tabela de conteúdo)

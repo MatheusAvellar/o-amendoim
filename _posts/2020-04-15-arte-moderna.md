@@ -5,7 +5,7 @@ ref:    "arte-moderna"
 title:  "Sobre a arte moderna"
 #edit:   2020-04-15 22:22:00 -0300
 excerpt: "Até que tem um significado por trás"
-categories: [opinião,arte]
+categories: [opinião, arte]
 ---
 
 Eu sempre fui do tipo de pessoa que vê uma peça de arte moderna e fala "não
