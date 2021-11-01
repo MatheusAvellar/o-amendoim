@@ -216,7 +216,7 @@ não texto. Quem define esses códigos é o Unicode.
 Isso se aplica a todos os caracteres que você vê em um computador. Um computador
 não sabe o que é, por exemplo, um asterisco (\*); ele somente entende seu código
 no Unicode correspondente – `U+002A`. Caracteres de idiomas atuais (水) ou antigos
-(𓂀); símbolos matemáticos (∞); e até emojis (😱) – todos só podem ser
+(𓂀); símbolos matemáticos (∞); e até emojis (<i class="twa twa-face-screaming-in-fear">😱</i>) – todos só podem ser
 digitados em um computador porque o Unicode possui códigos para eles.
 
 Possuindo um código próprio, eles podem ser copiados e enviados para seus
