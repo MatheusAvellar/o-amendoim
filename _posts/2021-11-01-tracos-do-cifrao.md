@@ -130,7 +130,7 @@ têm "Real" escrito por extenso ao invés de possuir o símbolo R$:
 <figure class="bottom side">
   <img alt="Moeda de 1 real."
    src="/assets/img/2021-11-01/1.png"
-   style="max-height:10rem">
+   style="max-height:10rem;border-radius:100%">
   <figcaption>
     <em>
       Cima: nota de 200 reais, onde há escrito "200 <b>reais</b>" ao invés de
