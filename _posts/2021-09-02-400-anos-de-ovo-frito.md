@@ -33,11 +33,11 @@ No dia, até postei um tweet fazendo piada com as receitas da época:
 <blockquote class="custom-tweet">
   <div class="profile">
     <img class="profile-picture" src="/assets/tweet/aveiiar.jpg">
-    <b>avellar 🪙</b><br><address>@aveIIar</address>
+    <b>avellar <span class="emoji twemoji coin">🪙</span></b><br><address>@aveIIar</address>
   </div>
   <p class="tweet-content" lang="pt">
     eu: haha livro de receitas de 1814 quais receitas esquisitas será que eles
-    tinham <span class="twa twa-zany-face">🤪</span><span class="twa twa-zany-face">🤪</span><br><br>
+    tinham <span class="emoji twemoji zany-face">🤪</span><span class="emoji twemoji zany-face">🤪</span><br><br>
     o livro: RECEITAS DE POMBO<br><br>
     PRIMEIRO PRATO: POMBOS DOURADOS
   </p>
@@ -45,10 +45,8 @@ No dia, até postei um tweet fazendo piada com as receitas da época:
   <a href="https://twitter.com/aveIIar/status/1289789412604248064">2:05 · 2 ago.2020</a>
 </blockquote>
 <link rel="stylesheet" href="/assets/tweet/tweet.css">
-<style>
-  .twa{color:transparent;font-style:normal;display:inline-block;height:1em;width:1em;margin:0 .05em 0 .1em;vertical-align:-.1em;background-repeat:no-repeat;background-position:center center;background-size:1em 1em}
-  .twa-zany-face{background-image:url(https://twemoji.maxcdn.com/v/latest/svg/1f92a.svg)}
-</style>
+<link rel="stylesheet" href="https://cdn.avl.la/emoji/emoji.css">
+<link rel="stylesheet" href="https://cdn.avl.la/emoji/twemoji.css">
 
 Mas, como vários de meus projetos, coloquei essa ideia na gaveta e não pensei
 muito mais nela.

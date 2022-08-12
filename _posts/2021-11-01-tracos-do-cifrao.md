@@ -9,8 +9,10 @@ excerpt: "Em nenhuma moeda ou cédula do Real está presente o símbolo R$.
 categories: [pesquisa,dinheiro,real]
 ---
 
+<link rel="stylesheet" type="text/css" href="https://cdn.avl.la/emoji/emoji.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.avl.la/emoji/fluent.css">
 <link href="https://fonts.googleapis.com/css2?family=Old+Standard+TT:wght@700&text=CRr$0123456789&display=swap" rel="stylesheet">
-<style>.s1{font-family:Arial,Helvetica,sans-serif}.s2{font-family:"Old Standard TT","IBM Plex Serif",serif;font-size:110%}.s1,.s2{font-weight:bold}</style>
+<style>.s1{font-family:Arial,Roboto,Helvetica,sans-serif}.s2{font-family:"Old Standard TT","IBM Plex Serif",serif;font-size:110%}.s1,.s2{font-weight:bold}</style>
 
 <p class="note">
   <strong>Nota</strong>: A história do cifrão em si não é exata e existem
@@ -216,8 +218,9 @@ não texto. Quem define esses códigos é o Unicode.
 Isso se aplica a todos os caracteres que você vê em um computador. Um computador
 não sabe o que é, por exemplo, um asterisco (\*); ele somente entende seu código
 no Unicode correspondente – `U+002A`. Caracteres de idiomas atuais (水) ou antigos
-(𓂀); símbolos matemáticos (∞); e até emojis (<i class="twa twa-face-screaming-in-fear">😱</i>) – todos só podem ser
-digitados em um computador porque o Unicode possui códigos para eles.
+(𓂀); símbolos matemáticos (∞); e até emojis (<i class="emoji fluent face-screaming-in-fear">😱</i>)
+– todos só podem ser digitados em um computador porque o Unicode possui códigos
+para eles.
 
 Possuindo um código próprio, eles podem ser copiados e enviados para seus
 amigos; o computador recebendo os códigos os interpreta e mostra os caracteres
@@ -533,10 +536,9 @@ que estabelecemos mais acima ter necessariamente 2 traços. E, em alguns casos,
 a fonte para cabeçalhos, títulos e manchetes possuía cifrão com 2 traços – mas
 também nem sempre.
 
-<link rel="stylesheet" type="text/css" href="/assets/twemoji-amazing.css">
 <p class="note sidenote" style="--y:-3em">
   É quase como se ninguém além de mim se importasse com o número de traços do
-  cifrão! <i class="twa twa-woozy-face">🥴</i>
+  cifrão! <i class="emoji fluent woozy-face">🥴</i>
 </p>
 
 <figure class="top">
