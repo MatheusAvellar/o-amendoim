@@ -1,0 +1,59 @@
+blockquote.custom-tweet {
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 6px;
+  border: 2px solid #eee;
+  box-shadow: 5px 5px 10px 0 #ececec;
+  background-color: #fff;
+  font-family: inherit;
+  font-size: 19px;
+  line-height: 1.3125;
+  min-width: 250px;
+  max-width: 550px;
+  max-width: min(550px,100vw);
+  box-sizing: border-box;
+  color: inherit;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+blockquote.custom-tweet div.profile {
+  line-height: 1;
+}
+blockquote.custom-tweet p.tweet-content {
+  margin: 1em 0;
+}
+blockquote.custom-tweet a[href] {
+  display: inline-block;
+  color: #5b7083;
+  font-size: 15px;
+  text-decoration: none;
+  margin-top: 1em;
+}
+blockquote.custom-tweet a[href]:hover, .custom-tweet a[href]:focus {
+  text-decoration: underline;
+}
+blockquote.custom-tweet img.profile-picture {
+  display: inline-block;
+  border-radius: 100%;
+  width: 46px;
+  height: 46px;
+  vertical-align: middle;
+  margin: 0;
+  margin-right: 0.5em;
+  float: left;
+}
+blockquote.custom-tweet img.image {
+  border-radius: 12px;
+  border: 1px solid #c4cfd6;
+}
+blockquote.custom-tweet b {
+  font-size: 14px;
+  margin-top: 0.4em;
+  display: inline-block;
+}
+blockquote.custom-tweet address {
+  font-size: 14px;
+  color: #5b7083;
+  font-style: normal;
+  display: inline;
+}

@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8"/>
+	<title>
+
+			Sobre as moedas obscuras, mas oficiais, do Real —
+
+		O Amendoim
+	</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#303030">
+	<meta name="apple-mobile-web-app-title" content="O Amendoim">
+	<meta name="application-name" content="O Amendoim">
+	<meta name="msapplication-TileColor" content="#00aba9">
+	<meta name="theme-color" content="#ffffff">
+	<link rel="stylesheet" href="/assets/main.css"/>
+	<link rel="stylesheet" href="/assets/global.css"/>
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+</head>
+<body>
+	<header class="site-header" role="banner">
+	<div class="wrapper">
+
+			<a title="Home" class="site-title" href="/">
+				O&nbsp;Amendoim
+			</a>
+
+
+			<nav class="site-nav">
+				<input type="checkbox" id="nav-trigger" class="nav-trigger" />
+				<label for="nav-trigger">
+					<span class="menu-icon">
+						<svg viewBox="0 0 18 15" width="18px" height="15px">
+							<path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+						</svg>
+					</span>
+				</label>
+				<div class="trigger">
+<a class="page-link" href="/extras/">Extras</a><a class="page-link" href="/tags/">Tags</a>
+				</div>
+			</nav>
+
+	</div>
+</header>
+
+	<main class="page-content">
+		<div class="wrapper">
+			
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+	<header class="post-header">
+		<p class="post-meta">
+			<span class="dt-published-wrapper">
+				Postado em
+				<!-- FIXME: post.date tinha um "date_to_xmlschema" -->
+				<time class="dt-published" datetime="Mon Aug 17 2020 03:00:00 GMT+0000 (Coordinated Universal Time)" itemprop="datePublished">
+					17 de agosto de 2020
+				</time>
+			</span>
+				•
+			<span itemprop="author" itemscope itemtype="http://schema.org/Person">
+				por <strong class="p-author h-card" itemprop="name">Matheus Avellar</strong>
+			</span>
+
+		</p>
+		<h1 class="post-title p-name" itemprop="name headline">
+			Sobre as moedas obscuras, mas oficiais, do Real
+		</h1>
+	</header>
+	<div class="post-content e-content blog-post" itemprop="articleBody">
+		<p>Se alguém lhe perguntasse quais são as moedas válidas do Real, atualmente, você
+provavelmente diria:</p>
+<blockquote>
+<p><strong>5</strong>, <strong>10</strong>, <strong>25</strong> e <strong>50</strong> centavos, e <strong>1</strong> real.</p>
+</blockquote>
+<figure>
+	<img loading="lazy" src="/assets/img/2020-08-17/moedas-normais-real.png"
+alt="Moedas de 5, 10, 25 e 50 centavos, juntas da moeda de 1 real."
+height="355">
+	<figcaption>
+		<em>
+			As moedas que você provavelmente lembra: 5, 10, 25 e 50 centavos, e 1
+			real.<br>Crédito: <a
+href="https://www.bcb.gov.br/cedulasemoedas/moedasemitidas">Banco Central</a>.
+		</em>
+	</figcaption>
+</figure>
+<p>Dependendo da sua idade, atenção ou experiência de vida, possivelmente também
+listaria a pobre coitada da moeda que parou de ser produzida em 2004:</p>
+<blockquote>
+<p><strong>1</strong> centavo.</p>
+</blockquote>
+<figure>
+	<img loading="lazy" src="/assets/img/2020-08-17/moeda-1-centavo.png"
+alt="Moeda de 1 centavo." height="207">
+	<figcaption>
+		<em>
+			Moeda de 1 centavo que ainda vale, porém não é mais produzida.<br>Crédito:
+			© Essor Prof, disponível em <a
+href="https://en.numista.com/catalogue/pieces4049.html">Numista</a>.
+		</em>
+	</figcaption>
+</figure>
+<p>Porém, eu estou aqui para lhe informar que essas 6 não são as únicas moedas do
+Real. Na realidade, essas são somente a metade! Existem outros 6 possíveis
+valores para moedas do Real:</p>
+<blockquote>
+<p><strong>2</strong>, <strong>3</strong>, <strong>4</strong>, <strong>5</strong>, <strong>10</strong> e <strong>20</strong> reais.</p>
+</blockquote>
+<figure>
+	<img loading="lazy" src="/assets/img/2020-08-17/moedas-comemorativas-real.png"
+alt="Exemplos de moedas comemorativas." height="416">
+	<figcaption>
+		<em>
+			Exemplos de moedas de 2, 3, 4, 5, 10 e 20 reais.<br>
+			Crédito: <a
+href="https://www.bcb.gov.br/cedulasemoedas/moedascomemorativas">Banco Central</a>;<br>
+			&copy; amsouza, disponível em <a
+href="https://en.numista.com/catalogue/pieces41478.html">Numista</a>;<br>
+			&copy; <a href="http://www.macrofotografia.com.br/">Tacio Philip</a>,
+			disponível em <a
+href="https://en.numista.com/catalogue/pieces83628.html">Numista</a>;<br>
+			&copy; <a href="http://www.ha.com/">Heritage Auctions</a>,
+			disponível em <a
+href="https://en.numista.com/catalogue/pieces24885.html">Numista</a>.
+		</em>
+	</figcaption>
+</figure>
+<p>As moedas acima são alguns exemplos de moedas <em>comemorativas</em> de Real.
+Talvez chamá-las de &quot;obscuras&quot; seja um pouco de exagero, mas eu não conhecia
+metade!</p>
+<p>Você pode estar se perguntando: moedas comemorativas possuem poder de compra?
+Posso usar moedas comemorativas para comprar coisas? E a resposta é: <strong>sim</strong>!</p>
+<p>Na lista de &quot;razões para adquirir moedas comemorativas&quot;, do Banco Central, o
+primeiro motivo listado é:</p>
+<figure>
+	<img loading="lazy" src="/assets/img/2020-08-17/bc-razoes.png"
+alt="Print da lista de razões." height="190">
+</figure>
+<blockquote>
+	<p>
+		As moedas do padrão Real têm <b>curso legal</b> e <b>poder liberatório</b>
+		no Brasil.
+	</p>
+	<p>
+		—<a href="https://www.bcb.gov.br/cedulasemoedas/porquecomprar">Banco
+		Central</a> (ênfase minha).
+	</p>
+</blockquote>
+<p>Se você, como eu, não entende perfeitamente jargão financeiro, talvez esteja se
+perguntando o que exatamente essa frase quer dizer.</p>
+<p>&quot;<strong>Curso legal</strong>&quot; se refere à legalidade do valor escrito na moeda. Ou seja, uma
+moeda comemorativa em que há escrito &quot;5 reais&quot; vale, por definição, R$5. Sobre
+&quot;<strong>poder liberatório</strong>&quot;, o próprio <a href="https://www.bcb.gov.br/acessoinformacao/glossario">Glossário do Banco
+Central</a> o define como:</p>
+<figure>
+	<img loading="lazy" src="/assets/img/2020-08-17/bc-glossario.png"
+alt="Print do glossário." height="142">
+</figure>
+<blockquote>
+<p>Capacidade da cédula, ou moeda, de liberar débitos, de efetuar pagamentos.</p>
+</blockquote>
+<p>Em outras palavras: <strong>você pode utilizar uma moeda comemorativa como pagamento</strong>,
+em teoria, pelo valor escrito nela – mesmo que ela possua um preço muito
+diferente para colecionadores.</p>
+<p>Foi ao mercado comprar uma caixa de leite? Pague com a sua moeda comemorativa do
+Brasil pentacampeão, de prata, com valor &quot;oficial&quot; de R$5 – mas que, por sua
+raridade e composição, está sendo vendida pela bagatela de R$300 no
+<a href="https://produto.mercadolivre.com.br/MLB-1350697993-moeda-prata-5-reais-penta-campeonato-mundial-de-futebol-_JM">Mercado Livre</a>:</p>
+<figure>
+	<img loading="lazy" src="/assets/img/2020-08-17/mercado-livre-5-reais.png"
+alt="Print do anúncio da moeda de R$5 no Mercado Livre." height="240">
+	<figcaption>
+		<em>
+			Seria uma má ideia usar uma moeda como essa para comprar uma caixa
+			de leite. E isso se o vendedor ficar convencido que ele pode legalmente
+			aceitar ela como pagamento.<br>Crédito: <a
+ href="https://www.mercadolivre.com.br/perfil/PAREDISAN">PAREDISAN</a>.
+		</em>
+	</figcaption>
+</figure>
+<p>Não tem a moeda pentacampeão de prata, mas tem a de ouro? Perfeito! Ela
+legalmente vale 4× mais (R$20) em um mercado ou loja, então você poderia
+comprar, tipo sei lá, uma ou duas lasanhas congeladas.</p>
+<p>Ou, se você não estiver com vontade de comer lasanha, pode só tentar vender a
+moeda por R$3.000, como <a href="https://produto.mercadolivre.com.br/MLB-1504893096-moeda-brasil-ouro-puro-80gr22mm200220-reais-penta-_JM">esse anúncio</a>
+no Mercado Livre:</p>
+<figure>
+	<img loading="lazy" src="/assets/img/2020-08-17/mercado-livre-20-reais.png"
+alt="Print do anúncio da moeda de R$20 no Mercado Livre." height="395">
+	<figcaption>
+		<em>
+			Seria uma <strong><u>péssima</u></strong> ideia usar uma moeda como essa
+			para comprar lasanhas.<br>Crédito: <a
+ href="https://www.mercadolivre.com.br/perfil/IRINEUS2005">IRINEUS2005</a>.
+		</em>
+	</figcaption>
+</figure>
+<hr>
+<p>Diferentemente das moedas de circulação normal, as moedas comemorativas não
+possuem um único design padrão. De acordo com a <a href="https://www.bcb.gov.br/cedulasemoedas/moedascirculacaocomemorativas">lista do Banco Central</a>,
+existem as seguintes quantidades de designs diferentes para cada moeda:</p>
+<p>{:.centered}</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:right">Valor</th>
+<th style="text-align:right">Nº de<br>variações</th>
+<th style="text-align:center">Ano do<br>1º lançamento</th>
+<th style="text-align:center">Ano do<br>lançamento mais recente</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right">R$2,00</td>
+<td style="text-align:right"><strong>16</strong></td>
+<td style="text-align:center">1994</td>
+<td style="text-align:center">2014</td>
+</tr>
+<tr>
+<td style="text-align:right">R$3,00</td>
+<td style="text-align:right"><strong>2</strong></td>
+<td style="text-align:center">1995</td>
+<td style="text-align:center">1997</td>
+</tr>
+<tr>
+<td style="text-align:right">R$4,00</td>
+<td style="text-align:right"><strong>1</strong></td>
+<td style="text-align:center">1994</td>
+<td style="text-align:center">—</td>
+</tr>
+<tr>
+<td style="text-align:right">R$5,00</td>
+<td style="text-align:right"><strong>32</strong></td>
+<td style="text-align:center">2000</td>
+<td style="text-align:center">2016</td>
+</tr>
+<tr>
+<td style="text-align:right">R$10,00</td>
+<td style="text-align:right"><strong>5</strong></td>
+<td style="text-align:center">2014</td>
+<td style="text-align:center">2016</td>
+</tr>
+<tr>
+<td style="text-align:right">R$20,00</td>
+<td style="text-align:right"><strong>8</strong></td>
+<td style="text-align:center">1995</td>
+<td style="text-align:center">2004</td>
+</tr>
+</tbody>
+</table>
+<style>
+@supports (max-width:fit-content) {
+	table.centered {
+		display: block;
+		overflow-x: auto;
+		max-width: fit-content;
+	}
+}
+@supports (max-width:-webkit-fit-content) {
+	table.centered {
+		display: block;
+		overflow-x: auto;
+		max-width: -webkit-fit-content;
+	}
+}
+@supports (max-width:-moz-fit-content) {
+	table.centered {
+		display: block;
+		overflow-x: auto;
+		max-width: -moz-fit-content;
+	}
+}
+</style>
+<p>Totalizando <strong>64</strong> designs diferentes de moedas comemorativas.</p>
+<p>Normalmente, moedas de R$10 e R$20 reais são de ouro, enquanto que as de R$5 são
+de prata. As de outros valores às vezes são de prata, às vezes não.</p>
+<hr>
+<p>Curiosamente, na <a href="https://www.bcb.gov.br/cedulasemoedas/moedasemitidas">lista de moedas
+produzidas</a> pelo Banco
+Central, a moeda antiga de R$1 possui a seguinte nota:</p>
+<blockquote>
+<p>Em 23 de dezembro de 2003, a moeda antiga de R$1 saiu de circulação. Desde 23
+de março de 2004, a troca só pode ser feita em agências autorizadas do Banco do
+Brasil.</p>
+</blockquote>
+<figure>
+	<img loading="lazy" src="/assets/img/2020-08-17/moeda-1-real.png"
+alt="Moeda antiga de 1 real." height="157">
+	<figcaption>
+		<em>
+			Moeda antiga de 1 real, produzida em 1994.<br>Crédito: <a
+href="https://www.bcb.gov.br/cedulasemoedas/moedasemitidas">Banco Central</a>.
+		</em>
+	</figcaption>
+</figure>
+<p>Não sou expert em legalidade de moedas mas, pelo que me parece, a moeda antiga
+de 1 real não pode mais ser utilizada para compras, e só tem valor se for
+trocada em <q>agências autorizadas do Banco do Brasil</q> (presume-se que por
+uma moeda <em>nova</em> de R$1). Portanto, pelo que eu entendi, ela não é mais
+válida ou possui valor real (posso estar errado!).</p>
+<p>Enquanto isso, a moeda obscura de R$4, comemorativa do Campeonato Mundial de
+Futebol de 1994, que teve apenas 9.000 exemplares fabricados, é dinheiro 100%
+válido e legal.</p>
+<p>Uma doideira.</p>
+
+	</div>
+	<hr>
+	<section id="post-rating" hidden>
+		<strong>Deixe sua avaliação desse post!</strong>
+		<div id="rating-buttons">
+			<label>
+				Gostei
+				<button id="btn-like-post">
+					<img src="/assets/img/like.svg" draggable="false">
+				</button>
+				<span id="like-count"></span>
+			</label>
+			<label>
+				Meh
+				<button id="btn-meh-post">
+					<img src="/assets/img/meh.svg" draggable="false">
+				</button>
+				<span id="meh-count"></span>
+			</label>
+			<label>
+				Não gostei
+				<button id="btn-dislike-post">
+					<img src="/assets/img/dislike.svg" draggable="false">
+				</button>
+				<span id="dislike-count"></span>
+			</label>
+		</div>
+	</section>
+	<script defer src="https://www.gstatic.com/firebasejs/7.17.1/firebase-app.js"></script>
+	<script defer src="https://www.gstatic.com/firebasejs/7.17.1/firebase-firestore.js"></script>
+	<script defer src="/assets/js/init-firebase.js"></script>
+</article>
+
+		</div>
+	</main>
+	<footer class="site-footer h-card">
+	<div class="wrapper">
+		<h2 class="footer-heading">Obrigado por ler!</h2>
+		<div class="footer-col-wrapper">
+			<div class="footer-col footer-col-1">
+				<ul class="contact-list">
+					<li class="p-name">
+						Feito com <strong style="color:#e8e8e8">&hearts;</strong> por
+						<strong style="color:#e8e8e8">Matheus Avellar</strong>
+					</li>
+					<li>Rio de Janeiro, Brasil</li>
+					<li><a class="u-email" href="mailto:o@amendo.im">o@amendo.im</a></li>
+				</ul>
+			</div>
+			<div class="footer-col footer-col-2">
+				<ul class="social-media-list">
+					<li>
+						<a href="https://avl.la">
+							<svg class="svg-icon">
+								<use xlink:href="/assets/social-icons.svg#web"></use>
+							</svg>
+							<span class="username">avl.la</span>
+						</a>
+					</li>
+					<li>
+						<a href="https://twitter.com/aveiiar">
+							<svg class="svg-icon">
+								<use xlink:href="/assets/social-icons.svg#twitter"></use>
+							</svg>
+							<span class="username">aveiiar</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</footer>
+	<!--[Ref] csswizardry.com/2020/05/the-fastest-google-fonts-->
+	<link rel="preload" as="style"
+				href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,600;1,600&family=Roboto:ital,wght@0,400;0,500;1,400;1,500&display=swap">
+	<link rel="stylesheet" media="print" onload="this.media='all'"
+				href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,600;1,600&family=Roboto:ital,wght@0,400;0,500;1,400;1,500&display=swap">
+	<noscript>
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,600;1,600&family=Roboto:ital,wght@0,400;0,500;1,400;1,500&display=swap">
+	</noscript>
+</body>
+</html>
