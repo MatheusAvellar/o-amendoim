@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre
-#header: yes
+header: yes
 permalink: /sobre/
 ---
 ## Sobre mim

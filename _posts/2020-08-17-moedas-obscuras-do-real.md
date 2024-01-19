@@ -3,7 +3,8 @@ layout: post
 lang:   "pt-br"
 ref:    "moedas-obscuras-do-real"
 title:  "Sobre as moedas obscuras, mas oficiais, do Real"
-edit:   2020-08-17 21:00:00 -0300
+date: 2020-08-17 00:00:00 -3
+#edit: 2020-08-17 21:00:00 -3
 excerpt: "Quantas moedas diferentes de Real existem? Spoiler e clickbait: mais que 6"
 categories: [dinheiro, real]
 ---
@@ -14,16 +15,16 @@ provavelmente diria:
 > **5**, **10**, **25** e **50** centavos, e **1** real.
 
 <figure>
-  <img loading="lazy" src="/assets/img/2020-08-17/moedas-normais-real.png"
+	<img loading="lazy" src="/assets/img/2020-08-17/moedas-normais-real.png"
 alt="Moedas de 5, 10, 25 e 50 centavos, juntas da moeda de 1 real."
 height="355">
-  <figcaption>
-    <em>
-      As moedas que você provavelmente lembra: 5, 10, 25 e 50 centavos, e 1
-      real.<br>Crédito: <a
+	<figcaption>
+		<em>
+			As moedas que você provavelmente lembra: 5, 10, 25 e 50 centavos, e 1
+			real.<br>Crédito: <a
 href="https://www.bcb.gov.br/cedulasemoedas/moedasemitidas">Banco Central</a>.
-    </em>
-  </figcaption>
+		</em>
+	</figcaption>
 </figure>
 
 Dependendo da sua idade, atenção ou experiência de vida, possivelmente também
@@ -32,15 +33,15 @@ listaria a pobre coitada da moeda que parou de ser produzida em 2004:
 > **1** centavo.
 
 <figure>
-  <img loading="lazy" src="/assets/img/2020-08-17/moeda-1-centavo.png"
+	<img loading="lazy" src="/assets/img/2020-08-17/moeda-1-centavo.png"
 alt="Moeda de 1 centavo." height="207">
-  <figcaption>
-    <em>
-      Moeda de 1 centavo que ainda vale, porém não é mais produzida.<br>Crédito:
-      © Essor Prof, disponível em <a
+	<figcaption>
+		<em>
+			Moeda de 1 centavo que ainda vale, porém não é mais produzida.<br>Crédito:
+			© Essor Prof, disponível em <a
 href="https://en.numista.com/catalogue/pieces4049.html">Numista</a>.
-    </em>
-  </figcaption>
+		</em>
+	</figcaption>
 </figure>
 
 Porém, eu estou aqui para lhe informar que essas 6 não são as únicas moedas do
@@ -50,23 +51,23 @@ valores para moedas do Real:
 > **2**, **3**, **4**, **5**, **10** e **20** reais.
 
 <figure>
-  <img loading="lazy" src="/assets/img/2020-08-17/moedas-comemorativas-real.png"
+	<img loading="lazy" src="/assets/img/2020-08-17/moedas-comemorativas-real.png"
 alt="Exemplos de moedas comemorativas." height="416">
-  <figcaption>
-    <em>
-      Exemplos de moedas de 2, 3, 4, 5, 10 e 20 reais.<br>
-      Crédito: <a
+	<figcaption>
+		<em>
+			Exemplos de moedas de 2, 3, 4, 5, 10 e 20 reais.<br>
+			Crédito: <a
 href="https://www.bcb.gov.br/cedulasemoedas/moedascomemorativas">Banco Central</a>;<br>
-      &copy; amsouza, disponível em <a
+			&copy; amsouza, disponível em <a
 href="https://en.numista.com/catalogue/pieces41478.html">Numista</a>;<br>
-      &copy; <a href="http://www.macrofotografia.com.br/">Tacio Philip</a>,
-      disponível em <a
+			&copy; <a href="http://www.macrofotografia.com.br/">Tacio Philip</a>,
+			disponível em <a
 href="https://en.numista.com/catalogue/pieces83628.html">Numista</a>;<br>
-      &copy; <a href="http://www.ha.com/">Heritage Auctions</a>,
-      disponível em <a
+			&copy; <a href="http://www.ha.com/">Heritage Auctions</a>,
+			disponível em <a
 href="https://en.numista.com/catalogue/pieces24885.html">Numista</a>.
-    </em>
-  </figcaption>
+		</em>
+	</figcaption>
 </figure>
 
 As moedas acima são alguns exemplos de moedas <em>comemorativas</em> de Real.
@@ -80,19 +81,19 @@ Na lista de "razões para adquirir moedas comemorativas", do Banco Central, o
 primeiro motivo listado é:
 
 <figure>
-  <img loading="lazy" src="/assets/img/2020-08-17/bc-razoes.png"
+	<img loading="lazy" src="/assets/img/2020-08-17/bc-razoes.png"
 alt="Print da lista de razões." height="190">
 </figure>
 
 <blockquote>
-  <p>
-    As moedas do padrão Real têm <b>curso legal</b> e <b>poder liberatório</b>
-    no Brasil.
-  </p>
-  <p>
-    —<a href="https://www.bcb.gov.br/cedulasemoedas/porquecomprar">Banco
-    Central</a> (ênfase minha).
-  </p>
+	<p>
+		As moedas do padrão Real têm <b>curso legal</b> e <b>poder liberatório</b>
+		no Brasil.
+	</p>
+	<p>
+		—<a href="https://www.bcb.gov.br/cedulasemoedas/porquecomprar">Banco
+		Central</a> (ênfase minha).
+	</p>
 </blockquote>
 
 Se você, como eu, não entende perfeitamente jargão financeiro, talvez esteja se
@@ -104,7 +105,7 @@ moeda comemorativa em que há escrito "5 reais" vale, por definição, R$5. Sobr
 Central](https://www.bcb.gov.br/acessoinformacao/glossario) o define como:
 
 <figure>
-  <img loading="lazy" src="/assets/img/2020-08-17/bc-glossario.png"
+	<img loading="lazy" src="/assets/img/2020-08-17/bc-glossario.png"
 alt="Print do glossário." height="142">
 </figure>
 
@@ -120,16 +121,16 @@ raridade e composição, está sendo vendida pela bagatela de R$300 no
 [Mercado Livre](https://produto.mercadolivre.com.br/MLB-1350697993-moeda-prata-5-reais-penta-campeonato-mundial-de-futebol-_JM):
 
 <figure>
-  <img loading="lazy" src="/assets/img/2020-08-17/mercado-livre-5-reais.png"
+	<img loading="lazy" src="/assets/img/2020-08-17/mercado-livre-5-reais.png"
 alt="Print do anúncio da moeda de R$5 no Mercado Livre." height="240">
-  <figcaption>
-    <em>
-      Seria uma má ideia usar uma moeda como essa para comprar uma caixa
-      de leite. E isso se o vendedor ficar convencido que ele pode legalmente
-      aceitar ela como pagamento.<br>Crédito: <a
+	<figcaption>
+		<em>
+			Seria uma má ideia usar uma moeda como essa para comprar uma caixa
+			de leite. E isso se o vendedor ficar convencido que ele pode legalmente
+			aceitar ela como pagamento.<br>Crédito: <a
  href="https://www.mercadolivre.com.br/perfil/PAREDISAN">PAREDISAN</a>.
-    </em>
-  </figcaption>
+		</em>
+	</figcaption>
 </figure>
 
 Não tem a moeda pentacampeão de prata, mas tem a de ouro? Perfeito! Ela
@@ -141,15 +142,15 @@ moeda por R$3.000, como [esse anúncio](https://produto.mercadolivre.com.br/MLB-
 no Mercado Livre:
 
 <figure>
-  <img loading="lazy" src="/assets/img/2020-08-17/mercado-livre-20-reais.png"
+	<img loading="lazy" src="/assets/img/2020-08-17/mercado-livre-20-reais.png"
 alt="Print do anúncio da moeda de R$20 no Mercado Livre." height="395">
-  <figcaption>
-    <em>
-      Seria uma <strong><u>péssima</u></strong> ideia usar uma moeda como essa
-      para comprar lasanhas.<br>Crédito: <a
+	<figcaption>
+		<em>
+			Seria uma <strong><u>péssima</u></strong> ideia usar uma moeda como essa
+			para comprar lasanhas.<br>Crédito: <a
  href="https://www.mercadolivre.com.br/perfil/IRINEUS2005">IRINEUS2005</a>.
-    </em>
-  </figcaption>
+		</em>
+	</figcaption>
 </figure>
 
 ---
@@ -170,25 +171,25 @@ existem as seguintes quantidades de designs diferentes para cada moeda:
 
 <style>
 @supports (max-width:fit-content) {
-  table.centered {
-    display: block;
-    overflow-x: auto;
-    max-width: fit-content;
-  }
+	table.centered {
+		display: block;
+		overflow-x: auto;
+		max-width: fit-content;
+	}
 }
 @supports (max-width:-webkit-fit-content) {
-  table.centered {
-    display: block;
-    overflow-x: auto;
-    max-width: -webkit-fit-content;
-  }
+	table.centered {
+		display: block;
+		overflow-x: auto;
+		max-width: -webkit-fit-content;
+	}
 }
 @supports (max-width:-moz-fit-content) {
-  table.centered {
-    display: block;
-    overflow-x: auto;
-    max-width: -moz-fit-content;
-  }
+	table.centered {
+		display: block;
+		overflow-x: auto;
+		max-width: -moz-fit-content;
+	}
 }
 </style>
 
@@ -208,14 +209,14 @@ de março de 2004, a troca só pode ser feita em agências autorizadas do Banco 
 Brasil.
 
 <figure>
-  <img loading="lazy" src="/assets/img/2020-08-17/moeda-1-real.png"
+	<img loading="lazy" src="/assets/img/2020-08-17/moeda-1-real.png"
 alt="Moeda antiga de 1 real." height="157">
-  <figcaption>
-    <em>
-      Moeda antiga de 1 real, produzida em 1994.<br>Crédito: <a
+	<figcaption>
+		<em>
+			Moeda antiga de 1 real, produzida em 1994.<br>Crédito: <a
 href="https://www.bcb.gov.br/cedulasemoedas/moedasemitidas">Banco Central</a>.
-    </em>
-  </figcaption>
+		</em>
+	</figcaption>
 </figure>
 
 Não sou expert em legalidade de moedas mas, pelo que me parece, a moeda antiga

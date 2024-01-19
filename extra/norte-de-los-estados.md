@@ -5,11 +5,12 @@ lang:   "pt-br"
 excerpt: "Expande sobre o trecho estudado do livro de 1531, com visualização interativa."
 ---
 
-{% for page in site.posts %}
-  {% if page.url contains "casa-de-ferreiro" %}
- <small>(veja o post o qual esse extra complementa, '[{{page.title}}]({{ page.url }})')</small>
-  {% endif %}
-{% endfor %}
+<%_ for(const post of collections.posts) {
+	if(post.url.includes("casa-de-ferreiro")) { %>
+	<small>(veja o post ao qual esse extra complementa,
+	'<a href="<%= post.url %>"><%= post.data.title %></a>)</small>
+	<%_ }
+} %>
 
 --- 
 

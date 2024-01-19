@@ -3,13 +3,56 @@ layout: post
 lang:   "pt-br"
 ref:    "casa-de-ferreiro"
 title:  "Qual é a origem de \"Casa de ferreiro, espeto de pau\"?"
+date: 2020-08-03 00:00:00 -3
 #edit:   2020-04-15 22:22:00 -0300
 excerpt: "Minha busca pelo primeiro uso escrito do ditado"
 categories: [pesquisa, antiguidade, linguística]
 ---
 
-1. (tabela de conteúdo)
-{:toc}
+<ol id="markdown-toc">
+	<li><a href="#introducao">Introdução</a></li>
+	<li><a href="#variacoes">Variações</a></li>
+	<li>
+		<a href="#primeiro-registro">Primeiro registro</a>
+		<ol>
+			<li>
+				<a href="#no-brasil">No Brasil</a>
+				<ol>
+					<li><a href="#sec-xix">Séc. XIX</a></li>
+					<li>
+						<a href="#sec-xviii">Séc. XVIII</a>
+						<ol>
+							<li><a href="#contexto">Contexto</a></li>
+							<li><a href="#ta-mas-e-dai">Tá, mas e daí</a></li>
+							<li><a href="#o-inicio-de-um-sonho">O início de um sonho</a></li>
+							<li><a href="#deu-tudo-errado">Deu tudo errado</a></li>
+						</ol>
+					</li>
+				</ol>
+			</li>
+			<li><a href="#em-portugal">Em Portugal</a></li>
+		</ol>
+	</li>
+	<li>
+		<a href="#paralelo-com-outras-linguas">Paralelo com outras línguas</a>
+		<ol>
+			<li><a href="#espanhol-castelhano">Espanhol / Castelhano</a></li>
+			<li><a href="#chines">Chinês</a></li>
+			<li><a href="#ingles">Inglês</a></li>
+		</ol>
+	</li>
+	<li>
+		<a href="#resultados">Resultados</a>
+		<ol>
+			<li><a href="#brasil">Brasil</a></li>
+			<li><a href="#portugal">Portugal</a></li>
+			<li><a href="#espanha">Espanha</a></li>
+		</ol>
+	</li>
+	<li><a href="#minha-teoria">Minha teoria</a></li>
+	<li><a href="#conclusao">Conclusão</a></li>
+	<li><a href="#saiba-pois-o-mundo-e-a-posteridade">Saiba pois o Mundo, e a posteridade</a></li>
+</ol>
 
 ---
 
@@ -36,18 +79,18 @@ inútil</a>.
 Armado com a motivação gerada por essa dúvida, eu fui pesquisar.
 
 <p class="note">
-  <strong>Nota</strong>: Vale pontuar que minhas pesquisas limitam-se em
-  grande parte ao acervo disponível online. Ou seja, livros digitalizados
-  <em>e</em> com OCR decente.<br><br><a
-href="https://pt.wikipedia.org/wiki/Reconhecimento_%C3%B3tico_de_caracteres"><i>OCR</i></a>
-  é a técnica que tenta extrair texto de imagens. Isso é necessário porque,
-  para um computador, uma fotografia de um gatinho é o mesmo que uma fotografia
-  de texto: não há informação textual. Portanto, para buscar texto em um livro
-  escaneado, precisamos do OCR. Por sorte, o Google Books já costuma aplicar OCR
-  aos livros, porém nem sempre é perfeito. Letras parecidas, como <b>c</b> e
-  <b>e</b>, ou <b>f</b> e <b>ſ</b> (S longo, usado muito em textos antigos),
-  podem ser trocadas. Portanto, às vezes convém pesquisar não por "ferreiro",
-  mas por "serreiro"; ou por "cafa" ao invés de "casa".
+	<strong>Nota</strong>: Vale pontuar que minhas pesquisas limitam-se em
+	grande parte ao acervo disponível online. Ou seja, livros digitalizados
+	<em>e</em> com OCR decente.<br><br><a
+	href="https://pt.wikipedia.org/wiki/Reconhecimento_%C3%B3tico_de_caracteres"><i>OCR</i></a>
+	é a técnica que tenta extrair texto de imagens. Isso é necessário porque,
+	para um computador, uma fotografia de um gatinho é o mesmo que uma fotografia
+	de texto: não há informação textual. Portanto, para buscar texto em um livro
+	escaneado, precisamos do OCR. Por sorte, o Google Books já costuma aplicar OCR
+	aos livros, porém nem sempre é perfeito. Letras parecidas, como <b>c</b> e
+	<b>e</b>, ou <b>f</b> e <b>ſ</b> (S longo, usado muito em textos antigos),
+	podem ser trocadas. Portanto, às vezes convém pesquisar não por "ferreiro",
+	mas por "serreiro"; ou por "cafa" ao invés de "casa".
 </p>
 
 ---
@@ -67,19 +110,19 @@ elas existem:
 mais famosa e mais comum no hemisfério norte).
 
 <figure class="side">
-  <img loading="lazy"
+	<img loading="lazy"
 alt="Scan de página da revista 'Almansor: Revista de Cultura', primeira edição
 de 2002 (2ª série). O texto diz: 'Em casa de ferreiro, espeto de salgueiro: uma
 abordagem ao ofício de ferreiro. De Maria do Rosário Caeiro.'" height="259"
-   src="/assets/img/2020-08-03/almansor.png">
-  <figcaption>
-    <em>
-      "Em casa de ferreiro, espeto de salgueiro" – <a
+	 src="/assets/img/2020-08-03/almansor.png">
+	<figcaption>
+		<em>
+			"Em casa de ferreiro, espeto de salgueiro" – <a
 href="http://www.bdalentejo.net/BDAObra/BDADigital/Obra.aspx?id=621">Almansor:
-      Revista de Cultura</a> (1ª edição; <a
+			Revista de Cultura</a> (1ª edição; <a
 href="https://pt.wikipedia.org/wiki/Montemor-o-Novo">Montemor-o-Novo</a>, 2002).
-    </em>
-  </figcaption>
+		</em>
+	</figcaption>
 </figure>
 
 Em 1940, <a
@@ -110,10 +153,10 @@ Portanto, possuímos 4 variações do ditado para procurar.
 ## Primeiro registro
 
 <p class="note sidenote">
-  <strong>Nota</strong>: "primeiro registro"... encontrado por mim. Não posso
-  fazer a reivindicação de que qualquer um desses é o <em>primeiro</em> uso
-  registrado, mas na extensão das minhas pesquisas, foram os mais antigos que eu
-  consegui encontrar.
+	<strong>Nota</strong>: "primeiro registro"... encontrado por mim. Não posso
+	fazer a reivindicação de que qualquer um desses é o <em>primeiro</em> uso
+	registrado, mas na extensão das minhas pesquisas, foram os mais antigos que eu
+	consegui encontrar.
 </p>
 
 ### No Brasil
@@ -131,28 +174,28 @@ Commercio</a>, em que uma coluna de autoria de "*Carapuceiro*" possui o ditado
 <strong><q>Em casa de ferreiro, espeto de pau</q></strong>:
 
 <figure class="top">
-  <img loading="lazy"
-   alt="Cabeçalho do 'Jornal do Commercio', edição de 7 de novembro de 1834."
-   src="/assets/img/2020-08-03/commercio-1.jpg" height="788">
+	<img loading="lazy"
+	 alt="Cabeçalho do 'Jornal do Commercio', edição de 7 de novembro de 1834."
+	 src="/assets/img/2020-08-03/commercio-1.jpg" height="788">
 </figure>
 
 <figure class="bottom side">
-  <img loading="lazy"
+	<img loading="lazy"
 alt="Trecho do 'Jornal do Commercio' que, além de outras coisas, utiliza a
 expressão 'Em casa de ferreiro, espeto de pau'." height="982"
-   src="/assets/img/2020-08-03/commercio-2.jpg">
-  <figcaption>
-    <em>
-      "Em casa de ferreiro espeto de páo" – <a
+	 src="/assets/img/2020-08-03/commercio-2.jpg">
+	<figcaption>
+		<em>
+			"Em casa de ferreiro espeto de páo" – <a
 href="http://memoria.bn.br/DocReader/DocReader.aspx?bib=364568_02&Pesq=%22casa%20de%20ferreiro%20espeto%20de%20pao%22&pagfis=5908">Jornal
-      do Commercio Nº 250</a> (<a
+			do Commercio Nº 250</a> (<a
 href="https://pt.wikipedia.org/wiki/Rio_de_Janeiro">Rio de Janeiro</a>, 7 de
-      novembro de 1834). [<a href="/extra/commercio">sobre a licença dessa
-      página</a>]
-      <br><br>
-      Crédito: Arquivo JC/D.A Press.
-    </em>
-  </figcaption>
+			novembro de 1834). [<a href="/extra/commercio">sobre a licença dessa
+			página</a>]
+			<br><br>
+			Crédito: Arquivo JC/D.A Press.
+		</em>
+	</figcaption>
 </figure>
 
 Fora da Biblioteca Nacional, encontrei duas referência em "<a
@@ -208,20 +251,20 @@ href="http://memoria.bn.br/DocReader/DocReader.aspx?bib=700142&pasta=ano%20180&p
 online</a> –, com comentários comemorativos sobre a nova imprensa:
 
 <figure class="side">
-  <img loading="lazy" alt="Citação do Correio Braziliense, de junho de 1808."
-   src="/assets/img/2020-08-03/correio-braziliense.png" height="424">
-  <figcaption>
-    <em>
-      <q>Saiba pois o Mundo, e a posteridade, que no anno de 1808 [...] mandou o
-      Governo Portuguez, no Brazil, buscar a Inglaterra uma Impressaõ [...]
-      Tarde; desgraçadamente tarde : mas em fim apparecem typos no Brazil; e eu
-      de todo o meu Coração dou os parabens aos meus compatriotas
-      Brazilienses.</q> – <a
+	<img loading="lazy" alt="Citação do Correio Braziliense, de junho de 1808."
+	 src="/assets/img/2020-08-03/correio-braziliense.png" height="424">
+	<figcaption>
+		<em>
+			<q>Saiba pois o Mundo, e a posteridade, que no anno de 1808 [...] mandou o
+			Governo Portuguez, no Brazil, buscar a Inglaterra uma Impressaõ [...]
+			Tarde; desgraçadamente tarde : mas em fim apparecem typos no Brazil; e eu
+			de todo o meu Coração dou os parabens aos meus compatriotas
+			Brazilienses.</q> – <a
 href="http://memoria.bn.br/DocReader/DocReader.aspx?bib=700142&pasta=ano%20180&pagfis=408">Correio
 Braziliense</a> (<a
 href="https://pt.wikipedia.org/wiki/Londres">Londres</a>, junho de 1808, p. 393).
-    </em>
-  </figcaption>
+		</em>
+	</figcaption>
 </figure>
 
 ##### Tá, mas e daí
@@ -270,24 +313,24 @@ encontrar, como um raio de sol em tempos chuvosos, o ditado "<strong>Em casa de
 ferreiro pior apeiro</strong>":
 
 <figure class="top">
-  <img loading="lazy"
+	<img loading="lazy"
 alt="Scan de parte do cabeçalho do 'Diccionario da Lingua Portugueza', de 1789."
-   src="/assets/img/2020-08-03/diccionario-portugueza-1.png" height="545"
-   style="max-height:20rem">
+	 src="/assets/img/2020-08-03/diccionario-portugueza-1.png" height="545"
+	 style="max-height:20rem">
 </figure>
 
 <figure class="bottom side">
-  <img loading="lazy"
+	<img loading="lazy"
 alt="Trecho do 'Diccionario da Lingua Portugueza' que, além de outras coisas,
 cita a expressão 'Em casa de ferreiro, pior apeiro'." height="179"
-   src="/assets/img/2020-08-03/diccionario-portugueza-2.png">
-  <figcaption>
-    <em>
-      "Em caſa de ferreiro peior apeiro" – <a
+	 src="/assets/img/2020-08-03/diccionario-portugueza-2.png">
+	<figcaption>
+		<em>
+			"Em caſa de ferreiro peior apeiro" – <a
 href="https://books.google.com.br/?id=kPBDAQAAMAAJ">Diccionario da Lingua
 Portugueza</a> (<a href="https://pt.wikipedia.org/wiki/Lisboa">Lisboa</a>, 1789).
-    </em>
-  </figcaption>
+		</em>
+	</figcaption>
 </figure>
 
 ##### Deu tudo errado
@@ -332,27 +375,27 @@ apeiro</q></strong>:
 
 
 <figure class="top">
-  <img loading="lazy"
-   alt="Scan de parte do cabeçalho do 'Adagios Portuguezes', de 1651."
-   src="/assets/img/2020-08-03/adagios-portvgvezes-1.png"
-   height="329"
-   style="max-height:10rem">
+	<img loading="lazy"
+	 alt="Scan de parte do cabeçalho do 'Adagios Portuguezes', de 1651."
+	 src="/assets/img/2020-08-03/adagios-portvgvezes-1.png"
+	 height="329"
+	 style="max-height:10rem">
 </figure>
 
 <figure class="bottom side">
-  <img loading="lazy"
+	<img loading="lazy"
 alt="Trecho do 'Adagios Portuguezes' que, além de outras coisas, utiliza a
 expressão 'Em casa de ferreiro, pior apeiro'."
-   height="259"
-   src="/assets/img/2020-08-03/adagios-portvgvezes-2.png">
-  <figcaption>
-    <em>
-      "Em casa do Ferreiro, pejor apeiro" – <a
+	 height="259"
+	 src="/assets/img/2020-08-03/adagios-portvgvezes-2.png">
+	<figcaption>
+		<em>
+			"Em casa do Ferreiro, pejor apeiro" – <a
 href="https://books.google.com.br/?id=1lWY_Ev5uZ8C">Adagios Portuguezes
 Reduzidos a Lugares Communs</a> (<a
 href="https://pt.wikipedia.org/wiki/Lisboa">Lisboa</a>, 1651).
-    </em>
-  </figcaption>
+		</em>
+	</figcaption>
 </figure>
 
 ---
@@ -388,26 +431,26 @@ Cosas Convenientes Al Uso De La Lengua</a></i>" (<a
 href="https://pt.wikipedia.org/wiki/Madrid">Madrid</a>, 1729):
 
 <figure class="top">
-  <img loading="lazy" alt="Cabeçalho da capa do dicionário castelhano de 1729."
-   src="/assets/img/2020-08-03/diccionario-castellana-1.png"
-   height="531"
-   style="max-height:15rem">
+	<img loading="lazy" alt="Cabeçalho da capa do dicionário castelhano de 1729."
+	 src="/assets/img/2020-08-03/diccionario-castellana-1.png"
+	 height="531"
+	 style="max-height:15rem">
 </figure>
 
 <figure class="bottom side">
-  <img loading="lazy"
-   alt="Trecho do dicionário que lista as três variantes da expressão."
-   src="/assets/img/2020-08-03/diccionario-castellana-2.png"
-   height="176">
-  <figcaption>
-    <em>
-      As três variantes da expressão, conectadas como se por magia em um
-      dicionário do século XVIII.<br>
-      Também vale notar a versão em latim, <q><i lang="la">domo in fabrili,
-      culter est hic ligneus</i></q>. Acredito, contudo, que é apenas uma
-      tradução, e não uma versão concebida em latim.
-    </em>
-  </figcaption>
+	<img loading="lazy"
+	 alt="Trecho do dicionário que lista as três variantes da expressão."
+	 src="/assets/img/2020-08-03/diccionario-castellana-2.png"
+	 height="176">
+	<figcaption>
+		<em>
+			As três variantes da expressão, conectadas como se por magia em um
+			dicionário do século XVIII.<br>
+			Também vale notar a versão em latim, <q><i lang="la">domo in fabrili,
+			culter est hic ligneus</i></q>. Acredito, contudo, que é apenas uma
+			tradução, e não uma versão concebida em latim.
+		</em>
+	</figcaption>
 </figure>
 
 E por que isso é significativo?
@@ -425,46 +468,46 @@ Nuñez</a> – a ocorrência exata mais antiga que eu encontrei, em todas as
 línguas:
 
 <figure class="top">
-  <img loading="lazy"
-   alt="Cabeçalho da capa do 'Tesoro da Lengua Castellana', de 1611."
-   src="/assets/img/2020-08-03/tesoro-castellana-1.png"
-   height="300">
+	<img loading="lazy"
+	 alt="Cabeçalho da capa do 'Tesoro da Lengua Castellana', de 1611."
+	 src="/assets/img/2020-08-03/tesoro-castellana-1.png"
+	 height="300">
 </figure>
 <figure class="bottom side">
-  <img loading="lazy"
+	<img loading="lazy"
 alt="Trecho do 'Tesoro da Lengua Castellana' que lista as expressões 'pior
 apeiro' e 'faca mal-forjada'."
-   height="337"
-   src="/assets/img/2020-08-03/tesoro-castellana-2.png">
-  <figcaption>
-    <em>
-      Duas variantes, "pior apeiro" e "mal-forjada", listadas no "<i
-      lang="es">Tesoro</i>", de 1611 (p. 251b).
-    </em>
-  </figcaption>
+	 height="337"
+	 src="/assets/img/2020-08-03/tesoro-castellana-2.png">
+	<figcaption>
+		<em>
+			Duas variantes, "pior apeiro" e "mal-forjada", listadas no "<i
+			lang="es">Tesoro</i>", de 1611 (p. 251b).
+		</em>
+	</figcaption>
 </figure>
 
 <figure class="top">
-  <img loading="lazy" alt="Cabeçalho da capa do 'Refranes', de 1555."
-   src="/assets/img/2020-08-03/refranes-1.png"
-   height="259">
+	<img loading="lazy" alt="Cabeçalho da capa do 'Refranes', de 1555."
+	 src="/assets/img/2020-08-03/refranes-1.png"
+	 height="259">
 </figure>
 
 <figure class="bottom side left">
-  <img loading="lazy"
+	<img loading="lazy"
 alt="Trecho do 'Refranes' que lista a variante 'faca mal-forjada'."
-   src="/assets/img/2020-08-03/refranes-2.png"
-   height="234">
-  <img loading="lazy"
+	 src="/assets/img/2020-08-03/refranes-2.png"
+	 height="234">
+	<img loading="lazy"
 alt="Trecho de 'Refranes' que lista a variante 'pior apeiro'."
-   src="/assets/img/2020-08-03/refranes-3.png"
-   height="152">
-  <figcaption>
-    <em>
-      Duas variantes, "mal-forjada" e "pior apeiro", listadas no "<i
-      lang="es">Refranes</i>", de 1555 (pp. 48a e 48b).
-    </em>
-  </figcaption>
+	 src="/assets/img/2020-08-03/refranes-3.png"
+	 height="152">
+	<figcaption>
+		<em>
+			Duas variantes, "mal-forjada" e "pior apeiro", listadas no "<i
+			lang="es">Refranes</i>", de 1555 (pp. 48a e 48b).
+		</em>
+	</figcaption>
 </figure>
 
 Acima, temos tanto "em casa de ferreiro, pior apeiro" quanto "em casa de
@@ -490,51 +533,51 @@ publicado originalmente em 1531, só encontrei versões digitalizadas de 1550 e
 1541 (respectivamente abaixo).
 
 <figure>
-  <img loading="lazy" alt="Capa do 'Norte de los estados' (edição de 1550)."
-   src="/assets/img/2020-08-03/norte-de-los-estados-1.png"
-   height="1629">
-  <figcaption>
-    <em>
-      Capa da edição de 1550 de "Noꝛte de los eſtados"
-    </em>
-  </figcaption>
+	<img loading="lazy" alt="Capa do 'Norte de los estados' (edição de 1550)."
+	 src="/assets/img/2020-08-03/norte-de-los-estados-1.png"
+	 height="1629">
+	<figcaption>
+		<em>
+			Capa da edição de 1550 de "Noꝛte de los eſtados"
+		</em>
+	</figcaption>
 </figure>
 
 A frase em questão é a seguinte:
 
 <blockquote>
-  <p>
-    [...] <i lang="es">en casa del herrero falta las mas vezes cuchillo <b>:</b>
-    y los porteros que tiene las llaves del castillo <b>:</b> entran menos vezes
-    a los palacios que estan dentro</i> [...]
-  </p>
-  —<cite>Francisco de Osuna (1531)</cite>
+	<p>
+		[...] <i lang="es">en casa del herrero falta las mas vezes cuchillo <b>:</b>
+		y los porteros que tiene las llaves del castillo <b>:</b> entran menos vezes
+		a los palacios que estan dentro</i> [...]
+	</p>
+	—<cite>Francisco de Osuna (1531)</cite>
 </blockquote>
 <blockquote>
-  <p>
-    <strong>Na casa do ferreiro a faca muitas vezes está faltando</strong>; e os
-    porteiros que têm as chaves do castelo; entram menos vezes nos palácios que
-    estão dentro
-  </p>
+	<p>
+		<strong>Na casa do ferreiro a faca muitas vezes está faltando</strong>; e os
+		porteiros que têm as chaves do castelo; entram menos vezes nos palácios que
+		estão dentro
+	</p>
 </blockquote>
 
 <figure class="side left">
-  <img loading="lazy"
+	<img loading="lazy"
 alt="Trecho do 'Norte de los estados' (1550) com a frase descrita acima."
-   src="/assets/img/2020-08-03/norte-de-los-estados-2-1.png"
-   height="289">
-  <img loading="lazy"
+	 src="/assets/img/2020-08-03/norte-de-los-estados-2-1.png"
+	 height="289">
+	<img loading="lazy"
 alt="Trecho do 'Norte de los estados' (1541) com a frase descrita acima."
-   src="/assets/img/2020-08-03/norte-de-los-estados-2-2.png"
-   height="257">
-  <figcaption>
-    <em>
-      Cima: "Norte de los estados", (<a
+	 src="/assets/img/2020-08-03/norte-de-los-estados-2-2.png"
+	 height="257">
+	<figcaption>
+		<em>
+			Cima: "Norte de los estados", (<a
 href="https://books.google.com.br/books?id=1ANRAAAAcAAJ&pg=PP124">1550</a>);<br>
-      Baixo: "Norte de los estados", (<a
+			Baixo: "Norte de los estados", (<a
 href="http://www.bibliotecavirtualdeandalucia.es/catalogo/es/catalogo_imagenes/grupo.cmd?path=86513">1541</a>).
-    </em>
-  </figcaption>
+		</em>
+	</figcaption>
 </figure>
 
 Criei também uma <a href="/extra/norte-de-los-estados">página dedicada</a> ao
@@ -572,12 +615,12 @@ tese já me entregou tudo de bandeja.
 O contexto dado para a expressão é bem interessante:
 
 <blockquote>
-  <p>
-    Apesar de venderem aqueles produtos, os pobres não usavam essas coisas
-    caras no seu cotidiano, em casa, servindo-lhes somente como fonte de
-    rendimento.
-  </p>
-  —<cite>Mao Yaqi (2018)</cite>
+	<p>
+		Apesar de venderem aqueles produtos, os pobres não usavam essas coisas
+		caras no seu cotidiano, em casa, servindo-lhes somente como fonte de
+		rendimento.
+	</p>
+	—<cite>Mao Yaqi (2018)</cite>
 </blockquote>
 
 Assim como citado por Mao, encontrei esse paralelo no livro de Joaquim Affonso
@@ -585,20 +628,20 @@ Gonçalves (<a href="https://pt.wikipedia.org/wiki/Macau">Macau</a>, 1829), que
 lista expressões em português e suas equivalências em chinês:
 
 <figure>
-  <img loading="lazy"
-   alt="Scan de trecho do livro de Joaquim Affonso Gonçalves, de 1829."
-   src="/assets/img/2020-08-03/arte-china.png"
-   height="198">
-  <figcaption>
-    <em>
-      <q>Em casa de ferreiro, espeto de pao</q> / <q><i lang="zh" style="
-      font-style:normal">卖扇的手扇凉</i></q> – <a
-      href="https://books.google.com.br/?id=r44UAAAAYAAJ">Arte china constante
-      de alphabeto e grammatica comprehendendo modelos das differentes
-      composiçoens</a> (<a href="https://pt.wikipedia.org/wiki/Macau">Macau</a>,
-      1829).
-    </em>
-  </figcaption>
+	<img loading="lazy"
+	 alt="Scan de trecho do livro de Joaquim Affonso Gonçalves, de 1829."
+	 src="/assets/img/2020-08-03/arte-china.png"
+	 height="198">
+	<figcaption>
+		<em>
+			<q>Em casa de ferreiro, espeto de pao</q> / <q><i lang="zh" style="
+			font-style:normal">卖扇的手扇凉</i></q> – <a
+			href="https://books.google.com.br/?id=r44UAAAAYAAJ">Arte china constante
+			de alphabeto e grammatica comprehendendo modelos das differentes
+			composiçoens</a> (<a href="https://pt.wikipedia.org/wiki/Macau">Macau</a>,
+			1829).
+		</em>
+	</figcaption>
 </figure>
 
 Outras expressões chinesas com sentido equivalente apresentadas por Mao são:
@@ -636,28 +679,28 @@ do cuteleiro");
 "ninguém é calçado pior que a esposa do sapateiro").
 
 <figure class="top">
-  <img loading="lazy"
+	<img loading="lazy"
 alt="Cabeçalho da capa do 'Dictionary of the Portuguese and English', de 1773."
-   src="/assets/img/2020-08-03/dictionary-portuguese-english-1.png"
-   height="612"
-   style="max-height:20rem">
+	 src="/assets/img/2020-08-03/dictionary-portuguese-english-1.png"
+	 height="612"
+	 style="max-height:20rem">
 </figure>
 
 <figure class="bottom side">
-  <img loading="lazy"
+	<img loading="lazy"
 alt="Trecho do 'Dictionary of the Portuguese and English' que lista a variante
 'pior apeiro', além de suas equivalências em inglês."
-   src="/assets/img/2020-08-03/dictionary-portuguese-english-2.png"
-   height="223">
-  <figcaption>
-    <em>
-      <q>Em caſa de ferreiro peyor apeiro</q> –
-      <i lang="en"><a href="https://books.google.com.br/?id=MTZAAAAAYAAJ">A
-      Dictionary of the Portuguese and English Languages, in Two Parts,
-      Portuguese and English : and English and Portuguese.</a></i> (<a
-      href="https://pt.wikipedia.org/wiki/Londres">Londres</a>, 1773).
-    </em>
-  </figcaption>
+	 src="/assets/img/2020-08-03/dictionary-portuguese-english-2.png"
+	 height="223">
+	<figcaption>
+		<em>
+			<q>Em caſa de ferreiro peyor apeiro</q> –
+			<i lang="en"><a href="https://books.google.com.br/?id=MTZAAAAAYAAJ">A
+			Dictionary of the Portuguese and English Languages, in Two Parts,
+			Portuguese and English : and English and Portuguese.</a></i> (<a
+			href="https://pt.wikipedia.org/wiki/Londres">Londres</a>, 1773).
+		</em>
+	</figcaption>
 </figure>
 
 Deixando de lado as analogias com sapateiros por um momento, achei interessante
@@ -674,30 +717,30 @@ de 1726 que encontrei que também menciona o provérbio (curiosamente, não sob
 "ferreiro" ou "apeiro" como os outros, mas sob "casa"):
 
 <figure class="top">
-  <img loading="lazy"
+	<img loading="lazy"
 alt="Cabeçalho da capa do 'A New Dictionary, Spanish and English', de 1726."
-   src="/assets/img/2020-08-03/new-dictionary-spanish-english-1.png"
-   height="401"
-   style="max-height:15rem">
+	 src="/assets/img/2020-08-03/new-dictionary-spanish-english-1.png"
+	 height="401"
+	 style="max-height:15rem">
 </figure>
 
 <figure class="bottom side">
-  <img loading="lazy"
+	<img loading="lazy"
 alt="Trecho do 'A New Dictionary, Spanish and English' que lista, em espanhol,
 as variantes 'pior apeiro' e 'faca mal-forjada', além de suas equivalências em
 inglês."
-   src="/assets/img/2020-08-03/new-dictionary-spanish-english-2.png"
-   height="165">
-  <figcaption>
-    <em>
-      <i lang="es"><q>En cáſa del herréro peór apéro</q></i> e <i
-      lang="es"><q>En caſa del herréro cuchillo mangorréro</q></i> – <i
-      lang="en"><a href="https://books.google.com.br/?id=MTZAAAAAYAAJ">A New
-      Dictionary, Spanish and English, and English and Spanish, Much more
-      Copious than any other hitherto Extant.</a></i> (<a
-      href="https://pt.wikipedia.org/wiki/Londres">Londres</a>, 1726).
-    </em>
-  </figcaption>
+	 src="/assets/img/2020-08-03/new-dictionary-spanish-english-2.png"
+	 height="165">
+	<figcaption>
+		<em>
+			<i lang="es"><q>En cáſa del herréro peór apéro</q></i> e <i
+			lang="es"><q>En caſa del herréro cuchillo mangorréro</q></i> – <i
+			lang="en"><a href="https://books.google.com.br/?id=MTZAAAAAYAAJ">A New
+			Dictionary, Spanish and English, and English and Spanish, Much more
+			Copious than any other hitherto Extant.</a></i> (<a
+			href="https://pt.wikipedia.org/wiki/Londres">Londres</a>, 1726).
+		</em>
+	</figcaption>
 </figure>
 
 ---

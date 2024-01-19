@@ -3,9 +3,10 @@ layout: post
 lang:   "pt-br"
 ref:    "tracos-do-cifrao"
 title:  "O cifrão tem 1 ou 2 traços?"
+date: 2021-11-01 00:00:00 -3
 #edit:   2020-04-15 22:22:00 -0300
 excerpt: "Em nenhuma moeda ou cédula do Real está presente o símbolo R$.
-          Então vem a pergunta: oficialmente, o $ possui 1 ou 2 traços?"
+					Então vem a pergunta: oficialmente, o $ possui 1 ou 2 traços?"
 categories: [pesquisa,dinheiro,real]
 ---
 
@@ -15,14 +16,41 @@ categories: [pesquisa,dinheiro,real]
 <style>.s1{font-family:Arial,Roboto,Helvetica,sans-serif}.s2{font-family:"Old Standard TT","IBM Plex Serif",serif;font-size:110%}.s1,.s2{font-weight:bold}</style>
 
 <p class="note">
-  <strong>Nota</strong>: A história do cifrão em si não é exata e existem
-  várias teorias conflitantes, às quais eu não poderia contribuir muito.
-  Portanto, o foco desse post é especificamente a quantidade de traços no cifrão
-  do símbolo para o Real (R<strong><em>$</em></strong>).
+	<strong>Nota</strong>: A história do cifrão em si não é exata e existem
+	várias teorias conflitantes, às quais eu não poderia contribuir muito.
+	Portanto, o foco desse post é especificamente a quantidade de traços no cifrão
+	do símbolo para o Real (R<strong><em>$</em></strong>).
 </p>
 
-1. (tabela de conteúdo)
-{:toc}
+<ol id="markdown-toc">
+	<li><a href="#o-problema">O problema</a></li>
+	<li><a href="#no-dinheiro">No dinheiro</a></li>
+	<li>
+		<a href="#o-que-diz-a-lei">O que diz a lei?</a>
+		<ol>
+			<li><a href="#o-unicode">O Unicode</a></li>
+			<li><a href="#cifrao-no-unicode">Cifrão no Unicode</a></li>
+			<li><a href="#na-lei">Na lei</a></li>
+		</ol>
+	</li>
+	<li>
+		<a href="#o-que-diz-a-casa-da-moeda">O que diz a Casa da Moeda?</a>
+		<ol>
+			<li><a href="#selos">Selos</a></li>
+		</ol>
+	</li>
+	<li><a href="#o-que-diz-o-banco-central">O que diz o Banco Central?</a></li>
+	<li><a href="#o-que-disseram-os-jornais-na-epoca">O que disseram os jornais na época?</a></li>
+	<li><a href="#primeiros-cifroes-do-brasil">Primeiros cifrões do Brasil</a></li>
+	<li><a href="#conclusao">Conclusão</a></li>
+	<li>
+		<a href="#epilogo">Epílogo</a>
+		<ol>
+			<li><a href="#custo">Custo</a></li>
+			<li><a href="#cifrao-nesse-artigo">Cifrão nesse artigo</a></li>
+		</ol>
+	</li>
+</ol>
 
 ---
 
@@ -32,12 +60,12 @@ Primeiramente, vou explicar qual é o problema: o símbolo do cifrão pode ser
 grafado com 1 ou 2 traços verticais cortando a letra S, assim:
 
 <figure>
-  <img alt="Ambos os cifrões, com 1 e 2 traços" src="/assets/img/2021-11-01/ambos.png">
-  <figcaption>
-    <em>
-      Wikimedia Commons
-    </em>
-  </figcaption>
+	<img alt="Ambos os cifrões, com 1 e 2 traços" src="/assets/img/2021-11-01/ambos.png">
+	<figcaption>
+		<em>
+			Wikimedia Commons
+		</em>
+	</figcaption>
 </figure>
 
 A maioria das pessoas, eu assumo, não escolhe conscientemente qual cifrão usa no
@@ -45,26 +73,26 @@ dia a dia. Portanto, é possível encontrar exemplos de ambos os usos, seja em
 jornais, programas de televisão, jogos, ou o que for:
 
 <figure class="top side">
-  <img alt="Dois jogos diferentes da franquia Mario Bros, utilizando cifrão com
+	<img alt="Dois jogos diferentes da franquia Mario Bros, utilizando cifrão com
 dois traços." src="/assets/img/2021-11-01/mario.png">
-  <figcaption>
-    <em>
-      'Mario Bros.' (1983), à esquerda, e 'Super Mario Bros. 3' (1988), à
-      direita, ambos usando cifrão com dois traços.
-    </em>
-  </figcaption>
+	<figcaption>
+		<em>
+			'Mario Bros.' (1983), à esquerda, e 'Super Mario Bros. 3' (1988), à
+			direita, ambos usando cifrão com dois traços.
+		</em>
+	</figcaption>
 </figure>
 
 <figure class="bottom">
-  <img alt="Seu Sirigueijo segurando uma nota fictícia de 10 milhões, onde
+	<img alt="Seu Sirigueijo segurando uma nota fictícia de 10 milhões, onde
 aparecem 5 cifrões, dois dos quais possuem 2 traços, e os outros três possuem
 um único traço." src="/assets/img/2021-11-01/spongebob-s11e241b.png">
-  <figcaption>
-    <em>
-      Cena de Bob Esponja (S11E241b; 2018) onde uma nota
-      (fictícia) de $10 milhões possui ambas as grafias do cifrão.
-    </em>
-  </figcaption>
+	<figcaption>
+		<em>
+			Cena de Bob Esponja (S11E241b; 2018) onde uma nota
+			(fictícia) de $10 milhões possui ambas as grafias do cifrão.
+		</em>
+	</figcaption>
 </figure>
 
 Esses, é claro, são exemplos de outros países. E no Brasil? Qual é o costume?
@@ -72,27 +100,27 @@ Bom, podemos analisar representações propriamente brasileiras, como histórias
 Turma da Mônica, ou supermercados:
 
 <figure class="top">
-  <img alt="Quadrinhos de história da Turma da Mônica, onde 'mafiosos' abordam
+	<img alt="Quadrinhos de história da Turma da Mônica, onde 'mafiosos' abordam
 Cebolinha e Cascão, que seguram uma sacola de dinheiro (com um cifrão de dois
 traços) ao invés de sua bola." src="/assets/img/2021-11-01/turma-da-monica.png">
-  <figcaption>
-    <em>
-      Parte da história "O Terrível Bando de Al Cafona", da revista Parque da
-      Mônica Nº 47 (Editora Globo; nov.1996), onde um saco de
-      dinheiro (presume-se que de Reais) possui cifrão com 2 traços.
-    </em>
-  </figcaption>
+	<figcaption>
+		<em>
+			Parte da história "O Terrível Bando de Al Cafona", da revista Parque da
+			Mônica Nº 47 (Editora Globo; nov.1996), onde um saco de
+			dinheiro (presume-se que de Reais) possui cifrão com 2 traços.
+		</em>
+	</figcaption>
 </figure>
 
 <figure class="side bottom">
-  <img alt="Placa do supermercado Extra com o texto: 'Fralda Seninha, R$9,90'.
+	<img alt="Placa do supermercado Extra com o texto: 'Fralda Seninha, R$9,90'.
 O cifrão possui um único traço." src="/assets/img/2021-11-01/supermercado.png">
-  <figcaption>
-    <em>
-      Supermercado Extra com cifrão de 1 traço, em 2005. Imagem: <a href="https://commons.wikimedia.org/wiki/User:OS2Warp">OS2Warp</a>
-      / <a href="https://commons.wikimedia.org/wiki/File:Supermercado.jpg">Wikimedia Commons</a>
-    </em>
-  </figcaption>
+	<figcaption>
+		<em>
+			Supermercado Extra com cifrão de 1 traço, em 2005. Imagem: <a href="https://commons.wikimedia.org/wiki/User:OS2Warp">OS2Warp</a>
+			/ <a href="https://commons.wikimedia.org/wiki/File:Supermercado.jpg">Wikimedia Commons</a>
+		</em>
+	</figcaption>
 </figure>
 
 Como pode-se perceber, na vida real, utiliza-se tanto o cifrão com 1 traço,
@@ -110,7 +138,7 @@ Real – e a que durou menos tempo, apenas 10 meses –, temos a presença do ci
 com dois traços:
 
 <figure>
-  <img alt="Moedas de 50 e 100 cruzeiros reais, com ênfase no cifrão de dois
+	<img alt="Moedas de 50 e 100 cruzeiros reais, com ênfase no cifrão de dois
 traços." src="/assets/img/2021-11-01/cruzeiro-real.png">
 </figure>
 
@@ -126,38 +154,38 @@ Todas as cédulas, de R$1 a R$200, e todas as moedas, de R$0,01 a [R$20,00](/202
 têm "Real" escrito por extenso ao invés de possuir o símbolo R$:
 
 <figure class="top side">
-  <img alt="Nota de 200 reais."
-   src="/assets/img/2021-11-01/200.jpg">
+	<img alt="Nota de 200 reais."
+	 src="/assets/img/2021-11-01/200.jpg">
 </figure>
 <figure class="bottom side">
-  <img alt="Moeda de 1 real."
-   src="/assets/img/2021-11-01/1.png"
-   style="max-height:10rem;border-radius:100%">
-  <figcaption>
-    <em>
-      Cima: nota de 200 reais, onde há escrito "200 <b>reais</b>" ao invés de
-      "<b>R$</b>200". Imagem: <a
-      href="https://www.bcb.gov.br/novasnotas/nota-200-reais.html">Banco
-      Central</a>.<br>
-      Baixo: moeda de 1 real, onde há escrito "1 <b>real</b>" ao invés de
-      "<b>R$</b>1".
-    </em>
-  </figcaption>
+	<img alt="Moeda de 1 real."
+	 src="/assets/img/2021-11-01/1.png"
+	 style="max-height:10rem;border-radius:100%">
+	<figcaption>
+		<em>
+			Cima: nota de 200 reais, onde há escrito "200 <b>reais</b>" ao invés de
+			"<b>R$</b>200". Imagem: <a
+			href="https://www.bcb.gov.br/novasnotas/nota-200-reais.html">Banco
+			Central</a>.<br>
+			Baixo: moeda de 1 real, onde há escrito "1 <b>real</b>" ao invés de
+			"<b>R$</b>1".
+		</em>
+	</figcaption>
 </figure>
 
 Vale notar que uma *medalha* comemorativa dos 25 anos do Real, emitida em 2019,
 possuía o símbolo R$ com um único traço no cifrão:
 
 <figure>
-  <img alt="Medalha comemorativa de '25 Anos do Plano Real', com R$ de 1 traço
+	<img alt="Medalha comemorativa de '25 Anos do Plano Real', com R$ de 1 traço
 entre as palavras 'anos' e 'do'." src="/assets/img/2021-11-01/25-anos.png">
-  <figcaption>
-    <em>
-      Símbolo R$ com um traço na medalha.
-      Imagens: <a href="https://www.instagram.com/maricamposnumismatica/">Mariana Campos</a>
-      via Instagram.
-    </em>
-  </figcaption>
+	<figcaption>
+		<em>
+			Símbolo R$ com um traço na medalha.
+			Imagens: <a href="https://www.instagram.com/maricamposnumismatica/">Mariana Campos</a>
+			via Instagram.
+		</em>
+	</figcaption>
 </figure>
 
 Contudo, medalhas não têm o chamado "poder liberatório"; ou seja, não são
@@ -177,24 +205,24 @@ cifrão foi usado. E, de fato, na [lei Nº 9.069, de 29 de junho de
 1995](http://www.planalto.gov.br/ccivil_03/leis/L9069.htm), temos:
 
 <p class="note sidenote" style="--y:-5em">
-  <strong>Nota</strong>: O símbolo R$ já havia sido definido anteriormente à lei
-  de 1995; ele apareceu inicialmente na
-  <a href="http://www.planalto.gov.br/ccivil_03/mpv/1990-1995/434.htm">Medida
-  Provisória Nº 434</a> de 1994. Porém, para os propósitos do post, esse detalhe
-  não afeta a conclusão.
+	<strong>Nota</strong>: O símbolo R$ já havia sido definido anteriormente à lei
+	de 1995; ele apareceu inicialmente na
+	<a href="http://www.planalto.gov.br/ccivil_03/mpv/1990-1995/434.htm">Medida
+	Provisória Nº 434</a> de 1994. Porém, para os propósitos do post, esse detalhe
+	não afeta a conclusão.
 </p>
 
 <figure>
-  <img alt="Print da lei que implementa o Real; trecho relevante transcrito
+	<img alt="Print da lei que implementa o Real; trecho relevante transcrito
 abaixo." src="/assets/img/2021-11-01/lei-1995.png">
 </figure>
 
 <blockquote>
-  <p>
-    As importâncias em dinheiro serão grafadas precedidas do símbolo <b>R$</b>.
-  </p>
-  —<cite><a href="http://www.planalto.gov.br/ccivil_03/leis/L9069.htm">Lei Nº
-  9.069/1995</a></cite> (ênfase minha)
+	<p>
+		As importâncias em dinheiro serão grafadas precedidas do símbolo <b>R$</b>.
+	</p>
+	—<cite><a href="http://www.planalto.gov.br/ccivil_03/leis/L9069.htm">Lei Nº
+	9.069/1995</a></cite> (ênfase minha)
 </blockquote>
 
 Problema resolvido! A lei usa cifrão com um traço, portanto o cifrão do Real só
@@ -227,14 +255,14 @@ amigos; o computador recebendo os códigos os interpreta e mostra os caracteres
 adequadamente:
 
 <figure>
-  <img alt="Print de aplicativo de mensagem com os caracteres descritos acima."
-  src="/assets/img/2021-11-01/im.png">
-  <figcaption>
-    <em>
-      Mensagens com os caracteres descritos acima. Para um computador (e, por
-      consequência, um celular), são todos caracteres válidos.
-    </em>
-  </figcaption>
+	<img alt="Print de aplicativo de mensagem com os caracteres descritos acima."
+	src="/assets/img/2021-11-01/im.png">
+	<figcaption>
+		<em>
+			Mensagens com os caracteres descritos acima. Para um computador (e, por
+			consequência, um celular), são todos caracteres válidos.
+		</em>
+	</figcaption>
 </figure>
 
 ---
@@ -247,21 +275,21 @@ cifrão correspondente deve possuir um ou dois traços. Ao invés disso, como
 descrito no próprio padrão:
 
 <figure>
-  <img alt="Print do Unicode Standard 13.0. Transcrição abaixo."
-  src="/assets/img/2021-11-01/unicode.png">
+	<img alt="Print do Unicode Standard 13.0. Transcrição abaixo."
+	src="/assets/img/2021-11-01/unicode.png">
 </figure>
 
 <blockquote>
-  <p>
-    Existem portanto muitas variantes menores, como o <code>U+0024 DOLLAR SIGN
-    $</code>, com uma ou duas barras verticais [...]
-  </p>
-  <p>
-    [...] o Padrão Unicode considera essas variantes como tipográficas e
-    provê uma única codificação para elas.
-  </p>
-  —<cite><a href="https://www.unicode.org/versions/Unicode13.0.0/UnicodeStandard-13.0.pdf">Unicode
-  Standard 13.0</a> (§ 22.1 p.817)</cite> (tradução e ênfase minhas)
+	<p>
+		Existem portanto muitas variantes menores, como o <code>U+0024 DOLLAR SIGN
+		$</code>, com uma ou duas barras verticais [...]
+	</p>
+	<p>
+		[...] o Padrão Unicode considera essas variantes como tipográficas e
+		provê uma única codificação para elas.
+	</p>
+	—<cite><a href="https://www.unicode.org/versions/Unicode13.0.0/UnicodeStandard-13.0.pdf">Unicode
+	Standard 13.0</a> (§ 22.1 p.817)</cite> (tradução e ênfase minhas)
 </blockquote>
 
 Assim, independentemente da quantidade de traços, o código que representa o
@@ -270,16 +298,16 @@ fontes (e.g. Arial, Comic Sans) desenhar o cifrão com 1 ou 2 traços, e é uma
 decisão puramente estética:
 
 <figure>
-  <img alt="Comparação do cifrão em diferentes fontes. Três de um total de nove
-  fontes possuem 2 traços no cifrão."
-   src="/assets/img/2021-11-01/fontes.png">
-  <figcaption>
-    <em>
-      Diferentes fontes utilizando 1 e 2 traços no (mesmo) cifrão.<br>
-      Imagem: <a href="https://commons.wikimedia.org/wiki/User:Kes47">Kes47</a>
-      / <a href="https://commons.wikimedia.org/wiki/File:Dollar_sign_fonts.svg">Wikimedia Commons</a>.
-    </em>
-  </figcaption>
+	<img alt="Comparação do cifrão em diferentes fontes. Três de um total de nove
+	fontes possuem 2 traços no cifrão."
+	 src="/assets/img/2021-11-01/fontes.png">
+	<figcaption>
+		<em>
+			Diferentes fontes utilizando 1 e 2 traços no (mesmo) cifrão.<br>
+			Imagem: <a href="https://commons.wikimedia.org/wiki/User:Kes47">Kes47</a>
+			/ <a href="https://commons.wikimedia.org/wiki/File:Dollar_sign_fonts.svg">Wikimedia Commons</a>.
+		</em>
+	</figcaption>
 </figure>
 
 ---
@@ -294,16 +322,16 @@ Por exemplo, se a fonte padrão do website do Planalto fosse outra, o cifrão
 poderia ter 2 traços na lei, mesmo sem o texto em si ter sido modificado:
 
 <figure>
-  <img alt="Print da lei que implementa o Real, agora com outra fonte."
-   src="/assets/img/2021-11-01/lei-1995-duplo.png">
-  <figcaption>
-    <em>
-      A exata mesma lei, porém utilizando a fonte "<a
-      href="https://fonts.google.com/specimen/Cardo">Cardo</a>" que – novamente,
-      por motivos puramente de estética – escolhe cortar o cifrão com dois
-      traços.
-    </em>
-  </figcaption>
+	<img alt="Print da lei que implementa o Real, agora com outra fonte."
+	 src="/assets/img/2021-11-01/lei-1995-duplo.png">
+	<figcaption>
+		<em>
+			A exata mesma lei, porém utilizando a fonte "<a
+			href="https://fonts.google.com/specimen/Cardo">Cardo</a>" que – novamente,
+			por motivos puramente de estética – escolhe cortar o cifrão com dois
+			traços.
+		</em>
+	</figcaption>
 </figure>
 
 Ou seja... Não temos nada. A lei seria equivalente se dissesse "cifrão" por
@@ -321,34 +349,34 @@ para saber qual é a posição deles sobre a grafia correta do cifrão. Recebi a
 seguinte resposta:
 
 <figure>
-  <img alt="Respsota da Casa da Moeda no Instagram, transcrita abaixo."
-  src="/assets/img/2021-11-01/cmb.png">
-  <div class="sr-only">
+	<img alt="Respsota da Casa da Moeda no Instagram, transcrita abaixo."
+	src="/assets/img/2021-11-01/cmb.png">
+	<div class="sr-only">
 <blockquote cite="Casa da Moeda do Brasil">
 <p>Olá Matheus, boa tarde!</p>
 <p>
-  Os projetos tanto das cédulas quanto das moedas são desenvolvidos em conjunto
-  com o Banco Central do Brasil. Nada é feito sem a aprovação deles. Acredito
-  que não informar o R$ tenha sido uma opção.
+	Os projetos tanto das cédulas quanto das moedas são desenvolvidos em conjunto
+	com o Banco Central do Brasil. Nada é feito sem a aprovação deles. Acredito
+	que não informar o R$ tenha sido uma opção.
 </p>
 <p>
-  O símbolo do Cifrão tem 2 traços verticais, no entanto é comum ver variações
-  ou estilizações do símbolo.
+	O símbolo do Cifrão tem 2 traços verticais, no entanto é comum ver variações
+	ou estilizações do símbolo.
 </p>
 <p>
-  Postamos a historia do Cifrão em ago/20. Vale a pena conhecer:
-  instagram.com/p/CERowygHuJ_
+	Postamos a historia do Cifrão em ago/20. Vale a pena conhecer:
+	instagram.com/p/CERowygHuJ_
 </p>
 </blockquote>
-    </div>
+		</div>
 </figure>
 
 <blockquote>
-  <p>
-    O símbolo do Cifrão tem 2 traços verticais, no entanto é comum ver variações
-    ou estilizações do símbolo.
-  </p>
-  —<cite>Casa da Moeda do Brasil</cite>
+	<p>
+		O símbolo do Cifrão tem 2 traços verticais, no entanto é comum ver variações
+		ou estilizações do símbolo.
+	</p>
+	—<cite>Casa da Moeda do Brasil</cite>
 </blockquote>
 
 Apesar de apreciar a resposta, não levei tanta fé. O símbolo do cifrão,
@@ -376,16 +404,16 @@ seu preço embutido no design. Por exemplo, esse design de setembro de 2020, em
 celebração de Libras:
 
 <figure class="top side">
-  <img alt="Selos representando diferentes letras em Libras, com o texto 'Brasil
+	<img alt="Selos representando diferentes letras em Libras, com o texto 'Brasil
 2020' e 'Acessível em Libras', além do custo de R$2,05."
-  src="/assets/img/2021-11-01/selos-1.png">
+	src="/assets/img/2021-11-01/selos-1.png">
 </figure>
 <figure class="bottom side">
-  <img alt="Detalhes técnicos. Transcrição abaixo."
-  src="/assets/img/2021-11-01/selos-2.png"
-  style="max-height:20rem">
-  <figcaption>
-  <div class="sr-only">
+	<img alt="Detalhes técnicos. Transcrição abaixo."
+	src="/assets/img/2021-11-01/selos-2.png"
+	style="max-height:20rem">
+	<figcaption>
+	<div class="sr-only">
 <blockquote>
 <p>Detalhes Técnicos.</p>
 <p>Edital nº 13</p>
@@ -402,13 +430,13 @@ celebração de Libras:
 <p>Locais de lançamento: Brasília/DF, Curitiba/PR e Rio de Janeiro/RJ</p>
 <p>Impressão: Casa da Moeda do Brasil</p>
 </blockquote>
-    </div>
-    <em>
-      Cima: selos de Libras custando R$2.05 cada.<br>
-      Lado: detalhes técnicos, explicitando a Casa da Moeda como responsável
-      pela impressão dos selos.
-    </em>
-  </figcaption>
+		</div>
+		<em>
+			Cima: selos de Libras custando R$2.05 cada.<br>
+			Lado: detalhes técnicos, explicitando a Casa da Moeda como responsável
+			pela impressão dos selos.
+		</em>
+	</figcaption>
 </figure>
 
 Nesse caso, o cifrão é cortado por somente 1 traço. Porém, antes que você se
@@ -416,23 +444,23 @@ anime, apesar da maioria dos selos terem cifrões com 1 traço, também é poss�
 encontrar designs com 2 traços:
 
 <figure class="top side">
-  <img alt="Selo com os textos 'Brasil, 200 anos de independência', 'José
+	<img alt="Selo com os textos 'Brasil, 200 anos de independência', 'José
 Bonifácio: 1819/2019', 'Bicentenário do retorno de José Bonifácio ao Brasil',
 'Câmara dos Deputados' e 'Ely Borges e Isabel Flecha de Lima'. Possui no centro
 ilustração de um homem branco de cabelo grisalho que eu assumo ser José Bonifácio."
-  src="/assets/img/2021-11-01/selo-bonifacio-1.png"
-  style="max-height:20rem">
+	src="/assets/img/2021-11-01/selo-bonifacio-1.png"
+	style="max-height:20rem">
 </figure>
 <figure class="bottom side">
-  <img alt="Zoom no texto 'R$2,15', com cifrão de 2 traços."
-  src="/assets/img/2021-11-01/selo-bonifacio-2.png">
-  <figcaption>
-    <em>
-      Cima: selo de comemoração do Bicentenário do retorno de José Bonifácio ao
-      Brasil.<br>
-      Lado: ênfase no preço do selo, com cifrão de 2 traços.
-    </em>
-  </figcaption>
+	<img alt="Zoom no texto 'R$2,15', com cifrão de 2 traços."
+	src="/assets/img/2021-11-01/selo-bonifacio-2.png">
+	<figcaption>
+		<em>
+			Cima: selo de comemoração do Bicentenário do retorno de José Bonifácio ao
+			Brasil.<br>
+			Lado: ênfase no preço do selo, com cifrão de 2 traços.
+		</em>
+	</figcaption>
 </figure>
 
 Além disso, a Casa da Moeda simplesmente realiza a impressão; portanto, a
@@ -454,54 +482,54 @@ do Banco Central para saber a posição oficial deles. Quatro dias depois, receb
 a seguinte resposta:
 
 <figure>
-  <img alt="Resposta do Banco Central. Transcrição abaixo. Porém, a parte
+	<img alt="Resposta do Banco Central. Transcrição abaixo. Porém, a parte
 mais relevante é: 'apesar de historicamente o cifrão ter sido grafado com dois
 traços, a grafia correta em relação ao Real é com um traço apenas'."
-  src="/assets/img/2021-11-01/bcb.png">
-  <figcaption>
-    <em>Resposta do BCB, na íntegra, da forma que recebi.</em>
-    <div class="sr-only">
+	src="/assets/img/2021-11-01/bcb.png">
+	<figcaption>
+		<em>Resposta do BCB, na íntegra, da forma que recebi.</em>
+		<div class="sr-only">
 <blockquote cite="Banco Central do Brasil">
 <p>Senhor(a) MATHEUS AVELLAR DE BARROS,</p>
 <p>
-  O cifrão, símbolo universal do dinheiro, originalmente foi escrito por uma
-  linha sinuosa em forma de "S" cortada por duas colunas paralelas.
+	O cifrão, símbolo universal do dinheiro, originalmente foi escrito por uma
+	linha sinuosa em forma de "S" cortada por duas colunas paralelas.
 </p>
 <p>
-  Contudo, a Lei nº 9.069, de 1995, que dispõe sobre o Plano Real, o Sistema
-  Monetário Nacional e outras providências, determina o seguinte em seu art. 1º,
-  § 1º: "As importâncias em dinheiro serão grafadas precedidas do símbolo R$."
+	Contudo, a Lei nº 9.069, de 1995, que dispõe sobre o Plano Real, o Sistema
+	Monetário Nacional e outras providências, determina o seguinte em seu art. 1º,
+	§ 1º: "As importâncias em dinheiro serão grafadas precedidas do símbolo R$."
 </p>
 <p>
-  Portanto, apesar de historicamente o cifrão ter sido grafado com dois traços,
-  a grafia correta em relação ao Real é com um traço apenas.
+	Portanto, apesar de historicamente o cifrão ter sido grafado com dois traços,
+	a grafia correta em relação ao Real é com um traço apenas.
 </p>
 <p>
-  A referida Lei pode ser consultada na página da Presidência da República na
-  internet.
+	A referida Lei pode ser consultada na página da Presidência da República na
+	internet.
 </p>
 <p>
-  A história do cifrão pode ser consultada em nossa página na internet, seguindo
-  "Cédulas e moedas > Museu de Valores > História do dinheiro > Cifrão".
+	A história do cifrão pode ser consultada em nossa página na internet, seguindo
+	"Cédulas e moedas > Museu de Valores > História do dinheiro > Cifrão".
 </p>
 <p>
-  Atenciosamente,<br> Departamento de Atendimento Institucional (DEATI)
+	Atenciosamente,<br> Departamento de Atendimento Institucional (DEATI)
 </p>
 <p>
-  Divisão de Atendimento ao Cidadão (DIATE)
+	Divisão de Atendimento ao Cidadão (DIATE)
 </p>
 </blockquote>
-    </div>
-  </figcaption>
+		</div>
+	</figcaption>
 </figure>
 
 <blockquote>
-  <p>
-    [...] A lei nº 9.069 [...] determina o seguinte [...] "símbolo
-    <span class="s1">R$</span>". Portanto, [...] a grafia correta em relação
-    ao Real é com <strong>um traço apenas</strong>.
-  </p>
-  —<cite>Banco Central do Brasil</cite> (ênfase minha)
+	<p>
+		[...] A lei nº 9.069 [...] determina o seguinte [...] "símbolo
+		<span class="s1">R$</span>". Portanto, [...] a grafia correta em relação
+		ao Real é com <strong>um traço apenas</strong>.
+	</p>
+	—<cite>Banco Central do Brasil</cite> (ênfase minha)
 </blockquote>
 
 O Banco Central disse que o cifrão do Real usa apenas 1 traço! Pergunta
@@ -537,45 +565,45 @@ a fonte para cabeçalhos, títulos e manchetes possuía cifrão com 2 traços �
 também nem sempre.
 
 <p class="note sidenote" style="--y:-3em">
-  É quase como se ninguém além de mim se importasse com o número de traços do
-  cifrão! <i class="emoji fluent woozy-face">🥴</i>
+	É quase como se ninguém além de mim se importasse com o número de traços do
+	cifrão! <i class="emoji fluent woozy-face">🥴</i>
 </p>
 
 <figure class="top">
-  <img src="/assets/img/2021-11-01/tribuna-da-imprensa-1994-1.png"
-  alt="Manchete da Tribuna da Imprensa: 'Paulo Paim, do PT, tem projeto para
+	<img src="/assets/img/2021-11-01/tribuna-da-imprensa-1994-1.png"
+	alt="Manchete da Tribuna da Imprensa: 'Paulo Paim, do PT, tem projeto para
 elevar mínimo para R$100', com cifrão de 1 traço.">
 </figure>
 <figure class="top bottom side">
-  <img src="/assets/img/2021-11-01/tribuna-da-imprensa-1994-2.png"
-  alt="Tabela da Tribuna da Imprensa: 'O que dá para comprar: por R$100, ou CR$275.000,00,
+	<img src="/assets/img/2021-11-01/tribuna-da-imprensa-1994-2.png"
+	alt="Tabela da Tribuna da Imprensa: 'O que dá para comprar: por R$100, ou CR$275.000,00,
 um tênis importado ou um terno. Por R$50, ou CR$137.500,00, uma camisa oficial da seleção.
 Por R$10, ou CR$27.500,00, cerca de quadro big-macs. Por R$5, ou CR$13.750,00, um ingresso
 de cinema. Por R$1, ou CR$2.750,00, é o preço, em média, de um chopp. Por R$0,50, ou CR$1.375,00,
 um refrigerante médio. Por R$0,10, ou CR$275,00, duas fichas de telefone. Por R$0,05, ou
 CR$137,00, um chiclete. Por R$0,01, ou CR$27,5, não há nada por esse preço.'">
-  <figcaption>
-    <em>
-      Cima: Manchete da <a href="http://memoria.bn.br/DocReader/DocReader.aspx?bib=154083_05&pagfis=25899">Tribuna
-      da Imprensa</a> (Nº 13.557 de 16/17 de julho de 1994) usando cifrão com 1
-      traço para R$.<br>
-      Lado: Tabela da <a href="http://memoria.bn.br/DocReader/DocReader.aspx?bib=154083_05&Pesq=real&pagfis=25607">Tribuna
-      da Imprensa</a> (Nº 13.543 de 30 de junho de 1994) usando cifrão com 1
-      traço tanto para o Real quanto para o Cruzeiro Real.
-    </em>
-  </figcaption>
+	<figcaption>
+		<em>
+			Cima: Manchete da <a href="http://memoria.bn.br/DocReader/DocReader.aspx?bib=154083_05&pagfis=25899">Tribuna
+			da Imprensa</a> (Nº 13.557 de 16/17 de julho de 1994) usando cifrão com 1
+			traço para R$.<br>
+			Lado: Tabela da <a href="http://memoria.bn.br/DocReader/DocReader.aspx?bib=154083_05&Pesq=real&pagfis=25607">Tribuna
+			da Imprensa</a> (Nº 13.543 de 30 de junho de 1994) usando cifrão com 1
+			traço tanto para o Real quanto para o Cruzeiro Real.
+		</em>
+	</figcaption>
 </figure>
 <figure class="bottom side">
-  <img src="/assets/img/2021-11-01/tribuna-da-imprensa-1994-3.png"
-  alt="Texto da Tribuna da Imprensa: 'Uma das principais preocupações dos
+	<img src="/assets/img/2021-11-01/tribuna-da-imprensa-1994-3.png"
+	alt="Texto da Tribuna da Imprensa: 'Uma das principais preocupações dos
 investidores com a chegada do real é onde aplicar o dinheiro'. Ao lado, uma
 imagem de um grande R$ por cima de um mapa do Brasil.">
-  <figcaption>
-    <em>
-      Dingbat sobre o Real, na Tribuna da Imprensa Nº 13.543, contendo um cifrão
-      com 2 traços para o R$.
-    </em>
-  </figcaption>
+	<figcaption>
+		<em>
+			Dingbat sobre o Real, na Tribuna da Imprensa Nº 13.543, contendo um cifrão
+			com 2 traços para o R$.
+		</em>
+	</figcaption>
 </figure>
 
 Para minha surpresa, encontrei uma charge na edição de [1 de julho de 1994 da Folha de Hoje](http://memoria.bn.br/DocReader/DocReader.aspx?bib=882364&pagfis=54980)
@@ -585,25 +613,25 @@ escolha deliberada, e um discernimento de que havia uma diferença entre os
 cifrões:
 
 <figure class="top">
-  <img alt="Logotipo da Folha de Hoje, o Diário de Caxias, datado de 1º de julho
+	<img alt="Logotipo da Folha de Hoje, o Diário de Caxias, datado de 1º de julho
 de 1994. Texto ao canto: 'Caxias do Sul, sexta-feira. Ano V - Número 1440. Preço
 por exemplar: R$ 0,40 / CR$1.100,00'."
-   src="/assets/img/2021-11-01/folha-de-hoje-cabecalho.png">
+	 src="/assets/img/2021-11-01/folha-de-hoje-cabecalho.png">
 </figure>
 <figure class="bottom side">
-  <img alt="Charge em que uma pessoa puxa os cabelos com expressão de desespero
+	<img alt="Charge em que uma pessoa puxa os cabelos com expressão de desespero
 e, à sua volta, as palavras 'URV', 'CR$', 'US$' e 'R$' flutuam. No topo, a
 assinatura de Zambi, com símbolo de marca registrada ao lado. O cifrão do cruzeiro
 real possui dois traços, enquanto que os do dólar estadunidense e do real possuem
 somente um."
-   src="/assets/img/2021-11-01/folha-de-hoje-charge.png">
-  <figcaption>
-    <em>
-      Charge presente na Folha de Hoje (RS) do dia 1 de julho de 1994. O
-      cifrão do Cruzeiro Real possui 2 traços, enquanto que os outros possuem
-      somente 1.
-    </em>
-  </figcaption>
+	 src="/assets/img/2021-11-01/folha-de-hoje-charge.png">
+	<figcaption>
+		<em>
+			Charge presente na Folha de Hoje (RS) do dia 1 de julho de 1994. O
+			cifrão do Cruzeiro Real possui 2 traços, enquanto que os outros possuem
+			somente 1.
+		</em>
+	</figcaption>
 </figure>
 
 Entrei em contato com o artista da charge, [Zambi](https://www.instagram.com/zambiarts),
@@ -616,21 +644,21 @@ De fato, é possível que tenha sido aleatório. Em outras ilustrações do jorn
 o uso não parece seguir nenhuma regra – como na edição de 1 de março de 1994:
 
 <figure>
-  <img alt="Conjunto de 3 ilustrações, provavelmente também por Zambi. A primeira
+	<img alt="Conjunto de 3 ilustrações, provavelmente também por Zambi. A primeira
 mostra uma pessoa segurando notas de dinheiro com cifrões de 1 e 2 traços flutuando
 em volta. A segunda mostra uma máquina confusa em que entra-se o símbolo do cruzeiro
 real, e sai a URV – o cifrão usado possui 1 traço. A última ilustração mostra
 um pacote cúbico com um papel colado por adesivo, em que se lê um único cifrão
 com dois traços."
-   src="/assets/img/2021-11-01/folha-de-hoje-ilustracoes.png">
-  <figcaption>
-    <em>
-      Ilustrações da <a href="http://memoria.bn.br/DocReader/DocReader.aspx?bib=882364&pagfis=50830">Folha
-      de Hoje</a> de 1 de março de 1994. É possível encontrar cifrões com 1 e 
-      2 traços usados indiscriminadamente, e até o símbolo do Cruzeiro Real com
-      somente 1 traço.
-    </em>
-  </figcaption>
+	 src="/assets/img/2021-11-01/folha-de-hoje-ilustracoes.png">
+	<figcaption>
+		<em>
+			Ilustrações da <a href="http://memoria.bn.br/DocReader/DocReader.aspx?bib=882364&pagfis=50830">Folha
+			de Hoje</a> de 1 de março de 1994. É possível encontrar cifrões com 1 e 
+			2 traços usados indiscriminadamente, e até o símbolo do Cruzeiro Real com
+			somente 1 traço.
+		</em>
+	</figcaption>
 </figure>
 
 ---
@@ -644,12 +672,12 @@ tradicionalistas, que defendem que o cifrão verdadeiro possui 2 traços. E, no
 meio de tantos argumentos, temos o seguinte trecho:
 
 <blockquote>
-  <p>
-    Realmente, uma lei de 1942, a 4.791, estabelece que o cifrão brasileiro tem
-    um traço só.
-  </p>
-  —<cite>Sílvia Mugnatto, <a href="http://memoria.bn.br/DocReader/DocReader.aspx?bib=030015_11&pagfis=170341">Jornal
-  do Brasil</a> (2 de junho de 1996)</cite>
+	<p>
+		Realmente, uma lei de 1942, a 4.791, estabelece que o cifrão brasileiro tem
+		um traço só.
+	</p>
+	—<cite>Sílvia Mugnatto, <a href="http://memoria.bn.br/DocReader/DocReader.aspx?bib=030015_11&pagfis=170341">Jornal
+	do Brasil</a> (2 de junho de 1996)</cite>
 </blockquote>
 
 A tal lei a qual ela se refere é provavelmente o [decreto-lei nº 4.791](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-4791-5-outubro-1942-414901-publicacaooriginal-1-pe.html),
@@ -657,10 +685,10 @@ de 5 de outubro de 1942, que institui a primeira versão do Cruzeiro, substituin
 os Réis anteriores:
 
 <figure>
-  <img alt="Print da lei que implementa o cruzeiro com o seguinte trecho:
+	<img alt="Print da lei que implementa o cruzeiro com o seguinte trecho:
 'As importâncias em dinheiro, qualquer que seja o seu valor, escrever-se-ão
 precedidas do símbolo Cr$'. O cifrão possui um único traço."
-  src="/assets/img/2021-11-01/lei-1942-web.png">
+	src="/assets/img/2021-11-01/lei-1942-web.png">
 </figure>
 
 Infelizmente, o texto acima sofre do mesmo problema da lei que implementou o
@@ -677,20 +705,20 @@ aparentemente – e requisitei uma versão escaneada do documento original, uma
 página do Diário Oficial da União. Pouco depois, recebi o que queria:
 
 <p class="note sidenote" style="--y:-7em">
-  Lamentavelmente, a plataforma <b>Fala.br</b> não é acessada via
-  <b>http://fala.br/</b>; pelo menos na data de escrita desse artigo.
+	Lamentavelmente, a plataforma <b>Fala.br</b> não é acessada via
+	<b>http://fala.br/</b>; pelo menos na data de escrita desse artigo.
 </p>
 
 <figure>
-  <img alt="Página original do Diário Oficial da União, de 5 de outubro de 1942,
+	<img alt="Página original do Diário Oficial da União, de 5 de outubro de 1942,
 escaneada, com o mesmo texto descrito anteriormente. O cifrão ainda possui um
 único traço." src="/assets/img/2021-11-01/lei-1942-original.png">
-  <figcaption>
-    <em>
-      Cifrão de <span class="s1">Cr$</span> no texto do decreto-lei, na
-      publicação original, com somente um traço.
-    </em>
-  </figcaption>
+	<figcaption>
+		<em>
+			Cifrão de <span class="s1">Cr$</span> no texto do decreto-lei, na
+			publicação original, com somente um traço.
+		</em>
+	</figcaption>
 </figure>
 
 Então, 1 traço! Resolvido, né?
@@ -701,14 +729,14 @@ Assim como o computador, máquinas de escrever e até prensas possuíam uma
 quantidade limitada de caracteres. Como citado por Mugnatto no artigo:
 
 <blockquote>
-  <p>
-    Os técnicos do BC acreditam, porém, que os novos legisladores nem se
-    preocuparam em saber se o cifrão deve ter um traço ou dois. Acontece que
-    <strong>as máquinas de datilografia e os computadores mais modernos sempre
-    trazem o cifrão com um traço só</strong>.
-  </p>
-  —<cite>Sílvia Mugnatto, <a href="http://memoria.bn.br/DocReader/DocReader.aspx?bib=030015_11&pagfis=170341">Jornal
-  do Brasil</a> (2 de junho de 1996)</cite> (ênfase minha)
+	<p>
+		Os técnicos do BC acreditam, porém, que os novos legisladores nem se
+		preocuparam em saber se o cifrão deve ter um traço ou dois. Acontece que
+		<strong>as máquinas de datilografia e os computadores mais modernos sempre
+		trazem o cifrão com um traço só</strong>.
+	</p>
+	—<cite>Sílvia Mugnatto, <a href="http://memoria.bn.br/DocReader/DocReader.aspx?bib=030015_11&pagfis=170341">Jornal
+	do Brasil</a> (2 de junho de 1996)</cite> (ênfase minha)
 </blockquote>
 
 Mugnatto, em seu artigo, afirma que o cifrão do Cruzeiro possuía somente 1 traço,
@@ -739,26 +767,26 @@ eram, em sua maior parte, marcadas por cifrões com 2 traços. Por exemplo, na 5
 edição de **O Paiz**, de 1884, todos os cifrões possuem 2 traços:
 
 <figure class="top">
-  <img alt="Logotipo d'O Paiz, datado de domingo, 5 de outubro de 1884."
-   src="/assets/img/2021-11-01/o-paiz-1884-1.png">
+	<img alt="Logotipo d'O Paiz, datado de domingo, 5 de outubro de 1884."
+	 src="/assets/img/2021-11-01/o-paiz-1884-1.png">
 </figure>
 <figure class="bottom top side">
-  <img alt="Texto do jornal: 'Assignatura: Corte e provincias, 20$000 por anno.
+	<img alt="Texto do jornal: 'Assignatura: Corte e provincias, 20$000 por anno.
 Numero avulso 40 Rs'." src="/assets/img/2021-11-01/o-paiz-1884-2.png">
 </figure>
 <figure class="bottom side">
-  <img alt="Texto do jornal: 'A despeza com o pessoal da guarda urbana importou
+	<img alt="Texto do jornal: 'A despeza com o pessoal da guarda urbana importou
 no mez de Setembro ultimo em rs. 31:850$793'."
-   src="/assets/img/2021-11-01/o-paiz-1884-3.png">
-  <figcaption>
-    <em>
-      Valores em réis utilizando cifrão com dois traços: acima,
-      <span class="s2">20$000</span>; abaixo, <span class="s2">31:850$793</span>.
-      <br>
-      <a href="http://memoria.bn.br/DocReader/docreader.aspx?bib=178691_01&pagfis=17">O Paiz</a>
-      Nº 5 (5 de outubro de 1884)
-    </em>
-  </figcaption>
+	 src="/assets/img/2021-11-01/o-paiz-1884-3.png">
+	<figcaption>
+		<em>
+			Valores em réis utilizando cifrão com dois traços: acima,
+			<span class="s2">20$000</span>; abaixo, <span class="s2">31:850$793</span>.
+			<br>
+			<a href="http://memoria.bn.br/DocReader/docreader.aspx?bib=178691_01&pagfis=17">O Paiz</a>
+			Nº 5 (5 de outubro de 1884)
+		</em>
+	</figcaption>
 </figure>
 
 Contudo, conforme a tecnologia foi evoluindo em outros países e o Brasil foi
@@ -776,41 +804,41 @@ Tendo isso em mente, poucos anos depois da edição d'O Paiz de 1884 acima,
 começamos a ver a transição gradual do jornal para o uso do cifrão com 1 traço:
 
 <figure class="top">
-  <img alt="Texto do jornal: 'Rio de Janeiro, segunda-feira 14 de maio de 1888'."
-   src="/assets/img/2021-11-01/o-paiz-1888-1.png">
+	<img alt="Texto do jornal: 'Rio de Janeiro, segunda-feira 14 de maio de 1888'."
+	 src="/assets/img/2021-11-01/o-paiz-1888-1.png">
 </figure>
 <figure class="bottom side">
-  <img alt="Texto do jornal: 'Assignatura: Côrte e Nitheroy 12$000. Províncias
+	<img alt="Texto do jornal: 'Assignatura: Côrte e Nitheroy 12$000. Províncias
 16$000 por anno. Numero avulso 40 Rs.'"
-   src="/assets/img/2021-11-01/o-paiz-1888-2.png">
-  <figcaption>
-    <em>
-      Valores em réis utilizando cifrão tanto com um traço, quanto com dois:
-      <span class="s2">12$000</span>, e <span class="s1">16$000</span>
-      <br>
-      <a href="http://memoria.bn.br/DocReader/docreader.aspx?bib=178691_01&pagfis=5322">O Paiz</a>
-      Nº 1316 (14 de maio de 1888)
-    </em>
-  </figcaption>
+	 src="/assets/img/2021-11-01/o-paiz-1888-2.png">
+	<figcaption>
+		<em>
+			Valores em réis utilizando cifrão tanto com um traço, quanto com dois:
+			<span class="s2">12$000</span>, e <span class="s1">16$000</span>
+			<br>
+			<a href="http://memoria.bn.br/DocReader/docreader.aspx?bib=178691_01&pagfis=5322">O Paiz</a>
+			Nº 1316 (14 de maio de 1888)
+		</em>
+	</figcaption>
 </figure>
 
 <figure class="top">
-  <img alt="Texto do jornal: 'Rio de janeiro, quinta-feira 2 de janeiro de 1890'."
-   src="/assets/img/2021-11-01/o-paiz-1890-1.png">
+	<img alt="Texto do jornal: 'Rio de janeiro, quinta-feira 2 de janeiro de 1890'."
+	 src="/assets/img/2021-11-01/o-paiz-1890-1.png">
 </figure>
 <figure class="bottom side">
-  <img alt="Texto do jornal: 'Assignatura: Capital 12$. Estados 16$. Estrangeiro
+	<img alt="Texto do jornal: 'Assignatura: Capital 12$. Estados 16$. Estrangeiro
 30$ por anno. Número avulso 40 Rs'."
-   src="/assets/img/2021-11-01/o-paiz-1890-2.png">
-  <figcaption>
-    <em>
-      Valores em réis utilizando cifrão com um traço: <span class="s1">12$</span>,
-      <span class="s1">16$</span> e <span class="s1">30$</span>
-      <br>
-      <a href="http://memoria.bn.br/DocReader/docreader.aspx?bib=178691_02&pagfis=10">O Paiz</a>
-      Nº 1913 (2 de janeiro de 1890)
-    </em>
-  </figcaption>
+	 src="/assets/img/2021-11-01/o-paiz-1890-2.png">
+	<figcaption>
+		<em>
+			Valores em réis utilizando cifrão com um traço: <span class="s1">12$</span>,
+			<span class="s1">16$</span> e <span class="s1">30$</span>
+			<br>
+			<a href="http://memoria.bn.br/DocReader/docreader.aspx?bib=178691_02&pagfis=10">O Paiz</a>
+			Nº 1913 (2 de janeiro de 1890)
+		</em>
+	</figcaption>
 </figure>
 
 Agora, existe o questionamento: se os jornais já imprimiam o cifrão com 2 traços
@@ -830,7 +858,7 @@ para os leitores que estudam História!
 ## Conclusão
 
 <p class="note sidenote" style="--y:-2em">
-  Título alternativo: "<b><i>Ninguém liga, e minha opinião</i></b>".
+	Título alternativo: "<b><i>Ninguém liga, e minha opinião</i></b>".
 </p>
 
 Eu, assim como os técnicos do BC citados por Mugnatto em 1996, acredito que,
@@ -868,18 +896,18 @@ dos Réis e da introdução do Real, fiquei surpreso quando os grandes jornais m
 cobraram centenas de reais **por página** para reprodução de matérias antigas.
 
 <figure class="top">
-  <img alt="."
-   src="/assets/img/2021-11-01/orcamento-estadao.png">
+	<img alt="."
+	 src="/assets/img/2021-11-01/orcamento-estadao.png">
 </figure>
 <figure class="bottom side">
-  <img alt="."
-   src="/assets/img/2021-11-01/orcamento-folha-jb.png">
-  <figcaption>
-    <em>
-      Ainda não sou rico o suficiente pra gastar esse tipo de dinheiro em uma
-      imagem complementar a um hobby não-lucrativo.
-    </em>
-  </figcaption>
+	<img alt="."
+	 src="/assets/img/2021-11-01/orcamento-folha-jb.png">
+	<figcaption>
+		<em>
+			Ainda não sou rico o suficiente pra gastar esse tipo de dinheiro em uma
+			imagem complementar a um hobby não-lucrativo.
+		</em>
+	</figcaption>
 </figure>
 
 Isso foi um contraste enorme com o preço de meros R$20 por página do

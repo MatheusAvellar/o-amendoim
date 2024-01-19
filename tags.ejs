@@ -1,0 +1,35 @@
+---
+layout: page
+title: Tags
+header: yes
+permalink: /tags/
+---
+<%_
+const all_cats = new Set();
+for(const post of collections.posts) {
+	for(const cat of post?.data?.categories) {
+		all_cats.add(cat);
+	}
+}
+const sorted_cats = [...all_cats].sort();
+%>
+<%_ for(const tag of sorted_cats) { %>
+	<h2 id="<%= tag %>" class="tag-name"><%= tag %></h2>
+	<ul class="tag-list">
+	<%_ for(const post of collections.posts) {
+		if(!(post?.data?.categories ?? []).includes(tag)) continue; %>
+		<li class="tag-item">
+			<p class="post-meta">
+				<span class="dt-tagged-wrapper">
+					<time class="dt-published" datetime="<%= post.date %>" itemprop="datePublished">
+						<%= formatDateC({ date: post.date, short: true }) %>
+					</time>
+				</span>
+				<span class="info-tagged-wrapper">
+					<a href="<%= post.url %>"><%= post?.data?.title ?? "Sem título" %></a>
+				</span>
+			</p>
+		</li>
+	<%_ } %>
+	</ul>
+<%_ } %>

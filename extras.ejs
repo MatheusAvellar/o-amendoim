@@ -1,0 +1,32 @@
+---
+layout: page
+title: Extras
+header: yes
+permalink: /extras/
+---
+
+<h2>Extras</h2>
+<p>
+	Páginas listadas aqui são artigos complementares, normalmente expandindo
+	conceitos ou detalhes mencionados breviamente nas postagens aos quais eles
+	complementam.
+</p>
+<hr>
+<ul>
+	<%_ for(const page of collections.extras) { %>
+		<li>
+			<h3><a href="<%= page.url %>"><%= page?.data?.title ?? "Sem título" %></a></h3>
+			<p class="post-excerpt"><%= page?.data?.excerpt ?? "" %></p>
+		</li>
+	<%_ } %>
+</ul>
+
+<style>
+main h3 {
+	margin-bottom: 0;
+}
+main li+li {
+	margin-top: 2rem;
+}
+</style>
+<hr>

@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<div class="home">
+	<h1 class="page-heading">O&nbsp;Amendoim</h1>
+	<%_ if(collections.posts.length > 0) { %>
+		<ul class="post-list">
+			<%_ const sortedposts = collections.posts; %>
+			<%_ for(const post of sortedposts) { %>
+			<li>
+				<p class="post-meta">
+					<span class="dt-published-wrapper">
+						<!-- FIXME: post.date tinha um "date_to_xmlschema" -->
+						<time class="dt-published" datetime="{{ post.date }}" itemprop="datePublished">
+							<%= formatDate(post.date) %>
+						</time>
+					</span>
+				</p>
+				<h3>
+					<a class="post-link" href="<%= post.page.url %>"><%= post.data.title %></a>
+				</h3>
+				<%_ if(post.data.excerpt) { %>
+					<p class="post-excerpt"><%= post.data.excerpt %></p>
+				<%_ } %>
+				<p class="post-categories">
+					<%_ for(const cat of post.data.categories) {
+					%><span class="post-category"><%= cat %></span><%_
+					} %>
+				</p>
+			</li>
+			<%_ } %>
+		</ul>
+	<%_ } %>
+</div>

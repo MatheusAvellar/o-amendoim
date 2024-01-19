@@ -1,0 +1,5 @@
+{
+	"eleventyComputed": {
+		"permalink": "/<%= formatDateURL(page.date) %>/<%= page.fileSlug %>"
+	}
+}

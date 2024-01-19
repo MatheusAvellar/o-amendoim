@@ -1,12 +1,30 @@
 ---
 layout: post
 lang:   "pt-br"
-ref:    "nao-sei"
-title:  "Nomes pro real? sei la"
+ref:    "apelidos-do-real"
+title:  "Apelidos do real"
 #edit:   2020-04-15 22:22:00 -0300
 excerpt: "Dilmas, golpes, taokeis... Quando isso começou?"
-categories: [pesquisa]
+categories: [pesquisa,dinheiro,real]
 ---
+
+# Réis
+
+merreis
+contos
+barão
+
+##
+https://economia.uol.com.br/noticias/redacao/2017/06/02/lula-cheddar-e-repolho-conheca-girias-para-dinheiro-ao-redor-do-mundo.htm
+grana, tutu, arame, dindim, mangos, barão, cobre, cacau, erva, pila, tostão, bufunfa, prata
+
+https://www.guiadoscuriosos.com.br/blog/bau/o-dinheiro-tem-varios-apelidos-descubra-a-origem-de-alguns-deles/
+
+
+# Presidentes
+
+A moeda brasileira, o real, tem um pequeno histórico de receber apelido com nome
+ou referência ao presidente. Reais foram famosamente chamados de "dilmas" 
 
 ## FHC (1/jan/1995—31/dez/2002)
 
@@ -27,6 +45,10 @@ https://www.ignboards.com/threads/o-cara-reclama-do-preco-dos-consoles-falando-q
 "por 600 FHCs"
 
 ## Lulas (1/jan/2003—31/dez/2010)
+
+30/nov/2007
+https://twitter.com/carloscamargo/status/458754402
+"smartphone de 1700,00 lulas"
 
 9/abr/2008
 https://comunidade.motonline.com.br/forum/capacetes/75171-peels-f21-multa.html

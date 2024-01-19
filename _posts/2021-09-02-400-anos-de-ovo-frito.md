@@ -3,14 +3,29 @@ layout: post
 lang:   "pt-br"
 ref:    "400-anos-de-ovo-frito"
 title:  "400 anos de ovo frito"
+date: 2021-09-02 00:00:00 -3
 #edit:   2020-04-15 22:22:00 -0300
 excerpt: "Como uma receita de ovo frito do século XVII se compara com uma
-          receita atual? Eu fiz ambas para descobrir!"
+					receita atual? Eu fiz ambas para descobrir!"
 categories: [pesquisa, antiguidade, gastronomia]
 ---
 
-1. (tabela de conteúdo)
-{:toc}
+<ol id="markdown-toc">
+	<li><a href="#contexto">Contexto</a></li>
+	<li>
+		<a href="#receita-de-1680">Receita de 1680</a>
+		<ol>
+			<li><a href="#resultado">Resultado</a></li>
+		</ol>
+	</li>
+	<li>
+		<a href="#receita-de-2021">Receita de 2021</a>
+		<ol>
+			<li><a href="#resultado-1">Resultado</a></li>
+		</ol>
+	</li>
+	<li><a href="#comparacao">Comparação</a></li>
+</ol>
 
 ---
 
@@ -26,23 +41,23 @@ eu fizesse uma das receitas desse livro nos dias de hoje?
 No dia, até postei um tweet fazendo piada com as receitas da época:
 
 <p class="note sidenote" style="--y:2.5em">
-  <strong>Nota:</strong> Para leitores do futuro distante, no século e local em
-  que vivo, o consumo de pombos não é costumeiro.<br><br>Caso seja para você, uau!
-  O tempo realmente é cíclico!<br><br>Caso não seja, uau! Temos tanto em comum!
+	<strong>Nota:</strong> Para leitores do futuro distante, no século e local em
+	que vivo, o consumo de pombos não é costumeiro.<br><br>Caso seja para você, uau!
+	O tempo realmente é cíclico!<br><br>Caso não seja, uau! Temos tanto em comum!
 </p>
 <blockquote class="custom-tweet">
-  <div class="profile">
-    <img class="profile-picture" src="/assets/tweet/aveiiar.jpg">
-    <b>avellar <span class="emoji twemoji coin">🪙</span></b><br><address>@aveIIar</address>
-  </div>
-  <p class="tweet-content" lang="pt">
-    eu: haha livro de receitas de 1814 quais receitas esquisitas será que eles
-    tinham <span class="emoji twemoji zany-face">🤪</span><span class="emoji twemoji zany-face">🤪</span><br><br>
-    o livro: RECEITAS DE POMBO<br><br>
-    PRIMEIRO PRATO: POMBOS DOURADOS
-  </p>
-  <img class="image" src="/assets/img/2021-09-02/EeZASlpWoAUynWr.png">
-  <a href="https://twitter.com/aveIIar/status/1289789412604248064">2:05 · 2 ago.2020</a>
+	<div class="profile">
+		<img class="profile-picture" src="/assets/tweet/aveiiar.jpg">
+		<b>avellar <span class="emoji twemoji coin">🪙</span></b><br><address>@aveIIar</address>
+	</div>
+	<p class="tweet-content" lang="pt">
+		eu: haha livro de receitas de 1814 quais receitas esquisitas será que eles
+		tinham <span class="emoji twemoji zany-face">🤪</span><span class="emoji twemoji zany-face">🤪</span><br><br>
+		o livro: RECEITAS DE POMBO<br><br>
+		PRIMEIRO PRATO: POMBOS DOURADOS
+	</p>
+	<img class="image" src="/assets/img/2021-09-02/EeZASlpWoAUynWr.png">
+	<a href="https://twitter.com/aveIIar/status/1289789412604248064">2:05 · 2 ago.2020</a>
 </blockquote>
 <link rel="stylesheet" href="/assets/tweet/tweet.css">
 <link rel="stylesheet" href="https://cdn.avl.la/emoji/emoji.css">
@@ -61,20 +76,20 @@ notar os erros e impropriedades em particular, se deve rejeitar inteiramente
 como inútil</q>:
 
 <figure class="side">
-  <img alt="Trecho do prefácio de 'Nova Arte de Cozinha', de 1785, por Lucas
+	<img alt="Trecho do prefácio de 'Nova Arte de Cozinha', de 1785, por Lucas
 Rigaud: O que me obrigou a dar à luz esta obra, foi ver um pequeno livro,
 que corre com o título de 'Arte de Cozinha', escrito no idioma Português; o que
 é tão defeituoso, que sem lhe notar os erros, e impropriedades em particular, se
 deve rejeitar inteiramente como inútil, e incompatível com os ajustados dictames
 da mesma Arte. Nesta obra, benévolo leitor, três anos de trabalho, depois de[…]'"
-    src="/assets/img/2021-09-02/cozinheiro-moderno-1785-smol.png">
-  <figcaption>
-    <em>
-      Em uma época pré-copyright, em que você poderia escrever um livro chamado
-      "Novo Harry Potter" e ainda colocar no prefácio que seu predecessor é
-      defeituoso e inútil.
-    </em>
-  </figcaption>
+		src="/assets/img/2021-09-02/cozinheiro-moderno-1785-smol.png">
+	<figcaption>
+		<em>
+			Em uma época pré-copyright, em que você poderia escrever um livro chamado
+			"Novo Harry Potter" e ainda colocar no prefácio que seu predecessor é
+			defeituoso e inútil.
+		</em>
+	</figcaption>
 </figure>
 
 Ora, se o autor do livro de 1785 diz que há uma versão mais antiga (ainda que
@@ -97,13 +112,13 @@ Tive acesso às receitas dele via uma republicação de 1821, que está
 de Portugal:
 
 <figure class="side">
-  <img alt="Capa de 'Arte de Cozinha'" src="/assets/img/2021-09-02/arte-de-cozinha-1680.png">
-  <figcaption>
-    <em>
-      Capa de "Arte de Cozinha", por Domingos Rodrigues (Lisboa, 1680;
-      republicação de 1821).
-    </em>
-  </figcaption>
+	<img alt="Capa de 'Arte de Cozinha'" src="/assets/img/2021-09-02/arte-de-cozinha-1680.png">
+	<figcaption>
+		<em>
+			Capa de "Arte de Cozinha", por Domingos Rodrigues (Lisboa, 1680;
+			republicação de 1821).
+		</em>
+	</figcaption>
 </figure>
 
 Esse foi o livro que realmente me estimulou a fazer uma receita antiga
@@ -121,12 +136,12 @@ Ainda não tenho certeza se eu que li errado, ou se a impressão que estava
 incorreta:
 
 <figure class="side">
-  <img alt="Ênfase no dígito ilegível do ano" src="/assets/img/2021-09-02/1680-1821.png">
-  <figcaption>
-    <em>
-      Cima: 1621;<br>Meio: texto do livro;<br>Baixo: 1821.
-    </em>
-  </figcaption>
+	<img alt="Ênfase no dígito ilegível do ano" src="/assets/img/2021-09-02/1680-1821.png">
+	<figcaption>
+		<em>
+			Cima: 1621;<br>Meio: texto do livro;<br>Baixo: 1821.
+		</em>
+	</figcaption>
 </figure>
 
 De qualquer forma, já havia preparado (e comido!) os pratos quando descobri
@@ -140,27 +155,27 @@ Sem mais delongas, a receita que eu escolhi para fazer a comparação, como o
 título dessa postagem sugere, é de *ovos estrelados*:
 
 <figure class="side">
-  <img alt="Transcrição da receita abaixo" src="/assets/img/2021-09-02/receita-1680.png">
-  <figcaption>
-    <em>
-      Receitas antigas são horríveis. Ingredientes? Você descobre no caminho.
-      Quantidade? Ah, vai colocando aí. Tempo? Até ficar bom, sei lá.
-    </em>
-  </figcaption>
+	<img alt="Transcrição da receita abaixo" src="/assets/img/2021-09-02/receita-1680.png">
+	<figcaption>
+		<em>
+			Receitas antigas são horríveis. Ingredientes? Você descobre no caminho.
+			Quantidade? Ah, vai colocando aí. Tempo? Até ficar bom, sei lá.
+		</em>
+	</figcaption>
 </figure>
 
 <blockquote>
-  <p>
-    <i>Ovos estrelados.</i>
-  </p>
-  <p>
-    Tomem huma pequena de manteiga, e derretendo-a em huma frigideira, e
-    deitando-lhe os ovos dentro, que se não esburagem as gemas, e então com huma
-    colher ir-lhe deitando as claras por cima das gemas até que se acabem de
-    coalher, e depois deitar-lhe pimenta por cima, e çumo de limão, e mandallos
-    á meza.
-  </p>
-  —<cite><a href="https://purl.pt/17017">Arte de Cozinha</a> (1680)</cite>
+	<p>
+		<i>Ovos estrelados.</i>
+	</p>
+	<p>
+		Tomem huma pequena de manteiga, e derretendo-a em huma frigideira, e
+		deitando-lhe os ovos dentro, que se não esburagem as gemas, e então com huma
+		colher ir-lhe deitando as claras por cima das gemas até que se acabem de
+		coalher, e depois deitar-lhe pimenta por cima, e çumo de limão, e mandallos
+		á meza.
+	</p>
+	—<cite><a href="https://purl.pt/17017">Arte de Cozinha</a> (1680)</cite>
 </blockquote>
 
 Logo de cara a receita não é amigável. Não diz quais são os ingredientes,
@@ -173,20 +188,20 @@ possui **2** resultados para "esburagem", um dos quais é o próprio livro de
 receitas; e nenhum dicionário parece conter essa palavra.
 
 <figure>
-  <img alt="Pesquisa no google por 'esburagem' mostrando apenas 2 resultados"
-       src="/assets/img/2021-09-02/esburagem.png">
+	<img alt="Pesquisa no google por 'esburagem' mostrando apenas 2 resultados"
+			 src="/assets/img/2021-09-02/esburagem.png">
 </figure>
 
 Resolvi usar 2 ovos e pimenta do reino, e tive que usar margarina por não ter
 manteiga em casa. Vale ressaltar que a receita ***não inclui sal***.
 
 <figure class="side">
-  <img alt="Mesa com 2 ovos, 1 limão, pimenta do reino e margarina" src="/assets/img/2021-09-02/ingredientes.png">
-  <figcaption>
-    <em>
-       Ingredientes para a receita do século XVII.
-    </em>
-  </figcaption>
+	<img alt="Mesa com 2 ovos, 1 limão, pimenta do reino e margarina" src="/assets/img/2021-09-02/ingredientes.png">
+	<figcaption>
+		<em>
+			 Ingredientes para a receita do século XVII.
+		</em>
+	</figcaption>
 </figure>
 
 ---
@@ -197,7 +212,7 @@ Tentei seguir a receita o mais fielmente possível. Infelizmente, uma das minhas
 gemas estourou.
 
 <p class="note sidenote" style="--y:-3.5em">
-  Melhor dizendo: uma das minhas gemas <i>esburajou</i>? <i>Sofreu esburagem</i>?
+	Melhor dizendo: uma das minhas gemas <i>esburajou</i>? <i>Sofreu esburagem</i>?
 </p>
 
 Também fui um pouco conservador no limão, porque tive medo de ficar muito forte.
@@ -206,13 +221,13 @@ Coloquei por volta de 10 gotas por cima.
 No geral, parece um ovo frito normal.
 
 <figure class="side">
-  <img alt="Ovo frito pronto" src="/assets/img/2021-09-02/resultado-1680.png">
-  <figcaption>
-    <em>
-      Resultado da receita de 1680. Pode parecer apetitoso, mas gostaria de te
-      lembrar que a receita não leva sal!
-    </em>
-  </figcaption>
+	<img alt="Ovo frito pronto" src="/assets/img/2021-09-02/resultado-1680.png">
+	<figcaption>
+		<em>
+			Resultado da receita de 1680. Pode parecer apetitoso, mas gostaria de te
+			lembrar que a receita não leva sal!
+		</em>
+	</figcaption>
 </figure>
 
 ---
@@ -235,7 +250,7 @@ pouca manteiga, usa pimenta, e curiosamente também pede o uso de uma colher no
 preparo.
 
 <figure>
-  <img alt="Print da receita; vide o site (porque ela é um pouco longa)" src="/assets/img/2021-09-02/receita-2021.png">
+	<img alt="Print da receita; vide o site (porque ela é um pouco longa)" src="/assets/img/2021-09-02/receita-2021.png">
 </figure>
 
 Também usei 2 ovos no preparo dessa receita.
@@ -248,12 +263,12 @@ Sem nada muito surpreendente, aqui está o resultado da receita nova –
 novamente, uma das gemas estourou.
 
 <figure class="side">
-  <img alt="Outro ovo frito pronto" src="/assets/img/2021-09-02/resultado-2021.png">
-  <figcaption>
-    <em>
-      É um ovo frito. Pelo menos esse leva sal.
-    </em>
-  </figcaption>
+	<img alt="Outro ovo frito pronto" src="/assets/img/2021-09-02/resultado-2021.png">
+	<figcaption>
+		<em>
+			É um ovo frito. Pelo menos esse leva sal.
+		</em>
+	</figcaption>
 </figure>
 
 ---
@@ -262,12 +277,12 @@ novamente, uma das gemas estourou.
 
 
 <figure>
-  <img alt="Ambos os ovos fritos prontos" src="/assets/img/2021-09-02/resultado-ambos.png">
-  <figcaption>
-    <em>
-      À esquerda, o ovo de 1680; à direita, o de 2021.
-    </em>
-  </figcaption>
+	<img alt="Ambos os ovos fritos prontos" src="/assets/img/2021-09-02/resultado-ambos.png">
+	<figcaption>
+		<em>
+			À esquerda, o ovo de 1680; à direita, o de 2021.
+		</em>
+	</figcaption>
 </figure>
 
 
@@ -286,7 +301,7 @@ não gostam de colocar os tempeiros *durante* o preparo do ovo, mas sim ao final
 Eu pessoalmente nunca fiz isso ao preparar um ovo; sempre coloco sal e pimenta
 enquanto ele ainda está molengão pra que os temperos sejam distribuídos mais
 uniformemente. Em 400 anos eles ainda não aprenderam o que nós, brasileiros, já
-fazemos intuitivamente <span class="twa twa-zany-face">🤪</span> Brincadeira,
+fazemos intuitivamente <span class="emoji twemoji zany-face">🤪</span> Brincadeira,
 viu, seguimores portugueses?
 
 ---

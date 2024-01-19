@@ -3,6 +3,7 @@ layout: post
 lang:   "pt-br"
 ref:    "arte-moderna"
 title:  "Sobre a arte moderna"
+date: 2020-04-15 00:00:00 -3
 #edit:   2020-04-15 22:22:00 -0300
 excerpt: "Até que tem um significado por trás"
 categories: [opinião, arte]

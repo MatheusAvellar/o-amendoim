@@ -1,0 +1,76 @@
+---
+layout: default
+---
+<%_
+const doFallback = fallback.bind(null, arguments[0]);
+excerpt = doFallback("excerpt");
+edit = doFallback("edit", 0);
+date = doFallback("date");
+title = doFallback("title");
+ref = doFallback("ref");
+lang = doFallback("lang");
+author = doFallback("author", "Matheus Avellar");
+categories = [doFallback("categories", [])].flat();
+%>
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+	<header class="post-header">
+		<p class="post-meta">
+			<span class="dt-published-wrapper">
+				Postado em
+				<!-- FIXME: post.date tinha um "date_to_xmlschema" -->
+				<time class="dt-published" datetime="<%= date %>" itemprop="datePublished">
+					<%= formatDate(date) %>
+				</time>
+			</span>
+				•
+			<span itemprop="author" itemscope itemtype="http://schema.org/Person">
+				por <strong class="p-author h-card" itemprop="name"><%= author %></strong>
+			</span>
+			<%_ if(edit) { %>
+			<span class="dt-edited-wrapper">
+				Editado em
+				<!-- FIXME: post.edit tinha um "date_to_xmlschema" -->
+				<time class="dt-edited" datetime="<%= edit %>" itemprop="dateModified">
+					<%= formatDate(edit) %>
+				</time>
+			</span>
+			<%_ } %>
+		</p>
+		<h1 class="post-title p-name" itemprop="name headline">
+			<%= title %>
+		</h1>
+	</header>
+	<div class="post-content e-content blog-post" itemprop="articleBody">
+		<%- content %>
+	</div>
+	<hr>
+	<section id="post-rating" hidden>
+		<strong>Deixe sua avaliação desse post!</strong>
+		<div id="rating-buttons">
+			<label>
+				Gostei
+				<button id="btn-like-post">
+					<img src="/assets/img/like.svg" draggable="false">
+				</button>
+				<span id="like-count"></span>
+			</label>
+			<label>
+				Meh
+				<button id="btn-meh-post">
+					<img src="/assets/img/meh.svg" draggable="false">
+				</button>
+				<span id="meh-count"></span>
+			</label>
+			<label>
+				Não gostei
+				<button id="btn-dislike-post">
+					<img src="/assets/img/dislike.svg" draggable="false">
+				</button>
+				<span id="dislike-count"></span>
+			</label>
+		</div>
+	</section>
+	<script defer src="https://www.gstatic.com/firebasejs/7.17.1/firebase-app.js"></script>
+	<script defer src="https://www.gstatic.com/firebasejs/7.17.1/firebase-firestore.js"></script>
+	<script defer src="/assets/js/init-firebase.js"></script>
+</article>

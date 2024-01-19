@@ -5,13 +5,14 @@ lang:   "pt-br"
 excerpt: "Informações meteorológicas da época, conversão interativa de réis para reais (e vice-versa), …"
 ---
 
-{% for page in site.posts %}
-  {% if page.url contains "casa-de-ferreiro" %}
- <small>(veja o post o qual esse extra complementa, '[{{page.title}}]({{ page.url }})')</small>
-  {% endif %}
-{% endfor %}
+<%_ for(const post of collections.posts) {
+	if(post.url.includes("casa-de-ferreiro")) { %>
+	<small>(veja o post ao qual esse extra complementa,
+	'<a href="<%= post.url %>"><%= post.data.title %></a>)</small>
+	<%_ }
+} %>
 
---- 
+---
 
 Você deve estar aqui porque decidiu ler mais sobre a história da imagem do <a
 href="http://memoria.bn.br/DocReader/DocReader.aspx?bib=364568_02&Pesq=%22casa%20de%20ferreiro%20espeto%20de%20pao%22&pagfis=5908">Jornal
@@ -28,14 +29,14 @@ na página de capa – e eu realmente queria tanto o cabeçalho do jornal, quant
 ditado –, então eu tecnicamente precisava da licença de <em>duas</em> páginas!
 
 <figure>
-  <img alt="Tabela contida na autorização que eu recebi, informando o custo de
+	<img alt="Tabela contida na autorização que eu recebi, informando o custo de
  R$40 pela licença das duas páginas do jornal."
-   src="/extra/assets/commercio/autorizacao.png">
-  <figcaption>
-    <em>
-      Levo processo se eu não creditar as imagens direitinho
-    </em>
-  </figcaption>
+	 src="/extra/assets/commercio/autorizacao.png">
+	<figcaption>
+		<em>
+			Levo processo se eu não creditar as imagens direitinho
+		</em>
+	</figcaption>
 </figure>
 
 Agora que eu já gastei <strong>R$40</strong> em licenças, aqui vão algumas
@@ -47,16 +48,16 @@ contidas nas duas páginas as quais eu tenho licença para uso.
 ## Lua & Temperatura
 
 <figure class="side">
-  <img alt="Trecho do 'Jornal do Commercio': informações sobre fases da lua,
+	<img alt="Trecho do 'Jornal do Commercio': informações sobre fases da lua,
  temperatura do ar e maré."
-   src="/extra/assets/commercio/lua.jpg">
-  <figcaption>
-    <em>
-      Trecho sobre fases da lua, temperatura do ar e maré.
-      <br><br>
-      Crédito: Arquivo JC/D.A Press.
-    </em>
-  </figcaption>
+	 src="/extra/assets/commercio/lua.jpg">
+	<figcaption>
+		<em>
+			Trecho sobre fases da lua, temperatura do ar e maré.
+			<br><br>
+			Crédito: Arquivo JC/D.A Press.
+		</em>
+	</figcaption>
 </figure>
 
 Primeiro de tudo, temos uma lista de fases da lua para o mês, com precisão do
@@ -71,36 +72,36 @@ reportagem é sobre temperaturas do dia 6! Ainda mais curioso é o fato de que a
 temperaturas estão em Fahrenheit, e não em Celcius.
 
 <blockquote>
-  <p>
-    <em>Temperamento do Ar</em>, do dia 6.
-  </p>
-  <dl>
-    <dt>8 horas da manhã</dt>
-    <dd>76.° Fahrenheit.</dd><br>
-    <dt>Meio dia</dt>
-    <dd>78.°</dd><br>
-    <dt>4 horas da tarde</dt>
-    <dd>80 °</dd>
-  </dl>
-  —<cite><a
+	<p>
+		<em>Temperamento do Ar</em>, do dia 6.
+	</p>
+	<dl>
+		<dt>8 horas da manhã</dt>
+		<dd>76.° Fahrenheit.</dd><br>
+		<dt>Meio dia</dt>
+		<dd>78.°</dd><br>
+		<dt>4 horas da tarde</dt>
+		<dd>80 °</dd>
+	</dl>
+	—<cite><a
 href="http://memoria.bn.br/DocReader/DocReader.aspx?bib=364568_02&Pesq=%22casa%20de%20ferreiro%20espeto%20de%20pao%22&pagfis=5908">Jornal
-      do Commercio Nº 250</a> (<a
+			do Commercio Nº 250</a> (<a
 href="https://pt.wikipedia.org/wiki/Rio_de_Janeiro">Rio de Janeiro</a>, 7 de
-      novembro de 1834).</cite>
+			novembro de 1834).</cite>
 </blockquote>
 
 Para aqueles, como eu, que não entendem Farehnheit, aqui estão as equivalências
 em Celcius:
 
 <blockquote>
-  <dl>
-    <dt>8 horas da manhã</dt>
-    <dd>24.4 °C</dd><br>
-    <dt>Meio dia</dt>
-    <dd>25.6 °C</dd><br>
-    <dt>4 horas da tarde</dt>
-    <dd>26.7 °C</dd>
-  </dl>
+	<dl>
+		<dt>8 horas da manhã</dt>
+		<dd>24.4 °C</dd><br>
+		<dt>Meio dia</dt>
+		<dd>25.6 °C</dd><br>
+		<dt>4 horas da tarde</dt>
+		<dd>26.7 °C</dd>
+	</dl>
 </blockquote>
 
 De acordo com gráficos do <a
@@ -111,16 +112,16 @@ foi de <strong>24.2 °C</strong>. E, finalmente, no período de 1931–1960, foi
 <strong>23.1 °C</strong>.
 
 <figure>
-  <img alt="Gráfico do Instituto Nacional de Meterologia comparando temperaturas
+	<img alt="Gráfico do Instituto Nacional de Meterologia comparando temperaturas
  em diferentes décadas."
-   src="/extra/assets/commercio/inmet.png">
-  <figcaption>
-    <em>
-      Gráfico comparativo de Temperatura Média (em °C) da estação da cidade do
-      Rio de Janeiro – <a
+	 src="/extra/assets/commercio/inmet.png">
+	<figcaption>
+		<em>
+			Gráfico comparativo de Temperatura Média (em °C) da estação da cidade do
+			Rio de Janeiro – <a
 href="https://clima.inmet.gov.br/GraficosClimatologicos/RJ/83377">INMET</a>.
-    </em>
-  </figcaption>
+		</em>
+	</figcaption>
 </figure>
 
 É possível perceber uma tendência de aumento de temperatura nesse intervalo de
@@ -140,13 +141,13 @@ Em outubro de 1833, foi implementada uma lei que, entre outras coisas, <q>fixa o
 novo padrão monetario</q>:
 
 <blockquote>
-  <p>
-    <b>Art.</b> 31. As notas do Banco serão divididas na razão de um, dous,
-    cinco, sendo a minima de mil réis. Ellas serão do melhor padrão, e de um
-    papel competente, e só differirão entre si pelas assignaturas do Presidente,
-    e Directores das Caixas que as emittirem.
-  </p>
-  —<cite><a
+	<p>
+		<b>Art.</b> 31. As notas do Banco serão divididas na razão de um, dous,
+		cinco, sendo a minima de mil réis. Ellas serão do melhor padrão, e de um
+		papel competente, e só differirão entre si pelas assignaturas do Presidente,
+		e Directores das Caixas que as emittirem.
+	</p>
+	—<cite><a
 href="http://legis.senado.leg.br/norma/540955/publicacao/15774685">Lei N. 59 de
 8 de outubro de 1833</a></cite>
 </blockquote>
@@ -156,21 +157,21 @@ nosso Jornal, publicado um ano depois da reforma, existem menções a preços da
 época, já em "mil-réis":
 
 <figure>
-  <img alt="Trecho do 'Jornal do Commercio': preço da assinatura do jornal."
-   src="/extra/assets/commercio/reis-1.jpg">
-  <figcaption>
-    <em>
-      Trecho que menciona o preço do jornal. Crédito: Arquivo JC/D.A Press.
-    </em>
-  </figcaption>
+	<img alt="Trecho do 'Jornal do Commercio': preço da assinatura do jornal."
+	 src="/extra/assets/commercio/reis-1.jpg">
+	<figcaption>
+		<em>
+			Trecho que menciona o preço do jornal. Crédito: Arquivo JC/D.A Press.
+		</em>
+	</figcaption>
 </figure>
 
 <blockquote>
-  <p>
-    O JORNAL DO COMMERCIO se publica diariamente; o preço da Assignatura he de
-    <strong>6$000 Rs.</strong> por semestre, <i>pagos adiantados</i>. Folha
-    avulsa, <strong>120 Rs.</strong>
-  </p>
+	<p>
+		O JORNAL DO COMMERCIO se publica diariamente; o preço da Assignatura he de
+		<strong>6$000 Rs.</strong> por semestre, <i>pagos adiantados</i>. Folha
+		avulsa, <strong>120 Rs.</strong>
+	</p>
 </blockquote>
 
 O custo da assinatura, por semestre, era 6 mil-réis, ou seja, 1 mil-réis por
@@ -207,8 +208,8 @@ Oliver Ónody. Por incrível coincidência e conveniência, Ónody disponibilizo
 tabela enorme de IPCs calculados (p.25) para os anos entre 1829 e 1958: um anjo.
 
 <figure>
-  <img alt="Parte da página 25 do livro: 'Brasil - Índice do Custo de Vida'."
-   src="/extra/assets/commercio/a-inflacao-brasileira-ipc.png">
+	<img alt="Parte da página 25 do livro: 'Brasil - Índice do Custo de Vida'."
+	 src="/extra/assets/commercio/a-inflacao-brasileira-ipc.png">
 </figure>
 
 Porém, não estamos – pelo menos, eu não estou – em 1958. Então precisamos fechar
@@ -232,14 +233,14 @@ Com essa informação, podemos calcular o preço equivalente da assinatura do
 Jornal do Commercio:
 
 <blockquote>
-  <dl>
-    <dt>Preço semestral</dt><br>
-    <dd>6$000 Rs ≅ R$261,43</dd><br>
-    (daí tiramos que) <dt>Preço mensal</dt><br>
-    <dd>1$000 Rs ≅ R$43,57</dd><br>
-    <dt>Folha avulsa</dt><br>
-    <dd>120 Rs ≅ R$5.23</dd>
-  </dl>
+	<dl>
+		<dt>Preço semestral</dt><br>
+		<dd>6$000 Rs ≅ R$261,43</dd><br>
+		(daí tiramos que) <dt>Preço mensal</dt><br>
+		<dd>1$000 Rs ≅ R$43,57</dd><br>
+		<dt>Folha avulsa</dt><br>
+		<dd>120 Rs ≅ R$5.23</dd>
+	</dl>
 </blockquote>
 
 Analisando o preço, vemos que a assinatura semestral valia super a pena:
@@ -251,7 +252,6 @@ Com um método para converter réis em reais (e vice-versa), podemos montar uma
 tabela para comparar o preço do Jornal do Commercio com preços de jornais
 atuais:
 
-{:#jornal}
 |                                    | Assinatura p/ mês (R$) |    Assinatura p/ mês (Rs)   | Cada avulso (R$) | Cada avulso (Rs) | Cada c/ assinatura (R$) | Cada c/ assinatura (Rs) |
 |------------------------------------|:----------------------:|:---------------------------:|:----------------:|:----------------:|:-----------------------:|:-----------------------:|
 | **Jornal do Commercio**<br>(1834)  |         R$43,57        |        1$000&nbsp;Rs        |       R$5,23     |   120&nbsp;Rs    |           R$1,45        |          33&nbsp;Rs     |
@@ -261,39 +261,39 @@ atuais:
 | **O Dia**<sup>4</sup><br>(2020)               |         R$52,40        |        1$203&nbsp;Rs        |       R$1,50     |    34&nbsp;Rs    |           R$1,75        |          40&nbsp;Rs     |
 
 <p class="note">
-  <strong>Nota</strong>: Tentei utilizar valores o mais próximo da situação de
-  1834 – i.e., assinatura de jornal impresso de segunda a domingo, e preço
-  semestral. Porém, nem sempre foi fácil encontrar valores para somente a
-  assinatura de jornal impresso; a maioria dos jornais só vende impresso como
-  pacote junto com acesso digital.
+	<strong>Nota</strong>: Tentei utilizar valores o mais próximo da situação de
+	1834 – i.e., assinatura de jornal impresso de segunda a domingo, e preço
+	semestral. Porém, nem sempre foi fácil encontrar valores para somente a
+	assinatura de jornal impresso; a maioria dos jornais só vende impresso como
+	pacote junto com acesso digital.
 </p>
 
 <style>
-#jornal {
-  margin-bottom: 1rem;
-  overflow-x: auto;
-  display: block;
+table {
+	margin-bottom: 1rem;
+	overflow-x: auto;
+	display: block;
 }
-#jornal th:first-of-type {
-  background-color: transparent;
-  border: 0;
+table th:first-of-type {
+	background-color: transparent;
+	border: 0;
 }
-#jornal th {
-  font-weight: 500;
+table th {
+	font-weight: 500;
 }
-#jornal tbody tr:first-of-type {
-  border-bottom: 3px solid #c9c9c9;
+table tbody tr:first-of-type {
+	border-bottom: 3px solid #c9c9c9;
 }
-#jornal tr:nth-child(even) {
-  background-color: #fefefe;
+table tr:nth-child(even) {
+	background-color: #fefefe;
 }
-#jornal td:first-of-type {
-  background-color: #f0f0f0;
-  border-color: #dedede;
-  border-right-color: #c9c9c9;
+table td:first-of-type {
+	background-color: #f0f0f0;
+	border-color: #dedede;
+	border-right-color: #c9c9c9;
 }
-#jornal td:nth-of-type(even) {
-  background-color: #eff7ff;
+table td:nth-of-type(even) {
+	background-color: #eff7ff;
 }
 </style>
 
@@ -301,13 +301,13 @@ Aqui está uma pequena ferramenta interativa para converter reais (2019) em réi
 (1834), e vice-versa:
 
 <div id="conversion">
-  <label>
-    R$ <input id="reais" type="text">
-  </label>
-  <span>=</span>
-  <label>
-    <input id="reis" type="text"> Rs
-  </label>
+	<label>
+		R$ <input id="reais" type="text">
+	</label>
+	<span>=</span>
+	<label>
+		<input id="reis" type="text"> Rs
+	</label>
 </div>
 
 <script>
@@ -317,40 +317,40 @@ const reais = document.getElementById("reais");
 const reis = document.getElementById("reis");
 
 reais.oninput = (e) => {
-  const val = +reais.value || 0;
-  reis.value = Math.round(val*ratio*100)/100;
+	const val = +reais.value || 0;
+	reis.value = Math.round(val*ratio*100)/100;
 };
 reis.oninput = (e) => {
-  const val = +reis.value || 0;
-  reais.value = Math.round(val/ratio*100)/100;
+	const val = +reis.value || 0;
+	reais.value = Math.round(val/ratio*100)/100;
 }
 </script>
 <style>
 #conversion {
-  width: 80%;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  padding: 1rem 2rem;
-  background-color: #efefef;
-  box-sizing: border-box;
-  margin: 1rem auto;
-  border-radius: 3px;
+	width: 80%;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	padding: 1rem 2rem;
+	background-color: #efefef;
+	box-sizing: border-box;
+	margin: 1rem auto;
+	border-radius: 3px;
 }
 @media screen and (max-width: 500px) {
-  #conversion {
-    width: 100%;
-    padding: .5rem 1rem;
-  }
+	#conversion {
+		width: 100%;
+		padding: .5rem 1rem;
+	}
 }
 #conversion > * {
-  flex-grow: 1;
-  text-align: center;
-  font-weight: 500;
+	flex-grow: 1;
+	text-align: center;
+	font-weight: 500;
 }
 #conversion input {
-  width: 50%;
+	width: 50%;
 }
 </style>
 
@@ -377,22 +377,22 @@ diversão mesmo.<br><br><br>
 ## Poucas novidades
 
 <figure class="side">
-  <img alt="Trecho do 'Jornal do Commercio': poucas novidades do Rio da Prata."
-   src="/extra/assets/commercio/cockatrice-1.jpg">
-  <figcaption>
-    <em>
-      Trecho sobre o paquete inglês com poucas novidades.
-      <br><br>
-      Crédito: Arquivo JC/D.A Press.
-    </em>
-  </figcaption>
+	<img alt="Trecho do 'Jornal do Commercio': poucas novidades do Rio da Prata."
+	 src="/extra/assets/commercio/cockatrice-1.jpg">
+	<figcaption>
+		<em>
+			Trecho sobre o paquete inglês com poucas novidades.
+			<br><br>
+			Crédito: Arquivo JC/D.A Press.
+		</em>
+	</figcaption>
 </figure>
 
 <blockquote>
-  <p>
-    Pelo Paquete Inglez <i>Cockatrice</i> tivemos gazetas do Rio da Prata até 25
-    do mez passado; porém poucas novidades dellas colhemos.
-  </p>
+	<p>
+		Pelo Paquete Inglez <i>Cockatrice</i> tivemos gazetas do Rio da Prata até 25
+		do mez passado; porém poucas novidades dellas colhemos.
+	</p>
 </blockquote>
 
 Uma <a href="https://pt.wikipedia.org/wiki/Cocatrice">cocatrice</a>, de onde o
@@ -400,14 +400,14 @@ nome da embaração foi tirado, é uma criatura mitológica, com corpo de um ré
 alado e cabeça de galo.
 
 <figure class="side">
-  <img alt="Brasão com desenho de uma cocatrice."
-   src="/extra/assets/commercio/cockatrice-2.png"
-   style="max-height:15rem">
-  <figcaption>
-    <em>
-      Uma cocatrice fofinha que eu decidi chamar de Francesca.
-    </em>
-  </figcaption>
+	<img alt="Brasão com desenho de uma cocatrice."
+	 src="/extra/assets/commercio/cockatrice-2.png"
+	 style="max-height:15rem">
+	<figcaption>
+		<em>
+			Uma cocatrice fofinha que eu decidi chamar de Francesca.
+		</em>
+	</figcaption>
 </figure>
 
 O **paquete** – termo para uma embarcação de tamanho médio, muitas vezes
@@ -425,42 +425,42 @@ Unidas do Rio da Prata</a> (1816–1831). Porém, considerando que é um barquin
 é bem possível que eles estivessem se referindo simplesmente a onde ele navegou.
 
 <figure class="side top">
-  <img alt="Mapa do Rio da Prata."
-   src="/extra/assets/commercio/rio-de-la-plata.png">
-  <figcaption>
-    <em>
-      O Rio da Prata (<q><i lang="es">Rio de la Plata</i></q>) em vermelho;
-      cidade do Rio de Janeiro no topo. (<strong>mapa atual</strong>)
-    </em>
-  </figcaption>
+	<img alt="Mapa do Rio da Prata."
+	 src="/extra/assets/commercio/rio-de-la-plata.png">
+	<figcaption>
+		<em>
+			O Rio da Prata (<q><i lang="es">Rio de la Plata</i></q>) em vermelho;
+			cidade do Rio de Janeiro no topo. (<strong>mapa atual</strong>)
+		</em>
+	</figcaption>
 </figure>
 
 <figure class="side bottom">
-  <img alt="Mapa do Rio da Prata."
-   src="/extra/assets/commercio/cockatrice-3.jpg">
-  <figcaption>
-    <em>
-      <q><i lang="en"><a
-      href="https://collections.rmg.co.uk/collections/objects/110304.html">Her
-      Majesty's schooner Cockatrice On the English Bank Rio de la Plata, May
-      26th 1840</a></i></q> [Escuna <i>Cockatrice</i> de Sua Majestade no Banco
-      Inglês Rio de la Plata, 26 de maio de 1840] – Webb, W H<br>
-      &copy; National Maritime Museum Collections
-    </em>
-  </figcaption>
+	<img alt="Mapa do Rio da Prata."
+	 src="/extra/assets/commercio/cockatrice-3.jpg">
+	<figcaption>
+		<em>
+			<q><i lang="en"><a
+			href="https://collections.rmg.co.uk/collections/objects/110304.html">Her
+			Majesty's schooner Cockatrice On the English Bank Rio de la Plata, May
+			26th 1840</a></i></q> [Escuna <i>Cockatrice</i> de Sua Majestade no Banco
+			Inglês Rio de la Plata, 26 de maio de 1840] – Webb, W H<br>
+			&copy; National Maritime Museum Collections
+		</em>
+	</figcaption>
 </figure>
 
 ---
 
 <!-- <figure class="side">
-  <img alt="Trecho do 'Jornal do Commercio': informações sobre guerra civil na
+	<img alt="Trecho do 'Jornal do Commercio': informações sobre guerra civil na
  fronteira do Uruguai."
-   src="/extra/assets/commercio/uruguai.jpg">
-  <figcaption>
-    <em>
-      Trecho sobre guerra civil na fronteira do Uruguai.
-      <br><br>
-      Crédito: Arquivo JC/D.A Press.
-    </em>
-  </figcaption>
+	 src="/extra/assets/commercio/uruguai.jpg">
+	<figcaption>
+		<em>
+			Trecho sobre guerra civil na fronteira do Uruguai.
+			<br><br>
+			Crédito: Arquivo JC/D.A Press.
+		</em>
+	</figcaption>
 </figure> -->
