@@ -28,3 +28,4 @@ jobs:
           publish_dir: ./_site
           github_token: ${{ secrets.GITHUB_TOKEN }}
           enable_jekyll: false
+          allow_empty_commit: true
