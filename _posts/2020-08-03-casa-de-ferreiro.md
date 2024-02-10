@@ -838,8 +838,8 @@ Havendo atualizações e novas descobertas, vou editar esse mesmo post para ter
 certeza de que as informações mais atuais estão sempre disponíveis.
 
 E caso você, querido leitor, tenha alguma sugestão, reclamação, dúvida,
-correção, ou algo desse tipo, não hesite em me enviar um email (<a
-href="o@amendo.im">o@amendo.im</a>).
+correção, ou algo desse tipo, não hesite em me enviar um email
+(<a href="mailto:o@amendo.im">o@amendo.im</a>).
 
 ---
 
