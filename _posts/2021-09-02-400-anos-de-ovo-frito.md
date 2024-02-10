@@ -4,7 +4,7 @@ lang:   "pt-br"
 ref:    "400-anos-de-ovo-frito"
 title:  "400 anos de ovo frito"
 date: 2021-09-02 00:00:00 -3
-#edit:   2020-04-15 22:22:00 -0300
+edit: 2024-02-10 00:00:00 -3
 excerpt: "Como uma receita de ovo frito do século XVII se compara com uma
 					receita atual? Eu fiz ambas para descobrir!"
 categories: [pesquisa, antiguidade, gastronomia]
@@ -182,7 +182,7 @@ Logo de cara a receita não é amigável. Não diz quais são os ingredientes,
 quantidades exatas, nem tempo exato: qual pimenta? Quanto de manteiga? Quantos
 ovos??
 
-Assumi, também, que <q>não esburagem as gemas</q> significa
+Presumi, também, que <q>não esburagem as gemas</q> significa
 "não estourem as gemas" – o Google, na data de escrita desse artigo,
 possui **2** resultados para "esburagem", um dos quais é o próprio livro de
 receitas; e nenhum dicionário parece conter essa palavra.
@@ -312,3 +312,11 @@ anteriormente, nem tudo na vida vai como a gente gostaria.
 
 Enfim, valeu aí pela atenção :) Quem sabe um dia eu fico confiante o suficiente
 pra fazer vídeos sobre as ideias bobas que eu tenho.
+
+---
+
+<strong>Edições do documento</strong>
+<p class="note">
+	<strong>Edição de 10/02/2024:</strong>
+	estrangeirismo semântico de "assumo" → "presumo".
+</p>

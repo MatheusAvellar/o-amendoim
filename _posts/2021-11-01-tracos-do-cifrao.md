@@ -4,7 +4,7 @@ lang:   "pt-br"
 ref:    "tracos-do-cifrao"
 title:  "O cifrão tem 1 ou 2 traços?"
 date: 2021-11-01 00:00:00 -3
-#edit:   2020-04-15 22:22:00 -0300
+edit: 2024-02-10 00:00:00 -3
 excerpt: "Em nenhuma moeda ou cédula do Real está presente o símbolo R$.
 					Então vem a pergunta: oficialmente, o $ possui 1 ou 2 traços?"
 categories: [pesquisa,dinheiro,real]
@@ -63,12 +63,14 @@ grafado com 1 ou 2 traços verticais cortando a letra S, assim:
 	<img alt="Ambos os cifrões, com 1 e 2 traços" src="/assets/img/2021-11-01/ambos.png">
 	<figcaption>
 		<em>
-			Wikimedia Commons
+			Wikimedia Commons:
+			"<a href="https://commons.wikimedia.org/wiki/File:Dollar_Sign.svg">Dollar Sign</a>",
+			"<a href="https://commons.wikimedia.org/wiki/File:Cifr%C3%A3o_symbol.svg">Cifrão symbol</a>"
 		</em>
 	</figcaption>
 </figure>
 
-A maioria das pessoas, eu assumo, não escolhe conscientemente qual cifrão usa no
+A maioria das pessoas, eu presumo, não escolhe conscientemente qual cifrão usa no
 dia a dia. Portanto, é possível encontrar exemplos de ambos os usos, seja em
 jornais, programas de televisão, jogos, ou o que for:
 
@@ -117,8 +119,10 @@ traços) ao invés de sua bola." src="/assets/img/2021-11-01/turma-da-monica.png
 O cifrão possui um único traço." src="/assets/img/2021-11-01/supermercado.png">
 	<figcaption>
 		<em>
-			Supermercado Extra com cifrão de 1 traço, em 2005. Imagem: <a href="https://commons.wikimedia.org/wiki/User:OS2Warp">OS2Warp</a>
+			Supermercado Extra com cifrão de 1 traço, em 2005.
+			Imagem: <a href="https://commons.wikimedia.org/wiki/User:OS2Warp">OS2Warp</a>
 			/ <a href="https://commons.wikimedia.org/wiki/File:Supermercado.jpg">Wikimedia Commons</a>
+			(<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>)
 		</em>
 	</figcaption>
 </figure>
@@ -132,7 +136,7 @@ correta do símbolo do Real? É <span class="s1">R$</span> ou
 
 ## No dinheiro
 
-Não é preciso ir muito atrás para encontrar exemplos de cifrão em dinheiro
+Não é preciso voltar muito no tempo para encontrar exemplos de cifrão em dinheiro
 brasileiro. No próprio Cruzeiro Real, a moeda que veio imediatamente antes do
 Real – e a que durou menos tempo, apenas 10 meses –, temos a presença do cifrão
 com dois traços:
@@ -281,8 +285,8 @@ descrito no próprio padrão:
 
 <blockquote>
 	<p>
-		Existem portanto muitas variantes menores, como o <code>U+0024 DOLLAR SIGN
-		$</code>, com uma ou duas barras verticais [...]
+		Existem portanto muitas variantes menores, como o
+		<code>U+0024&nbsp;DOLLAR&nbsp;SIGN&nbsp;$</code>, com uma ou duas barras verticais [...]
 	</p>
 	<p>
 		[...] o Padrão Unicode considera essas variantes como tipográficas e
@@ -294,8 +298,8 @@ descrito no próprio padrão:
 
 Assim, independentemente da quantidade de traços, o código que representa o
 cifrão será o mesmo. Por ser considerado um único símbolo, fica à escolha das
-fontes (e.g. Arial, Comic Sans) desenhar o cifrão com 1 ou 2 traços, e é uma
-decisão puramente estética:
+fontes (e.g. Arial, Comic Sans, Times New Roman) desenhar o cifrão com 1 ou 2
+traços, e é uma decisão puramente estética:
 
 <figure>
 	<img alt="Comparação do cifrão em diferentes fontes. Três de um total de nove
@@ -305,7 +309,8 @@ decisão puramente estética:
 		<em>
 			Diferentes fontes utilizando 1 e 2 traços no (mesmo) cifrão.<br>
 			Imagem: <a href="https://commons.wikimedia.org/wiki/User:Kes47">Kes47</a>
-			/ <a href="https://commons.wikimedia.org/wiki/File:Dollar_sign_fonts.svg">Wikimedia Commons</a>.
+			/ <a href="https://commons.wikimedia.org/wiki/File:Dollar_sign_fonts.svg">Wikimedia Commons</a>
+			(<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>).
 		</em>
 	</figcaption>
 </figure>
@@ -383,9 +388,9 @@ Apesar de apreciar a resposta, não levei tanta fé. O símbolo do cifrão,
 originalmente, poderia ter 2 traços, ok. Mas *e o cifrão do Real*? Usa o cifrão
 original? Ou uma das "variações"?
 
-Acredito que a pessoa responsável pelas redes sociais não tinha essa informação
-com pura certeza – o que não tem problema. Afinal, se fosse óbvio, eu não
-precisaria estar fazendo essa pesquisa toda.
+Acredito que a pessoa responsável pelas redes sociais da Casa da Moeda não tinha
+essa informação com pura certeza – o que não tem problema. Afinal, se fosse
+óbvio, eu não precisaria estar fazendo essa pesquisa toda.
 
 Além disso, me recomendaram ler o [post no Instagram](https://www.instagram.com/p/CERowygHuJ_/)
 com a história do cifrão – a mesma presente no site da Casa da Moeda. É claro
@@ -634,7 +639,7 @@ somente um."
 	</figcaption>
 </figure>
 
-Entrei em contato com o artista da charge, [Zambi](https://www.instagram.com/zambiarts),
+Entrei em contato com o artista da charge, Sandro Zamboni ([Zambi](https://www.instagram.com/zambiarts)),
 que me disse não lembrar se seguiu regra para fazer os traços na arte, e que a
 escolha foi possivelmente aleatória. Uma parte de mim esperava que a ilustração
 tivesse causado uma grande polêmica interna no jornal sobre quantidade de traços
@@ -797,7 +802,7 @@ exterior (e consequentemente importadas para o Brasil) no final do século XIX, 
 só passaram a ser produzidas nacionalmente em meados do século XX.
 
 Portanto, todo documento brasileiro produzido em máquina de escrever importada
-muito provavelmente teve que usar cfirão com somente 1 traço, mesmo que o autor
+muito provavelmente teve que usar cifrão com somente 1 traço, mesmo que o autor
 não concordasse com seu uso.
 
 Tendo isso em mente, poucos anos depois da edição d'O Paiz de 1884 acima,
@@ -938,3 +943,13 @@ Se foi o caso, sinto muito! Eu tentei!
 Para os interessados, se é que existem, a fonte usada para 1 traço foi
 <span class="s1">Arial</span> (e Helvetica como *fallback*); a para 2
 traços, <span class="s2"><a href="https://fonts.google.com/specimen/Old+Standard+TT">Old Standard TT</a></span>.
+
+---
+
+<strong>Edições do documento</strong>
+<p class="note">
+	<strong>Edição de 10/02/2024:</strong>
+	explicita licenças CC de algumas imagens; estrangeirismo semântico de "assumo"
+	→ "presumo"; pequenos trechos reescritos para clareza, erros
+	de digitação.
+</p>

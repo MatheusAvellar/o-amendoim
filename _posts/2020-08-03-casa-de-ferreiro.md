@@ -4,7 +4,7 @@ lang:   "pt-br"
 ref:    "casa-de-ferreiro"
 title:  "Qual é a origem de \"Casa de ferreiro, espeto de pau\"?"
 date: 2020-08-03 00:00:00 -3
-#edit:   2020-04-15 22:22:00 -0300
+edit: 2024-02-10 00:00:00 -3
 excerpt: "Minha busca pelo primeiro uso escrito do ditado"
 categories: [pesquisa, antiguidade, linguística]
 ---
@@ -62,7 +62,7 @@ Por nenhum motivo especial, outro dia pensei: "qual será a origem da expressão
 '*casa de ferreiro, espeto de pau*'?"
 
 No século XXI, não temos mais tantos ferreiros por aí. Então, acho que podemos
-assumir que a expressão tem origem em uma época em que ferreiros eram mais
+presumir que a expressão tem origem em uma época em que ferreiros eram mais
 comuns, i.e. pré-Revolução Industrial – que ocorreu em meados do século XVII /
 início do século XVIII.
 
@@ -793,7 +793,7 @@ para não ser deixada de lado.
 
 Adicionado a esse fato, o artigo da Wikipedia sobre Francisco Osuna diz, sem
 citações, o seguinte: <q>Osuna foi o mais lido autor espiritual na Espanha entre
-1527 e 1559</q>. Assumindo a validade dessa afirmação, não seria supreendente
+1527 e 1559</q>. Presumindo a validade dessa afirmação, não seria supreendente
 para mim se, por seu uso nesse livro, Osuna tivesse de fato solidificado a
 analogia envolvendo ferreiros e facas na mente popular.
 
@@ -857,3 +857,11 @@ confinados à Terra, ou colonizamos outros planetas? Quando, e como será que eu
 morri?
 
 A essas dúvidas simples e bobas eu nunca terei a resposta. Estranho, né?
+
+---
+
+<strong>Edições do documento</strong>
+<p class="note">
+	<strong>Edição de 10/02/2024:</strong>
+	estrangeirismo semântico de "assumir" → "presumir".
+</p>
