@@ -4,7 +4,7 @@ lang:   "pt-br"
 ref:    "tracos-do-cifrao"
 title:  "O cifrão tem 1 ou 2 traços?"
 date: 2021-11-01 00:00:00 -3
-edit: 2024-02-10 00:00:00 -3
+edit: 2024-10-21 00:00:00 -3
 excerpt: "Em nenhuma moeda ou cédula do Real está presente o símbolo R$.
 					Então vem a pergunta: oficialmente, o $ possui 1 ou 2 traços?"
 categories: [pesquisa,dinheiro,real]
@@ -43,6 +43,7 @@ categories: [pesquisa,dinheiro,real]
 	<li><a href="#o-que-disseram-os-jornais-na-epoca">O que disseram os jornais na época?</a></li>
 	<li><a href="#primeiros-cifroes-do-brasil">Primeiros cifrões do Brasil</a></li>
 	<li><a href="#conclusao">Conclusão</a></li>
+	<li><a href="#nova-moeda-de-30-anos-do-real">Nova moeda de 30 anos do real</a></li>
 	<li>
 		<a href="#epilogo">Epílogo</a>
 		<ol>
@@ -153,6 +154,14 @@ deveria ser escrito com **dois** traços, eu não sei o que é.
 
 Porém, não é tudo tão fácil. Nenhuma cédula ou moeda do Real possui o símbolo R$
 – um fato que, por si só, já deveria ser digno de revolta popular.
+
+<p class="note">
+	<strong>Nota:</strong> isso era verdade na data de escrita desse artigo. Em
+	setembro de 2024, o Banco Central aprovou uma moeda comemorativa de 1 real
+	cujo design contém o símbolo "R$"! Veja abaixo
+	<a href="#nova-moeda-de-30-anos-do-real">§ Nova moeda de 30 anos do real</a>
+	para a atualização.
+</p>
 
 Todas as cédulas, de R$1 a R$200, e todas as moedas, de R$0,01 a [R$20,00](/2020/08/17/moedas-obscuras-do-real),
 têm "Real" escrito por extenso ao invés de possuir o símbolo R$:
@@ -885,6 +894,41 @@ Portanto, acredito que a posição do Banco Central, por mais equivocada que sej
 
 ---
 
+## Nova moeda de 30 anos do real
+
+<p class="note">
+	<strong>Nota:</strong> esta seção foi adicionada em outubro de 2024.
+</p>
+
+Ao final de setembro de 2024,
+<a href="https://www.bcb.gov.br/detalhenoticia/20334/noticia">o Banco Central
+anunciou</a> que uma moeda em comemoração aos 30 anos do real (1994–2024)
+começaria a circular. O design dessa moeda, surpreendentemente, possui o símbolo,
+e ele vem com um único traço: <span class="s1">R$</span>!
+
+<figure>
+	<img alt="Reverso da moeda de 1 real comemorando 30 anos do real.
+É um design muito parecido com a moeda comum, mas com inscritos:
+'30 anos do real; 1994·2024; Brasil',
+e o símbolo R$ ao lado da efígie da república."
+	 src="/assets/img/2021-11-01/30-anos.png"
+	 style="max-height:20rem;border-radius:100%">
+	<figcaption>
+		<em>
+			Moeda de 1 real comemorando os 30 anos do real, onde há escrito
+			"<span class="s1">R$</span>".
+		</em>
+	</figcaption>
+</figure>
+
+Isso significa que toda a pesquisa foi inútil? Não! Minha conclusão se mantém:
+o Banco Central acredita que o cifrão possui 1 traço – ainda que por motivos
+discutíveis – e, devido a essa crença, a moeda possui o símbolo com um traço.
+
+Ainda assim, é legal finalmente ter uma moeda contendo o símbolo dela própria!
+
+---
+
 ## Epílogo
 
 ### Custo
@@ -947,6 +991,12 @@ traços, <span class="s2"><a href="https://fonts.google.com/specimen/Old+Standar
 ---
 
 <strong>Edições do documento</strong>
+<p class="note">
+	<strong>Edição de 21/10/2024:</strong>
+	agora existe uma moeda de curso legal com o cifrão, de R$1,
+	<a href="https://en.numista.com/catalogue/pieces435300.html">comemorando 30
+	anos do Real</a>; o artigo foi atualizado de acordo com essa mudança.
+</p>
 <p class="note">
 	<strong>Edição de 10/02/2024:</strong>
 	explicita licenças CC de algumas imagens; estrangeirismo semântico de "assumo"
